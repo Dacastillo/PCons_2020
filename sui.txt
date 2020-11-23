@@ -1,40 +1,18 @@
-0. ¡En nombre de Dios omnipotente! El pueblo suizo y los cantones, Conscientes de su responsabilidad frente a la Creación aspirando a renovar la Confederación afín de fortalecer libertad, democracia, independencia y la paz en un espíritu de solidaridad y apertura hacia el mundo, deseando y convivir en unidad con respeto mutuo y en consideración su diversidad, conscientes de los logros comunes y de la responsabilidad frente a las generaciones futuras sabiendo que sólo es libre el que utiliza su libertad y que la fuerza de una comunidad se mide en el bienestar de los menos afortunados, se otorgan la siguiente constitución:
-1.1. El pueblo Suizo y los cantones de Zurich, Berna, Lucerna, Uri, Schwyz,
+0.0 ¡En nombre de Dios omnipotente! El pueblo suizo y los cantones, Conscientes de su responsabilidad frente a la Creación aspirando a renovar la Confederación afín de fortalecer libertad, democracia, independencia y la paz en un espíritu de solidaridad y apertura hacia el mundo, deseando y convivir en unidad con respeto mutuo y en consideración su diversidad, conscientes de los logros comunes y de la responsabilidad frente a las generaciones futuras sabiendo que sólo es libre el que utiliza su libertad y que la fuerza de una comunidad se mide en el bienestar de los menos afortunados, se otorgan la siguiente constitución:
+0.1. El pueblo Suizo y los cantones de Zurich, Berna, Lucerna, Uri, Schwyz,
 Unterwalden (Alto y bajo), Glaris, Zug, Friburgo, Soleura, Basilea (Ciudad y
 Campo), Schaffhausen, Appenzell (las dos Rodas), Saint-Gall, Grissones, Argovia,
 Turgovia, Tesino, Vaud, Valais, Neuchatel, Ginebra y Jura forman la Confederación
 Suiza.
-Art. 2 Objetivo
-1
- La Confederación protege la libertad y los derechos del pueblo y garantiza la
-independencia y seguridad del país.
-2
- Promueve la prosperidad común, el desarrollo duradero, la cohesión interna y la
-diversidad cultural del país.
-3
- Vela por la igualdad de oportunidades posible entre los suizos y las suizas.
-4
- Se compromete a favor de la conservación duradera de las condiciones de vida
+0.2. La Confederación protege la libertad y los derechos del pueblo y garantiza la
+independencia y seguridad del país. Promueve la prosperidad común, el desarrollo duradero, la cohesión interna y la diversidad cultural del país. Vela por la igualdad de oportunidades posible entre los suizos y las suizas. Se compromete a favor de la conservación duradera de las condiciones de vida
 naturales y de un pacífico y justo Orden Internacional.
-Art. 3 Cantones
-Los cantones son soberanos en los límites de la Constitución Federal y, como tales,
+0.3 Los cantones son soberanos en los límites de la Constitución Federal y, como tales,
 ejercerán todos los derechos no delegados al poder federal. 
-2
-Art. 4 Idiomas nacionales
-Los idiomas nacionales son el alemán, el francés, el italiano y el retorromano.
-Art. 5 Principios del Estado de Derecho
-1
- El fundamento y límite de la soberanía estatal es el derecho.
-2
- La actividad estatal interviene en el interés público y es proporcional.
-3
- Los órganos públicos y privados actuarán conforme a los principios de buena fe.
-4
- La Confederación y los cantones respetarán el Derecho Internacional.
-Art. 6 Responsabilidad de la persona y de la sociedad
-Toda persona es responsable de sí misma y asumirá conformemente a su capacidad
+0.4. Los idiomas nacionales son el alemán, el francés, el italiano y el retorromano.
+0.5. El fundamento y límite de la soberanía estatal es el derecho. La actividad estatal interviene en el interés público y es proporcional. Los órganos públicos y privados actuarán conforme a los principios de buena fe. La Confederación y los cantones respetarán el Derecho Internacional.
+0.6. Toda persona es responsable de sí misma y asumirá conformemente a su capacidad
 tareas sociales y estatales.
-Título 2º: Derechos Fundamentales, Ciudadanía y objetivos Sociales
 Capítulo 1: Derechos Fundamentales
 Art. 7 Dignidad humana
 La dignidad humana debe ser respetada y protegida.
