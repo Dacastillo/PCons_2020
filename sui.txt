@@ -1,20 +1,5 @@
-Constitución Federal de la Confederación Suiza
-del 18 de abril de 1999
-"Traducción inoficial"
-¡En nombre de Dios omnipotente!
-El pueblo suizo y los cantones,
-Conscientes de su responsabilidad frente a la Creación
-aspirando a renovar la Confederación afín de fortalecer libertad, democracia,
-independencia y la paz en un espíritu de solidaridad y apertura hacia el mundo,
-deseando y convivir en unidad con respeto mutuo y en consideración su diversidad,
-conscientes de los logros comunes y de la responsabilidad frente a las generaciones
-futuras
-sabiendo que sólo es libre el que utiliza su libertad y que la fuerza de una comunidad
-se mide en el bienestar de los menos afortunados,
-se otorgan la siguiente constitución:
-Título 1: Disposiciones Generales
-Art. 1 Confederación Suiza
-El pueblo Suizo y los cantones de Zurich, Berna, Lucerna, Uri, Schwyz,
+0. ¡En nombre de Dios omnipotente! El pueblo suizo y los cantones, Conscientes de su responsabilidad frente a la Creación aspirando a renovar la Confederación afín de fortalecer libertad, democracia, independencia y la paz en un espíritu de solidaridad y apertura hacia el mundo, deseando y convivir en unidad con respeto mutuo y en consideración su diversidad, conscientes de los logros comunes y de la responsabilidad frente a las generaciones futuras sabiendo que sólo es libre el que utiliza su libertad y que la fuerza de una comunidad se mide en el bienestar de los menos afortunados, se otorgan la siguiente constitución:
+1.1. El pueblo Suizo y los cantones de Zurich, Berna, Lucerna, Uri, Schwyz,
 Unterwalden (Alto y bajo), Glaris, Zug, Friburgo, Soleura, Basilea (Ciudad y
 Campo), Schaffhausen, Appenzell (las dos Rodas), Saint-Gall, Grissones, Argovia,
 Turgovia, Tesino, Vaud, Valais, Neuchatel, Ginebra y Jura forman la Confederación
