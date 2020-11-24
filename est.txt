@@ -1,41 +1,19 @@
-0. Right to self determination With unwavering faith and a steadfast will to strengthen and develop the state, which embodies the inextinguishable right of the people of Estonia to national self-determination and which was proclaimed on 24 February 1918, which is founded on liberty, justice and the rule of law, which is created to protect the peace and defend the people against aggression from the outside, and which forms a pledge to present and future generations for their social progress and welfare, which must guarantee the preservation of the Estonian people, the Estonian language and the Estonian culture through the ages, the people of Estonia, on the basis of Article 1 of the Constitution which entered into force in 1938, and in the referendum held on 28 June 1992, have adopted the following Constitution.
-CHAPTER I: GENERAL PROVISIONS
-Article 1
-Estonia is an independent and sovereign democratic republic wherein the supreme
-power of state is vested in the people.
-• Type of government envisioned
-The independence and sovereignty of Estonia are timeless and inalienable.
-Article 2
-The land, territorial waters and airspace of the Estonian state are an inseparable and
-indivisible whole.
-Estonia is politically a unitary state wherein administrative division shall be provided
-by law.
-Article 3
-The state authority shall be exercised solely pursuant to the Constitution and laws
+0.1. Right to self determination With unwavering faith and a steadfast will to strengthen and develop the state, which embodies the inextinguishable right of the people of Estonia to national self-determination and which was proclaimed on 24 February 1918, which is founded on liberty, justice and the rule of law, which is created to protect the peace and defend the people against aggression from the outside, and which forms a pledge to present and future generations for their social progress and welfare, which must guarantee the preservation of the Estonian people, the Estonian language and the Estonian culture through the ages, the people of Estonia, on the basis of Article 1 of the Constitution which entered into force in 1938, and in the referendum held on 28 June 1992, have adopted the following Constitution.
+1.1. Estonia is an independent and sovereign democratic republic wherein the supreme
+power of state is vested in the people. The independence and sovereignty of Estonia are timeless and inalienable.
+1.2 The land, territorial waters and airspace of the Estonian state are an inseparable and
+indivisible whole. Estonia is politically a unitary state wherein administrative division shall be provided by law.
+1.3. The state authority shall be exercised solely pursuant to the Constitution and laws
 which are in conformity therewith. Generally recognized principles and rules of
-international law are an inseparable part of the Estonian legal system.
-• Customary international law
-• International law
-Laws shall be published in the prescribed manner. Only published laws have
+international law are an inseparable part of the Estonian legal system. Laws shall be published in the prescribed manner. Only published laws have
 obligatory force.
-Article 4
-The activities of the Riigikogu (Parliament of Estonia), the President of the Republic,
-the Government of the Republic, and the courts shall be organized on the principle of
-separation and balance of powers.
-• Ownership of natural resources Article 5
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 4
-The natural wealth and resources of Estonia are national riches which shall be used
+1.4. The activities of the Riigikogu (Parliament of Estonia), the President of the Republic, the Government of the Republic, and the courts shall be organized on the principle of separation and balance of powers.
+1.5. The natural wealth and resources of Estonia are national riches which shall be used
 economically.
-• Official or national languages Article 6
-The official language of Estonia is Estonian.
-• National flag Article 7
-The national colors of Estonia are blue, black and white. The design of the national
+1.6. The official language of Estonia is Estonian.
+1.7. The national colors of Estonia are blue, black and white. The design of the national
 flag and the national coat of arms shall be provided by law.
-CHAPTER II: FUNDAMENTAL RIGHTS,
-FREEDOMS AND DUTIES
-• Requirements for birthright citizenship Article 8 • Conditions for revoking citizenship
-Every child of whose parents one is an Estonian citizen has the right to Estonian
+2.1  Every child of whose parents one is an Estonian citizen has the right to Estonian
 citizenship by birth.
 Everyone who has lost his or her Estonian citizenship as a minor has the right to its
 resumption.

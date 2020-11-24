@@ -1,214 +1,120 @@
 0.0 ¡En nombre de Dios omnipotente! El pueblo suizo y los cantones, Conscientes de su responsabilidad frente a la Creación aspirando a renovar la Confederación afín de fortalecer libertad, democracia, independencia y la paz en un espíritu de solidaridad y apertura hacia el mundo, deseando y convivir en unidad con respeto mutuo y en consideración su diversidad, conscientes de los logros comunes y de la responsabilidad frente a las generaciones futuras sabiendo que sólo es libre el que utiliza su libertad y que la fuerza de una comunidad se mide en el bienestar de los menos afortunados, se otorgan la siguiente constitución:
-0.1. El pueblo Suizo y los cantones de Zurich, Berna, Lucerna, Uri, Schwyz,
-Unterwalden (Alto y bajo), Glaris, Zug, Friburgo, Soleura, Basilea (Ciudad y
-Campo), Schaffhausen, Appenzell (las dos Rodas), Saint-Gall, Grissones, Argovia,
-Turgovia, Tesino, Vaud, Valais, Neuchatel, Ginebra y Jura forman la Confederación
-Suiza.
-0.2. La Confederación protege la libertad y los derechos del pueblo y garantiza la
-independencia y seguridad del país. Promueve la prosperidad común, el desarrollo duradero, la cohesión interna y la diversidad cultural del país. Vela por la igualdad de oportunidades posible entre los suizos y las suizas. Se compromete a favor de la conservación duradera de las condiciones de vida
-naturales y de un pacífico y justo Orden Internacional.
-0.3 Los cantones son soberanos en los límites de la Constitución Federal y, como tales,
-ejercerán todos los derechos no delegados al poder federal. 
+0.1. El pueblo Suizo y los cantones de Zurich, Berna, Lucerna, Uri, Schwyz, Unterwalden (Alto y bajo), Glaris, Zug, Friburgo, Soleura, Basilea (Ciudad y Campo), Schaffhausen, Appenzell (las dos Rodas), Saint-Gall, Grissones, Argovia, Turgovia, Tesino, Vaud, Valais, Neuchatel, Ginebra y Jura forman la Confederación Suiza.
+0.2. La Confederación protege la libertad y los derechos del pueblo y garantiza la independencia y seguridad del país. Promueve la prosperidad común, el desarrollo duradero, la cohesión interna y la diversidad cultural del país. Vela por la igualdad de oportunidades posible entre los suizos y las suizas. Se compromete a favor de la conservación duradera de las condiciones de vida naturales y de un pacífico y justo Orden Internacional.
+0.3 Los cantones son soberanos en los límites de la Constitución Federal y, como tales, ejercerán todos los derechos no delegados al poder federal. 
 0.4. Los idiomas nacionales son el alemán, el francés, el italiano y el retorromano.
 0.5. El fundamento y límite de la soberanía estatal es el derecho. La actividad estatal interviene en el interés público y es proporcional. Los órganos públicos y privados actuarán conforme a los principios de buena fe. La Confederación y los cantones respetarán el Derecho Internacional.
-0.6. Toda persona es responsable de sí misma y asumirá conformemente a su capacidad
-tareas sociales y estatales.
-Capítulo 1: Derechos Fundamentales
-Art. 7 Dignidad humana
-La dignidad humana debe ser respetada y protegida.
-Art. 8 Igualdad ante la Ley
-1
- Todas las personas son iguales ante la Ley.
-2
- Nadie puede ser discriminado por razón de origen, raza, sexo, edad, idioma,
-posición social, forma de vida, creencias religiosas, ideológicas o políticas o por
-incapacidades físicas, mentales o psíquicas.
-3
- Los hombres y las mujeres son iguales ante la ley. La legislación vela por la
-igualdad de derecho y de hecho, en particular en lo relativo a la familia, la formación
-y el trabajo. El hombre y la mujer tienen derecho a un salario igual por un trabajo
-equivalente.
-4
- La Ley prevé medidas en orden a eliminar desigualdades que afecten a las personas
+0.6. Toda persona es responsable de sí misma y asumirá conformemente a su capacidad tareas sociales y estatales.
+1.1. La dignidad humana debe ser respetada y protegida.
+1.2. Todas las personas son iguales ante la Ley.
+1.3. Nadie puede ser discriminado por razón de origen, raza, sexo, edad, idioma, posición social, forma de vida, creencias religiosas, ideológicas o políticas o por incapacidades físicas, mentales o psíquicas.
+1.4. Los hombres y las mujeres son iguales ante la ley. La legislación vela por la igualdad de derecho y de hecho, en particular en lo relativo a la familia, la formación y el trabajo. El hombre y la mujer tienen derecho a un salario igual por un trabajo equivalente.
+1.5. La Ley prevé medidas en orden a eliminar desigualdades que afecten a las personas
 inválidas o mutiladas.
-Art. 9 Protección contra la arbitrariedad y defensa de la buena fe
+1.6. Protección contra la arbitrariedad y defensa de la buena fe
 Toda persona tiene derecho a ser tratada por los órganos estatales sin arbitrariedad y
 conforme a los principios de buena fe.
-Art. 10 Derecho a la vida y a la libertad personal
-1
- Toda persona tiene derecho a la vida. La pena de muerte está prohibida.
-2
- Toda persona tiene derecho a la libertad personal, especialmente a la integridad
+1.7. Toda persona tiene derecho a la vida. La pena de muerte está prohibida.
+1.8. Toda persona tiene derecho a la libertad personal, especialmente a la integridad
 física y moral y a la libertad de movimiento.
-3
- La tortura y cualquier otro tipo de trato o castigo inhumano o degradante están
+1.9. La tortura y cualquier otro tipo de trato o castigo inhumano o degradante están
 prohibidos. 
-3
-Art. 11 Protección de la Infancia y la Juventud
-1
- Los niños y los jóvenes tienen derecho a una especial protección de su integridad y
+1.10. Los niños y los jóvenes tienen derecho a una especial protección de su integridad y
 a un fomento de su desarrollo.
-2
- En la medida de su capacidad de discernimiento ejercen ellos mismos sus
+1.11.En la medida de su capacidad de discernimiento ejercen ellos mismos sus
 derechos.
-Art. 12 Derecho al auxilio en situación de desamparo
-Aquél que se encuentre en una situación de desamparo y no pueda asumir su
+1.12. Aquél que se encuentre en una situación de desamparo y no pueda asumir su
 manutención, tiene derecho a ser auxiliado y asistido, y de recibir los medios
 indispensables para llevar una existencia digna de su condición humana.
-Art. 13 Protección de la esfera privada
-1
- Toda persona tiene derecho al respeto de su vida familiar y privada, de su
+1.13. Toda persona tiene derecho al respeto de su vida familiar y privada, de su
 domicilio, de su correspondencia, así como de sus relaciones postales y de sus
 telecomunicaciones.
-2
- Toda persona tiene el derecho a ser protegido contra el empleo abusivo de sus
+1.14. Toda persona tiene el derecho a ser protegido contra el empleo abusivo de sus
 datos personales.
-Art. 14 Derecho al matrimonio y a la familia
-El derecho al matrimonio y a la familia estas garantizados.
-Art. 15 Libertad de conciencia y religiosa
-1
- Se garantiza la libertad de conciencia y religión.
-2
- Toda persona tiene derecho a elegir libremente sus creencias religiosas, así como a
+1.15. El derecho al matrimonio y a la familia estas garantizados.
+1.16. Se garantiza la libertad de conciencia y religión.
+1.17. Toda persona tiene derecho a elegir libremente sus creencias religiosas, así como a
 formarse sus propias convicciones filosóficas y a profesarlas individual o
 colectivamente.
-3
- Toda persona tiene derecho de adherirse o pertenecer a una comunidad religiosa,
+1.18. Toda persona tiene derecho de adherirse o pertenecer a una comunidad religiosa,
 así como de recibir sus enseñanzas.
-4
- Nadie puede ser obligado a adherirse o pertenecer a una comunidad religiosa,
+1.19. Nadie puede ser obligado a adherirse o pertenecer a una comunidad religiosa,
 realizar algún acto religioso o recibir enseñanza religiosa.
-Art. 16 Libertad de opinión e información
-1
- Se garantiza la libertad de opinión e información.
-2
- Toda persona tiene derecho a formar, exteriorizar y comunicar libremente su
+1.20. Se garantiza la libertad de opinión e información.
+1.21. Toda persona tiene derecho a formar, exteriorizar y comunicar libremente su
 opinión.
-3
- Toda persona tiene derecho a recibir libremente información, a obtenerla de
+1.22. Toda persona tiene derecho a recibir libremente información, a obtenerla de
 medios comúnmente accesibles y a difundirla libremente.
-Art. 17 Libertad de medios de información
-1
- Queda garantizada la libertad de prensa, radio y televisión, así como de cualquier
+1.23. Queda garantizada la libertad de prensa, radio y televisión, así como de cualquier
 otra forma de difusión e información procedente de las telecomunicaciones públicas.
-2
- Se prohibe la censura. 
-4
-3
- Se garantiza el secreto de redacción.
-Art. 18 Libertad de idioma
-Se garantiza la libertad del idioma.
-Art. 19 Derecho a una Enseñanza Básica
-Se garantiza el derecho a la enseñanza básica suficiente y gratuita.
-Art. 20 Libertad científica
-La libertad de enseñanza y de investigación científica están garantizadas.
-Art. 21 Libertad artística
-Se garantiza la libertad artística.
-Art. 22 Libertad de reunión
-1
- Se garantiza la libertad de reunión
-2
- Toda persona tiene derecho a organizar reuniones y a tomar o no parte en ellas.
-Art. 23 Libertad de asociación
-1
- Se garantiza la libertad de asociación.
-2
- Toda persona tiene derecho a crear asociaciones, a adherirse y pertenecer a ellas y
+1.24. Se prohibe la censura. 
+1.25. Se garantiza el secreto de redacción.
+1.26. Se garantiza la libertad del idioma.
+1.27. Se garantiza el derecho a la enseñanza básica suficiente y gratuita.
+1.28. La libertad de enseñanza y de investigación científica están garantizadas.
+1.29. Se garantiza la libertad artística.
+1.30. Se garantiza la libertad de reunión
+1.31. Toda persona tiene derecho a organizar reuniones y a tomar o no parte en ellas.
+1.32. Se garantiza la libertad de asociación.
+1.33. Toda persona tiene derecho a crear asociaciones, a adherirse y pertenecer a ellas y
 a participar en actividades asociativas.
-3
- Nadie puede ser obligado a adherirse o pertenecer a una asociación.
-Art. 24 Libertad para fijar la residencia
-1
- Los suizos y suizas tiene derecho a fijar su residencia en cualquier lugar del
+1.34. Nadie puede ser obligado a adherirse o pertenecer a una asociación.
+1.35. Los suizos y suizas tiene derecho a fijar su residencia en cualquier lugar del
 territorio nacional.
-2
- Tienen derecho a dejar de residir, así como a volver a establecer su residencia en
+1.36. Tienen derecho a dejar de residir, así como a volver a establecer su residencia en
 Suiza.
-Art. 25 Protección contra la expulsión y la extradición
-1
- Los ciudadanos y ciudadanas suizas no pueden ser expulsados del país; no pueden
+1.37. Los ciudadanos y ciudadanas suizas no pueden ser expulsados del país; no pueden
 ser remitidos a una autoridad extranjera sin su permiso.
-2
- Los refugiados no pueden ser expulsados o extraídos a un país o a las autoridades
+1.38. Los refugiados no pueden ser expulsados o extraídos a un país o a las autoridades
 del mismo, donde son perseguidos.
-3
- Nadie puede ser expulsado a un país en el que corra el riesgo de sufrir torturas o
+1.39. Nadie puede ser expulsado a un país en el que corra el riesgo de sufrir torturas o
 cualquier otro tipo de trato o pena cruel e inhumana.
-Art. 26 Garantía de la propiedad privada
-1
- Se garantiza la propiedad privada. 
-5
-2
- Las expropiaciones, o restricciones de la propiedad privadas que equivalgan a una
+1.40. Se garantiza la propiedad privada. 
+1.41. Las expropiaciones, o restricciones de la propiedad privadas que equivalgan a una
 expropiación, deben ser indemnizadas plenamente.
-Art. 27 Libertad económica
-1
- Se garantiza la libertad económica.
-2
- Esta comprende especialmente la libre elección de la profesión, el libre acceso a
+1.42. Se garantiza la libertad económica.
+1.43. Esta comprende especialmente la libre elección de la profesión, el libre acceso a
 una actividad económica lucrativa y la libertad de su ejercicio.
-Art. 28 Libertad de asociaciones sindicales y empresariales
-1
- Trabajadores y empresarios así como sus organizaciones, tienen derecho de
+1.44. Trabajadores y empresarios así como sus organizaciones, tienen derecho de
 sindicarse para la defensa de sus intereses, de crear asociaciones y de adherirse o
 permanecer ajeno a ellas.
-2
- Los conflictos se solucionarán en la medida de lo posible mediante negociación o
+1.45. Los conflictos se solucionarán en la medida de lo posible mediante negociación o
 mediación.
-3
- La huelga y el cierre empresarial son lícitos siempre y cuando atañan a las
+1.46. La huelga y el cierre empresarial son lícitos siempre y cuando atañan a las
 relaciones laborales y no sean contrarias a las obligaciones acordadas y respeten
 aquellas de preservar la paz en el trabajo y de recurrir a una conciliación.
-4
- La Ley podrá prohibir la huelga a determinadas categorías de personas.
+1.47. La Ley podrá prohibir la huelga a determinadas categorías de personas.
 Art. 29 Garantías generales procesales
-1
- Toda persona tiene derecho, en un proceso judicial o administrativo, a un trato
+1.48. Toda persona tiene derecho, en un proceso judicial o administrativo, a un trato
 equitativo y justo, así como a que se le juzgue en un plazo razonable.
-2
- Todas las partes del proceso tiene derecho a ser oídas.
-3
- Toda persona que no disponga de recursos tiene derecho a una asistencia jurídica
+1.49. Todas las partes del proceso tiene derecho a ser oídas.
+1.50. Toda persona que no disponga de recursos tiene derecho a una asistencia jurídica
 gratuita, a no ser que su causa no aparezca absolutamente infundada. Asimismo
 tiene derecho a la asistencia gratuita de un defensor en la medida en que la
 salvaguarda de sus derechos así lo requiera.
-Art. 30 Garantías del proceso judicial
-1
- Toda persona cuya causa deba ser juzgada en un proceso judicial tiene derecho a
+1.51. Toda persona cuya causa deba ser juzgada en un proceso judicial tiene derecho a
 que dicha causa sea llevada ante un tribunal establecido conforme a la legislación,
 competente, independiente e imparcial. Se prohiben los tribunales de excepción.
-2
- La persona contra la cual se ejerce una acción civil tiene derecho a que su causa
+1.52. La persona contra la cual se ejerce una acción civil tiene derecho a que su causa
 sea llevada delante de un tribunal competente para su lugar de domicilio. La ley
 podrá prever otro fuero.
-3
- La actuación judicial y la lectura de la sentencia serán públicos. La ley podrá
+1.53. La actuación judicial y la lectura de la sentencia serán públicos. La ley podrá
 prever excepciones.
-Art. 31 Privación de Libertad
-1
- Nadie puede ser privado de su libertad si no es en los casos previstos por la ley y
+1.54. Nadie puede ser privado de su libertad si no es en los casos previstos por la ley y
 en las formas que ésta prescriba.
-2
- Toda persona que se vea privada de su libertad debe ser informada, de forma
-inmediata y en un idioma que ella comprenda, de las razones de esta privación y de 
-6
-sus derechos. Tiene que tener la posibilidad de poder hacer valer dichos derechos.
+1.55. Toda persona que se vea privada de su libertad debe ser informada, de forma
+inmediata y en un idioma que ella comprenda, de las razones de esta privación y de sus derechos. Tiene que tener la posibilidad de poder hacer valer dichos derechos.
 Especialmente tiene el derecho de informar a sus allegados.
-3
- Toda persona puesta en detención preventiva tiene el derecho ser llevada de
+1.56. Toda persona puesta en detención preventiva tiene el derecho ser llevada de
 inmediato ante un juez que se pronunciará sobre si debe seguir detenido o puesto en
 libertad. Toda persona en prisión preventiva tiene derecho a ser juzgada en un plazo
 razonable.
-4
- Toda persona que se vea privada de su libertad sin que un tribunal así lo haya
+1.57. Toda persona que se vea privada de su libertad sin que un tribunal así lo haya
 ordenado, tiene derecho en todo momento a invocar un juez. Éste debe decidir en el
 plazo más breve posible sobre la legalidad de dicha privación de libertad.
-Art. 32 Procedimiento penal
-1
- Toda persona es considerada inocente, mientras no sea objeto de una sentencia
+1.58. Toda persona es considerada inocente, mientras no sea objeto de una sentencia
 firme condenatoria.
-2
- Toda persona acusada tiene derecho a ser informado en la mayor brevedad posible
+1.59. Toda persona acusada tiene derecho a ser informado en la mayor brevedad posible
 y de manera detallada de las acusaciones contra ella formuladas. Debe poder ejercer
 sus derechos de defensa.
 3
