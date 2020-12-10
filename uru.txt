@@ -4,59 +4,29 @@
 1.4. La soberanía en toda su plenitud existe radicalmente en la Nación, a la que compete el derecho exclusivo de establecer sus leyes, del modo que más adelante se expresará.
 1.5. Todos los cultos religiosos son libres en el Uruguay. El Estado no sostiene religión alguna. Reconoce a la Iglesia Católica el dominio de todos los templos que hayan sido total o parcialmente construidos con fondos del Erario Nacional, exceptuándose sólo las capillas destinadas al servicio de asilos, hospitales, cárceles u otros establecimientos públicos. Declara, asimismo, exentos de toda clase de impuestos a los templos consagrados al culto de las diversas religiones.
 1.6. En los tratados internacionales que celebre la República propondrá la cláusula de que todas las diferencias que surjan entre las partes contratantes, serán decididas por el arbitraje u otros medios pacíficos. La República procurará la integración social y económica de los Estados Latinoamericanos, especialmente en lo que se refiere a la defensa común de sus productos y materias primas. Asimismo, propenderá a la efectiva complementación de sus servicios públicos.
-
-SECCION II
-DERECHOS, DEBERES Y GARANTIAS
-CAPITULO I
-Artículo 7º.- Los habitantes de la República tienen derecho a ser protegidos en el goce de su vida, honor, libertad, seguridad, trabajo y propiedad. Nadie puede ser privado de estos derechos sino conforme a las leyes que se establecieren por razones de interés general.
-
-Artículo 8º.- Todas las personas son iguales ante la ley, no reconociéndose otra distinción entre ellas sino la de los talentos o las virtudes.
-
-Artículo 9º.- Se prohíbe la fundación de mayorazgos. Ninguna autoridad de la República podrá conceder título alguno de nobleza, ni honores o distinciones hereditarias.
-
-Artículo 10.- Las acciones privadas de las personas que de ningún modo atacan el orden público ni perjudican a un tercero, están exentas de la autoridad de los magistrados.
-
-Ningún habitante de la República será obligado a hacer lo que no manda la ley, ni privado de lo que ella no prohíbe.
-
-Artículo 11.- El hogar es un sagrado inviolable. De noche nadie podrá entrar en él sin consentimiento de su jefe, y de día, sólo de orden expresa de Juez competente, por escrito y en los casos determinados por la ley.
-
-Artículo 12.- Nadie puede ser penado ni confinado sin forma de proceso y sentencia legal.
-
-Artículo 13.- La ley ordinaria podrá establecer el juicio por jurados en las causas criminales.
-
-Artículo 14.- No podrá imponerse la pena de confiscación de bienes por razones de carácter político.
-
-Artículo 15.- Nadie puede ser preso sino infraganti delito o habiendo semiplena prueba de él, por orden escrita de Juez competente.
-
-Artículo 16.- En cualquiera de los casos del artículo anterior, el Juez, bajo la más seria responsabilidad, tomará al arrestado su declaración dentro de veinticuatro horas, y dentro de cuarenta y ocho, lo más, empezará el sumario. La declaración del acusado deberá ser tomada en presencia de su defensor. Este tendrá también el derecho de asistir a todas las diligencias sumariales.
-
-Artículo 17.- En caso de prisión indebida el interesado o cualquier persona podrá interponer ante el Juez competente el recurso de "habeas corpus", a fin de que la autoridad aprehensora explique y justifique de inmediato el motivo legal de la aprehensión, estándose a lo que decida el Juez indicado.
-
-Artículo 18.- Las leyes fijarán el orden y las formalidades de los juicios.
-
-Artículo 19.- Quedan prohibidos los juicios por comisión.
-
-Artículo 20.- Quedan abolidos los juramentos de los acusados en sus declaraciones o confesiones, sobre hecho propio; y prohibido el que sean tratados en ellas como reos.
-
-Artículo 21.- Queda igualmente vedado el juicio criminal en rebeldía. La ley proveerá lo conveniente a este respecto.
-
-Artículo 22.- Todo juicio criminal empezará por acusación de parte o del acusador público, quedando abolidas las pesquisas secretas.
-
-Artículo 23.- Todos los Jueces son responsables ante la ley, de la más pequeña agresión contra los derechos de las personas, así como por separarse del orden de proceder que en ella se establezca.
-
-Artículo 24.- El Estado, los Gobiernos Departamentales, los Entes Autónomos, los Servicios Descentralizados y, en general, todo órgano del Estado, serán civilmente responsables del daño causado a terceros, en la ejecución de los servicios públicos, confiados a su gestión o dirección.
-
-Artículo 25.- Cuando el daño haya sido causado por sus funcionarios, en el ejercicio de sus funciones o en ocasión de ese ejercicio, en caso de haber obrado con culpa grave o dolo, el órgano público correspondiente podrá repetir contra ellos, lo que hubiere pagado en reparación.
-
-Artículo 26.- A nadie se le aplicará la pena de muerte.
-
-En ningún caso se permitirá que las cárceles sirvan para mortificar, y sí sólo para asegurar a los procesados y penados, persiguiendo su reeducación, la aptitud para el trabajo y la profilaxis del delito.
-
-Artículo 27.- En cualquier estado de una causa criminal de que no haya de resultar pena de penitenciaría, los Jueces podrán poner al acusado en libertad, dando fianza según la ley.
-
-Artículo 28.- Los papeles de los particulares y su correspondencia epistolar, telegráfica o de cualquier otra especie, son inviolables, y nunca podrá hacerse su registro, examen o interceptación sino conforme a las leyes que se establecieren por razones de interés general.
-
-Artículo 29.- Es enteramente libre en toda materia la comunicación de pensamientos por palabras, escritos privados o publicados en la prensa, o por cualquier otra forma de divulgación, sin necesidad de previa censura; quedando responsable el autor y, en su caso, el impresor o emisor, con arreglo a la ley por los abusos que cometieren.
+2.1 Los habitantes de la República tienen derecho a ser protegidos en el goce de su vida, honor, libertad, seguridad, trabajo y propiedad. Nadie puede ser privado de estos derechos sino conforme a las leyes que se establecieren por razones de interés general.
+2.2 Todas las personas son iguales ante la ley, no reconociéndose otra distinción entre ellas sino la de los talentos o las virtudes.
+2.3 Se prohíbe la fundación de mayorazgos. Ninguna autoridad de la República podrá conceder título alguno de nobleza, ni honores o distinciones hereditarias.
+2.4 Las acciones privadas de las personas que de ningún modo atacan el orden público ni perjudican a un tercero, están exentas de la autoridad de los magistrados. Ningún habitante de la República será obligado a hacer lo que no manda la ley, ni privado de lo que ella no prohíbe.
+2.5 El hogar es un sagrado inviolable. De noche nadie podrá entrar en él sin consentimiento de su jefe, y de día, sólo de orden expresa de Juez competente, por escrito y en los casos determinados por la ley.
+2.6 Nadie puede ser penado ni confinado sin forma de proceso y sentencia legal.
+2.7 La ley ordinaria podrá establecer el juicio por jurados en las causas criminales.
+2.8 No podrá imponerse la pena de confiscación de bienes por razones de carácter político.
+2.9 Nadie puede ser preso sino infraganti delito o habiendo semiplena prueba de él, por orden escrita de Juez competente.
+2.11 En cualquiera de los casos del artículo anterior, el Juez, bajo la más seria responsabilidad, tomará al arrestado su declaración dentro de veinticuatro horas, y dentro de cuarenta y ocho, lo más, empezará el sumario. La declaración del acusado deberá ser tomada en presencia de su defensor. Este tendrá también el derecho de asistir a todas las diligencias sumariales.
+2.12 En caso de prisión indebida el interesado o cualquier persona podrá interponer ante el Juez competente el recurso de "habeas corpus", a fin de que la autoridad aprehensora explique y justifique de inmediato el motivo legal de la aprehensión, estándose a lo que decida el Juez indicado.
+2.13 Las leyes fijarán el orden y las formalidades de los juicios.
+2.14 Quedan prohibidos los juicios por comisión.
+2.15 Quedan abolidos los juramentos de los acusados en sus declaraciones o confesiones, sobre hecho propio; y prohibido el que sean tratados en ellas como reos.
+2.16 Queda igualmente vedado el juicio criminal en rebeldía. La ley proveerá lo conveniente a este respecto.
+2.17 Todo juicio criminal empezará por acusación de parte o del acusador público, quedando abolidas las pesquisas secretas.
+2.18 Todos los Jueces son responsables ante la ley, de la más pequeña agresión contra los derechos de las personas, así como por separarse del orden de proceder que en ella se establezca.
+2.19 El Estado, los Gobiernos Departamentales, los Entes Autónomos, los Servicios Descentralizados y, en general, todo órgano del Estado, serán civilmente responsables del daño causado a terceros, en la ejecución de los servicios públicos, confiados a su gestión o dirección.
+2.20 Cuando el daño haya sido causado por sus funcionarios, en el ejercicio de sus funciones o en ocasión de ese ejercicio, en caso de haber obrado con culpa grave o dolo, el órgano público correspondiente podrá repetir contra ellos, lo que hubiere pagado en reparación.
+2.21 A nadie se le aplicará la pena de muerte. En ningún caso se permitirá que las cárceles sirvan para mortificar, y sí sólo para asegurar a los procesados y penados, persiguiendo su reeducación, la aptitud para el trabajo y la profilaxis del delito.
+2.22 En cualquier estado de una causa criminal de que no haya de resultar pena de penitenciaría, los Jueces podrán poner al acusado en libertad, dando fianza según la ley.
+2.23 Los papeles de los particulares y su correspondencia epistolar, telegráfica o de cualquier otra especie, son inviolables, y nunca podrá hacerse su registro, examen o interceptación sino conforme a las leyes que se establecieren por razones de interés general.
+2.24. Es enteramente libre en toda materia la comunicación de pensamientos por palabras, escritos privados o publicados en la prensa, o por cualquier otra forma de divulgación, sin necesidad de previa censura; quedando responsable el autor y, en su caso, el impresor o emisor, con arreglo a la ley por los abusos que cometieren.
 
 Artículo 30.- Todo habitante tiene derecho de petición para ante todas y cualesquiera autoridades de la República.
 
