@@ -9,44 +9,25 @@
 1.2. Todas las personas son iguales ante la Ley.
 1.3. Nadie puede ser discriminado por razón de origen, raza, sexo, edad, idioma, posición social, forma de vida, creencias religiosas, ideológicas o políticas o por incapacidades físicas, mentales o psíquicas.
 1.4. Los hombres y las mujeres son iguales ante la ley. La legislación vela por la igualdad de derecho y de hecho, en particular en lo relativo a la familia, la formación y el trabajo. El hombre y la mujer tienen derecho a un salario igual por un trabajo equivalente.
-1.5. La Ley prevé medidas en orden a eliminar desigualdades que afecten a las personas
-inválidas o mutiladas.
-1.6. Protección contra la arbitrariedad y defensa de la buena fe
-Toda persona tiene derecho a ser tratada por los órganos estatales sin arbitrariedad y
-conforme a los principios de buena fe.
+1.5. La Ley prevé medidas en orden a eliminar desigualdades que afecten a las personas inválidas o mutiladas.
+1.6. Protección contra la arbitrariedad y defensa de la buena fe. Toda persona tiene derecho a ser tratada por los órganos estatales sin arbitrariedad y conforme a los principios de buena fe.
 1.7. Toda persona tiene derecho a la vida. La pena de muerte está prohibida.
-1.8. Toda persona tiene derecho a la libertad personal, especialmente a la integridad
-física y moral y a la libertad de movimiento.
-1.9. La tortura y cualquier otro tipo de trato o castigo inhumano o degradante están
-prohibidos. 
-1.10. Los niños y los jóvenes tienen derecho a una especial protección de su integridad y
-a un fomento de su desarrollo.
-1.11.En la medida de su capacidad de discernimiento ejercen ellos mismos sus
-derechos.
-1.12. Aquél que se encuentre en una situación de desamparo y no pueda asumir su
-manutención, tiene derecho a ser auxiliado y asistido, y de recibir los medios
-indispensables para llevar una existencia digna de su condición humana.
-1.13. Toda persona tiene derecho al respeto de su vida familiar y privada, de su
-domicilio, de su correspondencia, así como de sus relaciones postales y de sus
-telecomunicaciones.
-1.14. Toda persona tiene el derecho a ser protegido contra el empleo abusivo de sus
-datos personales.
+1.8. Toda persona tiene derecho a la libertad personal, especialmente a la integridad física y moral y a la libertad de movimiento.
+1.9. La tortura y cualquier otro tipo de trato o castigo inhumano o degradante están  prohibidos. 
+1.10. Los niños y los jóvenes tienen derecho a una especial protección de su integridad y a un fomento de su desarrollo.
+1.11.En la medida de su capacidad de discernimiento ejercen ellos mismos sus derechos.
+1.12. Aquél que se encuentre en una situación de desamparo y no pueda asumir su manutención, tiene derecho a ser auxiliado y asistido, y de recibir los medios indispensables para llevar una existencia digna de su condición humana.
+1.13. Toda persona tiene derecho al respeto de su vida familiar y privada, de su domicilio, de su correspondencia, así como de sus relaciones postales y de sus telecomunicaciones.
+1.14. Toda persona tiene el derecho a ser protegido contra el empleo abusivo de sus datos personales.
 1.15. El derecho al matrimonio y a la familia estas garantizados.
 1.16. Se garantiza la libertad de conciencia y religión.
-1.17. Toda persona tiene derecho a elegir libremente sus creencias religiosas, así como a
-formarse sus propias convicciones filosóficas y a profesarlas individual o
-colectivamente.
-1.18. Toda persona tiene derecho de adherirse o pertenecer a una comunidad religiosa,
-así como de recibir sus enseñanzas.
-1.19. Nadie puede ser obligado a adherirse o pertenecer a una comunidad religiosa,
-realizar algún acto religioso o recibir enseñanza religiosa.
+1.17. Toda persona tiene derecho a elegir libremente sus creencias religiosas, así como a formarse sus propias convicciones filosóficas y a profesarlas individual o colectivamente.
+1.18. Toda persona tiene derecho de adherirse o pertenecer a una comunidad religiosa, así como de recibir sus enseñanzas.
+1.19. Nadie puede ser obligado a adherirse o pertenecer a una comunidad religiosa, realizar algún acto religioso o recibir enseñanza religiosa.
 1.20. Se garantiza la libertad de opinión e información.
-1.21. Toda persona tiene derecho a formar, exteriorizar y comunicar libremente su
-opinión.
-1.22. Toda persona tiene derecho a recibir libremente información, a obtenerla de
-medios comúnmente accesibles y a difundirla libremente.
-1.23. Queda garantizada la libertad de prensa, radio y televisión, así como de cualquier
-otra forma de difusión e información procedente de las telecomunicaciones públicas.
+1.21. Toda persona tiene derecho a formar, exteriorizar y comunicar libremente su opinión.
+1.22. Toda persona tiene derecho a recibir libremente información, a obtenerla de medios comúnmente accesibles y a difundirla libremente.
+1.23. Queda garantizada la libertad de prensa, radio y televisión, así como de cualquier otra forma de difusión e información procedente de las telecomunicaciones públicas.
 1.24. Se prohibe la censura. 
 1.25. Se garantiza el secreto de redacción.
 1.26. Se garantiza la libertad del idioma.
@@ -56,242 +37,77 @@ otra forma de difusión e información procedente de las telecomunicaciones púb
 1.30. Se garantiza la libertad de reunión
 1.31. Toda persona tiene derecho a organizar reuniones y a tomar o no parte en ellas.
 1.32. Se garantiza la libertad de asociación.
-1.33. Toda persona tiene derecho a crear asociaciones, a adherirse y pertenecer a ellas y
-a participar en actividades asociativas.
+1.33. Toda persona tiene derecho a crear asociaciones, a adherirse y pertenecer a ellas y a participar en actividades asociativas.
 1.34. Nadie puede ser obligado a adherirse o pertenecer a una asociación.
-1.35. Los suizos y suizas tiene derecho a fijar su residencia en cualquier lugar del
-territorio nacional.
-1.36. Tienen derecho a dejar de residir, así como a volver a establecer su residencia en
-Suiza.
-1.37. Los ciudadanos y ciudadanas suizas no pueden ser expulsados del país; no pueden
-ser remitidos a una autoridad extranjera sin su permiso.
-1.38. Los refugiados no pueden ser expulsados o extraídos a un país o a las autoridades
-del mismo, donde son perseguidos.
-1.39. Nadie puede ser expulsado a un país en el que corra el riesgo de sufrir torturas o
-cualquier otro tipo de trato o pena cruel e inhumana.
+1.35. Los suizos y suizas tiene derecho a fijar su residencia en cualquier lugar del territorio nacional.
+1.36. Tienen derecho a dejar de residir, así como a volver a establecer su residencia en Suiza.
+1.37. Los ciudadanos y ciudadanas suizas no pueden ser expulsados del país; no pueden ser remitidos a una autoridad extranjera sin su permiso.
+1.38. Los refugiados no pueden ser expulsados o extraídos a un país o a las autoridades del mismo, donde son perseguidos.
+1.39. Nadie puede ser expulsado a un país en el que corra el riesgo de sufrir torturas o cualquier otro tipo de trato o pena cruel e inhumana.
 1.40. Se garantiza la propiedad privada. 
-1.41. Las expropiaciones, o restricciones de la propiedad privadas que equivalgan a una
-expropiación, deben ser indemnizadas plenamente.
+1.41. Las expropiaciones, o restricciones de la propiedad privadas que equivalgan a una expropiación, deben ser indemnizadas plenamente.
 1.42. Se garantiza la libertad económica.
-1.43. Esta comprende especialmente la libre elección de la profesión, el libre acceso a
-una actividad económica lucrativa y la libertad de su ejercicio.
-1.44. Trabajadores y empresarios así como sus organizaciones, tienen derecho de
-sindicarse para la defensa de sus intereses, de crear asociaciones y de adherirse o
-permanecer ajeno a ellas.
-1.45. Los conflictos se solucionarán en la medida de lo posible mediante negociación o
-mediación.
-1.46. La huelga y el cierre empresarial son lícitos siempre y cuando atañan a las
-relaciones laborales y no sean contrarias a las obligaciones acordadas y respeten
-aquellas de preservar la paz en el trabajo y de recurrir a una conciliación.
+1.43. Esta comprende especialmente la libre elección de la profesión, el libre acceso a una actividad económica lucrativa y la libertad de su ejercicio.
+1.44. Trabajadores y empresarios así como sus organizaciones, tienen derecho de sindicarse para la defensa de sus intereses, de crear asociaciones y de adherirse o permanecer ajeno a ellas.
+1.45. Los conflictos se solucionarán en la medida de lo posible mediante negociación o mediación.
+1.46. La huelga y el cierre empresarial son lícitos siempre y cuando atañan a las relaciones laborales y no sean contrarias a las obligaciones acordadas y respeten aquellas de preservar la paz en el trabajo y de recurrir a una conciliación.
 1.47. La Ley podrá prohibir la huelga a determinadas categorías de personas.
-Art. 29 Garantías generales procesales
-1.48. Toda persona tiene derecho, en un proceso judicial o administrativo, a un trato
-equitativo y justo, así como a que se le juzgue en un plazo razonable.
+1.48. Toda persona tiene derecho, en un proceso judicial o administrativo, a un trato equitativo y justo, así como a que se le juzgue en un plazo razonable.
 1.49. Todas las partes del proceso tiene derecho a ser oídas.
-1.50. Toda persona que no disponga de recursos tiene derecho a una asistencia jurídica
-gratuita, a no ser que su causa no aparezca absolutamente infundada. Asimismo
-tiene derecho a la asistencia gratuita de un defensor en la medida en que la
-salvaguarda de sus derechos así lo requiera.
-1.51. Toda persona cuya causa deba ser juzgada en un proceso judicial tiene derecho a
-que dicha causa sea llevada ante un tribunal establecido conforme a la legislación,
-competente, independiente e imparcial. Se prohiben los tribunales de excepción.
-1.52. La persona contra la cual se ejerce una acción civil tiene derecho a que su causa
-sea llevada delante de un tribunal competente para su lugar de domicilio. La ley
-podrá prever otro fuero.
-1.53. La actuación judicial y la lectura de la sentencia serán públicos. La ley podrá
-prever excepciones.
-1.54. Nadie puede ser privado de su libertad si no es en los casos previstos por la ley y
-en las formas que ésta prescriba.
-1.55. Toda persona que se vea privada de su libertad debe ser informada, de forma
-inmediata y en un idioma que ella comprenda, de las razones de esta privación y de sus derechos. Tiene que tener la posibilidad de poder hacer valer dichos derechos.
-Especialmente tiene el derecho de informar a sus allegados.
-1.56. Toda persona puesta en detención preventiva tiene el derecho ser llevada de
-inmediato ante un juez que se pronunciará sobre si debe seguir detenido o puesto en
-libertad. Toda persona en prisión preventiva tiene derecho a ser juzgada en un plazo
-razonable.
-1.57. Toda persona que se vea privada de su libertad sin que un tribunal así lo haya
-ordenado, tiene derecho en todo momento a invocar un juez. Éste debe decidir en el
-plazo más breve posible sobre la legalidad de dicha privación de libertad.
-1.58. Toda persona es considerada inocente, mientras no sea objeto de una sentencia
-firme condenatoria.
-1.59. Toda persona acusada tiene derecho a ser informado en la mayor brevedad posible
-y de manera detallada de las acusaciones contra ella formuladas. Debe poder ejercer
-sus derechos de defensa.
-3
- Toda persona condenada tiene derecho a que la sentencia sea examinada por una
-jurisdicción más alta. Se excluyen los casos en los que el tribunal federal actúa en
-instancia única.
-Art. 33 Derecho de petición
-1
- Toda persona tiene derecho a dirigir peticiones a las autoridades públicas sin que
-ello le cause ningún perjuicio.
-2
- Las autoridades deben tener conocimiento de dichas peticiones.
-Art. 34 Derechos políticos
-1
- Se garantizan los derechos políticos.
-2
- La garantía de los derechos políticos protege la libre formación de la opinión de los
-ciudadanos y ciudadanas y la expresión legítima de su voluntad.
-Art. 35 Ejecución de los derechos fundamentales
-1 Los derechos fundamentales deben ser respetados en el conjunto del Orden
-Jurídico.
-2 Aquel que realice cualquier actividad estatal estará obligado a respetar los derechos
-fundamentales y a contribuir a su realización.
-3 Las autoridades velarán para que los derechos fundamentales siempre que se
-presten a ello, también se respeten en las relaciones entre particulares.
-Art. 36 Restricción de los derechos fundamentales
-1 Toda restricción de un derecho fundamental necesita en una base legal. Las
-restricciones graves deberán estar previstas por una ley. Se excluirán de esta
-exigencia los casos de peligro serio, directo e inminente. 
-7
-2
- Toda restricción de un derecho fundamental deberá estar justificada por un interés
-público o por la protección del derecho fundamental de un tercero.
-3 Toda restricción de un derecho fundamental deberá ser proporcional al su fin.
-4
- La esencia de los derechos fundamentales es inviolable.
-Capítulo 2: Nacionalidad y derechos políticos
-Art. 37 Nacionalidad y ciudadanía
-1
- Todo ciudadano de un cantón y de un municipio en Suiza es ciudadano suizo
-2
- Nadie podrá ser favorecido o perjudicado en razón de su ciudadanía. Se excluyen
-de este principio la normativa sobre los derechos políticos comunales y de las
-corporaciones, así como la participación en los bienes de esta última, si la
-legislación cantonal no dispone de otra manera.
-Art. 38 Adquisición y pérdida de la nacionalidad y de los derechos de
-ciudadanía
-1
- La Confederación regulará la adquisición y pérdida de la nacionalidad y del
-derecho de ciudadanía por filiación, matrimonio o adopción. Regulará asimismo la
-pérdida de la nacionalidad suiza por otros motivos y la reintegración de la misma.
-2
- La Confederación establecerá las disposiciones mínimas para la adquisición de la
-nacionalidad suiza de los extranjeros por medio de los cantones y otorgará las
-autorizaciones de nacionalización.
-3
- La Confederación facilitará la nacionalización de los niños apátridas.
-Art. 39 Ejercicio de los derechos políticos
-1
- La Confederación regulará el ejercicio de los derechos políticos a nivel federal; los
-cantones regularán estos derechos a nivel cantonal y municipal.
-2
- Los derechos políticos se ejercen en el lugar de domicilio. La Confederación y los
-cantones podrán prever excepciones.
-3
- Nadie puede ejercer derechos políticos en más de un cantón.
-4
- Los cantones podrán establecer que las personas recién establecidas en su territorio
-no ejerzan el derecho de voto a nivel cantonal y municipal hasta pasado un plazo
-máximo de tres meses desde el cambio de domicilio.
-Art. 40 Suizos y Suizas residentes en el extranjero
-1
- La Confederación contribuirá a reforzar los lazos de los suizos y suizas residentes
-en el extranjero entre ellos y hacia Suiza. Podrá subvencionar organizaciones que
-persigan este fin.
-2
- Elaborará la normativa sobre los derechos y obligaciones de los Suizos y Suizas
-residentes en el extranjero, especialmente en lo relativo al ejercicio de los derechos
-políticos a nivel federal, el cumplimiento del servicio militar o sustitutorio, la
-asistencia a los necesitados y los seguros sociales. 
-8
-Capítulo 3: Objetivos sociales
-Art. 41
-1
- La Confederación y los cantones promoverán, completando la responsabilidad
-individual y a la iniciativa privada, el que:
-a. toda persona disponga de seguridad social;
-b. toda persona obtenga los cuidados médicos necesarios para su salud;
-c. las familias en tanto que comunidades de adultos y niños sean protegidas y
-fomentadas.
-d. toda persona capaz de trabajar pueda asegurar su mantenimiento por medio
-de un trabajo que ejerza en condiciones adecuadas;
-e. toda persona en busca de una vivienda, encuentre para sí y su familia una
-vivienda digna conforme a sus medios;
-f. los niños y jóvenes, así como las personas en edad de trabajar puedan
-beneficiarse de una formación tanto inicial, como continua correspondiente a
-sus aptitudes;
-g. se estimule a los niños y jóvenes a convertirse en personas independientes y
-socialmente responsables y sean apoyados en orden a su integración social,
-cultural y política;
-2
- La Confederación y los cantones abogarán por que toda persona esté asegurada
-contra las consecuencias económicas de la edad, de la invalidez, de la enfermedad,
-de los accidentes, del paro, de la maternidad y de las condiciones de huérfano y de
-viudedad.
-3
- Aspiran a estos objetivos sociales en el marco de sus competencias
-constitucionales y de los medios disponibles.
-4
- No pueden deducirse directamente de estos objetivos sociales derechos subjetivos
-a prestaciones del Estado.
-Título 3ª: Confederación, cantones y municipios
-Capítulo 1º: Relaciones de la Confederación y los cantones
-Sección 1ª: Función de la Confederación y los cantones
-Art. 42 Función de la Confederación
-1
- La confederación cumplirá con las funciones que le asigna la Constitución.
-2
- Asumirá aquellas funciones que deban ser reguladas de manera uniforme.
-Art. 43 Función de los cantones
-Los cantones definirán las atribuciones a realizar en el marco de sus competencias.
-9
-Sección 2ª: Colaboración entre la Confederación y los Cantones
-Art. 44 Principios
-1
- La Confederación y los cantones se apoyarán mutuamente en el cumplimiento de
-sus deberes y colaborarán entre ellos.
-2
- Se deberán respeto y mutua asistencia. Se prestarán recíprocamente ayuda
-administrativa y judicial.
-3
- Los conflictos entre Cantones, o entre Cantones y la Confederación, se
-solucionarán en la medida de lo posible por medio de negociación o mediación.
-Art. 45 Participación en las tomas de decisión de la Confederación
-1
- Los cantones participarán en aquellos casos previstos por la Constitución, en las
-tomas de decisión de la Confederación, especialmente en cuanto a la elaboración de
-la legislación.
-2
- La Confederación informará en un tiempo razonable y detalladamente a los
-cantones sobre sus proyectos; la Confederación consulta los cantones cuando estos
-se ven afectados en sus intereses.
-Art. 46 Aplicación del Derecho Federal
-1
- Los Cantones aplicarán el derecho conforme a la Constitución y la Ley.
-2
- La Confederación otorgará a los cantones un margen de acción amplio como sea
-posible y tomará las particularidades cantonales en consideración.
-3
- La Confederación asumirá la carga financiera que se desprende de la aplicación del
-derecho federal mediante la adjudicación a los cantones de suficientes fuentes de
-financiación y procurará una compensación financiera equitativa entre cantones.
-Art. 47 Independencia de los Cantones
-La Confederación garantizará la independencia de los Cantones.
-Art. 48 Acuerdos entre cantones
-1 Los cantones podrán realizar acuerdos entre ellos, así como crear organizaciones e
-instituciones. Podrán llevar a cabo de manera conjunta tareas de interés regional.
-2
- La Confederación podrá participar en dichos acuerdos dentro de los límites de sus
-competencias.
-3
- Los acuerdos intercantonales no podrán ser contrarios al Derecho o a los intereses
-de la Confederación o de otros cantones. La Confederación será informada de los
-mismos.
-Art. 49 Primacía del Derecho Federal
-1
- El Derecho Federal prima siempre sobre el Derecho Cantonal que le sea contrario.
-2
- La Confederación velará por que los cantones respeten el Derecho Federal. 
-10
-Sección 3ª: Municipios
-Art. 50
-1
- Se garantizará la autonomía municipal dentro de los límites fijados por el Derecho
-Cantonal.
-2
- La Confederación tomará en consideración los posibles efectos de su actividad
+1.50. Toda persona que no disponga de recursos tiene derecho a una asistencia jurídica gratuita, a no ser que su causa no aparezca absolutamente infundada. Asimismo tiene derecho a la asistencia gratuita de un defensor en la medida en que la salvaguarda de sus derechos así lo requiera.
+1.51. Toda persona cuya causa deba ser juzgada en un proceso judicial tiene derecho a que dicha causa sea llevada ante un tribunal establecido conforme a la legislación, competente, independiente e imparcial. Se prohiben los tribunales de excepción.
+1.52. La persona contra la cual se ejerce una acción civil tiene derecho a que su causa sea llevada delante de un tribunal competente para su lugar de domicilio. La ley podrá prever otro fuero.
+1.53. La actuación judicial y la lectura de la sentencia serán públicos. La ley podrá prever excepciones.
+1.54. Nadie puede ser privado de su libertad si no es en los casos previstos por la ley y en las formas que ésta prescriba.
+1.55. Toda persona que se vea privada de su libertad debe ser informada, de forma inmediata y en un idioma que ella comprenda, de las razones de esta privación y de sus derechos. Tiene que tener la posibilidad de poder hacer valer dichos derechos. Especialmente tiene el derecho de informar a sus allegados.
+1.56. Toda persona puesta en detención preventiva tiene el derecho ser llevada de inmediato ante un juez que se pronunciará sobre si debe seguir detenido o puesto en libertad. Toda persona en prisión preventiva tiene derecho a ser juzgada en un plazo razonable.
+1.57. Toda persona que se vea privada de su libertad sin que un tribunal así lo haya ordenado, tiene derecho en todo momento a invocar un juez. Éste debe decidir en el plazo más breve posible sobre la legalidad de dicha privación de libertad.
+1.58. Toda persona es considerada inocente, mientras no sea objeto de una sentencia firme condenatoria.
+1.59. Toda persona acusada tiene derecho a ser informado en la mayor brevedad posible y de manera detallada de las acusaciones contra ella formuladas. Debe poder ejercer sus derechos de defensa.
+1.60. Toda persona condenada tiene derecho a que la sentencia sea examinada por una jurisdicción más alta. Se excluyen los casos en los que el tribunal federal actúa en instancia única.
+1.61. Toda persona tiene derecho a dirigir peticiones a las autoridades públicas sin que ello le cause ningún perjuicio. Las autoridades deben tener conocimiento de dichas peticiones.
+1.62. Se garantizan los derechos políticos.
+1.63. La garantía de los derechos políticos protege la libre formación de la opinión de los ciudadanos y ciudadanas y la expresión legítima de su voluntad.
+1.64. Los derechos fundamentales deben ser respetados en el conjunto del Orden Jurídico.
+1.65. Aquel que realice cualquier actividad estatal estará obligado a respetar los derechos fundamentales y a contribuir a su realización.
+1.66. Las autoridades velarán para que los derechos fundamentales siempre que se presten a ello, también se respeten en las relaciones entre particulares.
+1.67. Toda restricción de un derecho fundamental necesita en una base legal. Las restricciones graves deberán estar previstas por una ley. Se excluirán de esta exigencia los casos de peligro serio, directo e inminente. 
+1.68. Toda restricción de un derecho fundamental deberá estar justificada por un interés público o por la protección del derecho fundamental de un tercero.
+1.69. Toda restricción de un derecho fundamental deberá ser proporcional al su fin.
+1.70. La esencia de los derechos fundamentales es inviolable.
+2.1 Todo ciudadano de un cantón y de un municipio en Suiza es ciudadano suizo.
+2.2 Nadie podrá ser favorecido o perjudicado en razón de su ciudadanía. Se excluyen de este principio la normativa sobre los derechos políticos comunales y de las corporaciones, así como la participación en los bienes de esta última, si la legislación cantonal no dispone de otra manera.
+2.3. La Confederación regulará la adquisición y pérdida de la nacionalidad y del derecho de ciudadanía por filiación, matrimonio o adopción. Regulará asimismo la pérdida de la nacionalidad suiza por otros motivos y la reintegración de la misma.
+2.4. La Confederación establecerá las disposiciones mínimas para la adquisición de la nacionalidad suiza de los extranjeros por medio de los cantones y otorgará las autorizaciones de nacionalización. La Confederación facilitará la nacionalización de los niños apátridas.
+2.5. La Confederación regulará el ejercicio de los derechos políticos a nivel federal; los cantones regularán estos derechos a nivel cantonal y municipal.
+2.6. Los derechos políticos se ejercen en el lugar de domicilio. La Confederación y los cantones podrán prever excepciones.
+2.7. Nadie puede ejercer derechos políticos en más de un cantón.
+2.5. Los cantones podrán establecer que las personas recién establecidas en su territorio no ejerzan el derecho de voto a nivel cantonal y municipal hasta pasado un plazo máximo de tres meses desde el cambio de domicilio.
+2.6. La Confederación contribuirá a reforzar los lazos de los suizos y suizas residentes en el extranjero entre ellos y hacia Suiza. Podrá subvencionar organizaciones que persigan este fin.
+2.7. Elaborará la normativa sobre los derechos y obligaciones de los Suizos y Suizas residentes en el extranjero, especialmente en lo relativo al ejercicio de los derechos políticos a nivel federal, el cumplimiento del servicio militar o sustitutorio, la asistencia a los necesitados y los seguros sociales. 
+3.1 La Confederación y los cantones promoverán, completando la responsabilidad individual y a la iniciativa privada, el que toda persona disponga de seguridad social; toda persona obtenga los cuidados médicos necesarios para su salud;las familias en tanto que comunidades de adultos y niños sean protegidas y fomentadas. toda persona capaz de trabajar pueda asegurar su mantenimiento por medio de un trabajo que ejerza en condiciones adecuadas; toda persona en busca de una vivienda, encuentre para sí y su familia una vivienda digna conforme a sus medios;  los niños y jóvenes, así como las personas en edad de trabajar puedan beneficiarse de una formación tanto inicial, como continua correspondiente a sus aptitudes; se estimule a los niños y jóvenes a convertirse en personas independientes y socialmente responsables y sean apoyados en orden a su integración social, cultural y política;
+3.2. La Confederación y los cantones abogarán por que toda persona esté asegurada contra las consecuencias económicas de la edad, de la invalidez, de la enfermedad, de los accidentes, del paro, de la maternidad y de las condiciones de huérfano y de viudedad.
+3.3.Aspiran a estos objetivos sociales en el marco de sus competencias constitucionales y de los medios disponibles.
+3.4. No pueden deducirse directamente de estos objetivos sociales derechos subjetivos a prestaciones del Estado.
+4.1. La confederación cumplirá con las funciones que le asigna la Constitución.
+4.2. Asumirá aquellas funciones que deban ser reguladas de manera uniforme.
+4.3. Los cantones definirán las atribuciones a realizar en el marco de sus competencias.
+4.4. La Confederación y los cantones se apoyarán mutuamente en el cumplimiento de sus deberes y colaborarán entre ellos.
+4.5. cSe deberán respeto y mutua asistencia. Se prestarán recíprocamente ayuda administrativa y judicial.
+4.6. Los conflictos entre Cantones, o entre Cantones y la Confederación, se solucionarán en la medida de lo posible por medio de negociación o mediación.
+4.7. Los cantones participarán en aquellos casos previstos por la Constitución, en las tomas de decisión de la Confederación, especialmente en cuanto a la elaboración de la legislación.
+4.8. La Confederación informará en un tiempo razonable y detalladamente a los cantones sobre sus proyectos; la Confederación consulta los cantones cuando estos se ven afectados en sus intereses.
+4.9. Los Cantones aplicarán el derecho conforme a la Constitución y la Ley.
+4.10. La Confederación otorgará a los cantones un margen de acción amplio como sea posible y tomará las particularidades cantonales en consideración.
+4.11. La Confederación asumirá la carga financiera que se desprende de la aplicación del derecho federal mediante la adjudicación a los cantones de suficientes fuentes de financiación y procurará una compensación financiera equitativa entre cantones.
+4.12. La Confederación garantizará la independencia de los Cantones.
+4.13. Los cantones podrán realizar acuerdos entre ellos, así como crear organizaciones e instituciones. Podrán llevar a cabo de manera conjunta tareas de interés regional.
+4.14. La Confederación podrá participar en dichos acuerdos dentro de los límites de sus competencias.
+4.15. Los acuerdos intercantonales no podrán ser contrarios al Derecho o a los intereses de la Confederación o de otros cantones. La Confederación será informada de los mismos.
+4.16. El Derecho Federal prima siempre sobre el Derecho Cantonal que le sea contrario.
+4.17. La Confederación velará por que los cantones respeten el Derecho Federal. 
+4.18. Se garantizará la autonomía municipal dentro de los límites fijados por el Derecho Cantonal.
+4.19. La Confederación tomará en consideración los posibles efectos de su actividad
 para los municipios.
 3
  Tomará así mismo en consideración la situación particular de las ciudades, de las
