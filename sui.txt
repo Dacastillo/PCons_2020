@@ -53,24 +53,24 @@
 1.47. La Ley podrá prohibir la huelga a determinadas categorías de personas.
 1.48. Derecho a un trato equitativo y justo, así como a que se le juzgue en un plazo razonable.
 1.49. Todas las partes del proceso tiene derecho a ser oídas.
-1.50. Toda persona que no disponga de recursos tiene derecho a una asistencia jurídica gratuita, a no ser que su causa no aparezca absolutamente infundada. Asimismo tiene derecho a la asistencia gratuita de un defensor en la medida en que la salvaguarda de sus derechos así lo requiera.
-1.51. Toda persona cuya causa deba ser juzgada en un proceso judicial tiene derecho a que dicha causa sea llevada ante un tribunal establecido conforme a la legislación, competente, independiente e imparcial. Se prohiben los tribunales de excepción.
-1.52. La persona contra la cual se ejerce una acción civil tiene derecho a que su causa sea llevada delante de un tribunal competente para su lugar de domicilio. La ley podrá prever otro fuero.
+1.50. Toda persona que no disponga de recursos tiene derecho a una asistencia jurídica gratuita.
+1.51. Toda persona cuya causa deba ser juzgada en un proceso judicial tiene derecho a que dicha causa sea llevada ante un tribunal establecido.
+1.52. La persona contra la cual se ejerce una acción civil tiene derecho a que su causa sea llevada delante de un tribunal competente.
 1.53. La actuación judicial y la lectura de la sentencia serán públicos. La ley podrá prever excepciones.
 1.54. Nadie puede ser privado de su libertad si no es en los casos previstos por la ley y en las formas que ésta prescriba.
-1.55. Toda persona que se vea privada de su libertad debe ser informada, de forma inmediata y en un idioma que ella comprenda, de las razones de esta privación y de sus derechos. Tiene que tener la posibilidad de poder hacer valer dichos derechos. Especialmente tiene el derecho de informar a sus allegados.
-1.56. Toda persona puesta en detención preventiva tiene el derecho ser llevada de inmediato ante un juez que se pronunciará sobre si debe seguir detenido o puesto en libertad. Toda persona en prisión preventiva tiene derecho a ser juzgada en un plazo razonable.
-1.57. Toda persona que se vea privada de su libertad sin que un tribunal así lo haya ordenado, tiene derecho en todo momento a invocar un juez. Éste debe decidir en el plazo más breve posible sobre la legalidad de dicha privación de libertad.
+1.55. Toda persona que se vea privada de su libertad debe ser informada de las razones de esta privación y de sus derechos.
+1.56. Toda persona puesta en detención preventiva tiene el derecho ser llevada de inmediato ante un juez que se pronunciará sobre su situación futura.
+1.57. Toda persona que se vea privada de su libertad sin que un tribunal así lo haya ordenado, tiene derecho en todo momento a invocar un juez.
 1.58. Toda persona es considerada inocente, mientras no sea objeto de una sentencia firme condenatoria.
-1.59. Toda persona acusada tiene derecho a ser informado en la mayor brevedad posible y de manera detallada de las acusaciones contra ella formuladas. Debe poder ejercer sus derechos de defensa.
-1.60. Toda persona condenada tiene derecho a que la sentencia sea examinada por una jurisdicción más alta. Se excluyen los casos en los que el tribunal federal actúa en instancia única.
-1.61. derecho a dirigir peticiones a las autoridades públicas sin que ello le cause ningún perjuicio. Las autoridades deben tener conocimiento de dichas peticiones.
+1.59. Toda persona acusada tiene derecho a ser informado en la mayor brevedad posible y de manera detallada de las acusaciones contra ella formuladas. 
+1.60. Toda persona condenada tiene derecho a que la sentencia sea examinada por una jurisdicción más alta. 
+1.61. Derecho a dirigir peticiones a las autoridades públicas sin que ello le cause ningún perjuicio. 
 1.62. Se garantizan los derechos políticos.
 1.63. La garantía de los derechos políticos protege la libre formación de la opinión de los ciudadanos y ciudadanas y la expresión legítima de su voluntad.
 1.64. Los derechos fundamentales deben ser respetados en el conjunto del Orden Jurídico.
 1.65. Aquel que realice cualquier actividad estatal estará obligado a respetar los derechos fundamentales y a contribuir a su realización.
 1.66. Las autoridades velarán para que los derechos fundamentales siempre que se presten a ello, también se respeten en las relaciones entre particulares.
-1.67. Toda restricción de un derecho fundamental necesita en una base legal. Las restricciones graves deberán estar previstas por una ley. Se excluirán de esta exigencia los casos de peligro serio, directo e inminente. 
+1.67. Toda restricción de un derecho fundamental necesita en una base legal.
 1.68. Toda restricción de un derecho fundamental deberá estar justificada por un interés público o por la protección del derecho fundamental de un tercero.
 1.69. Toda restricción de un derecho fundamental deberá ser proporcional al su fin.
 1.70. La esencia de los derechos fundamentales es inviolable.
