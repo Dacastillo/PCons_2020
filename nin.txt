@@ -96,69 +96,25 @@
 96.  Las reuniones del Comité se celebrarán normalmente en la Sede de las Naciones Unidas o en cualquier otro lugar conveniente que determine el Comité. El Comité se reunirá normalmente todos los años. La duración de las reuniones del Comité será determinada y revisada, si procediera, por una reunión de los Estados Partes en la presente Convención, a reserva de la aprobación de la Asamblea General.
 97.  El Secretario General de las Naciones Unidas proporcionará el personal y los servicios necesarios para el desempeño eficaz de las funciones del Comité establecido en virtud de la presente Convención.
 98. Previa aprobación de la Asamblea General, los miembros del Comité establecido en virtud de la presente Convención recibirán emolumentos con cargo a los fondos de las Naciones Unidas, según las condiciones que la Asamblea pueda establecer.
+99. Los Estados Partes se comprometen a presentar al Comité, por conducto del Secretario General de las Naciones Unidas, informes sobre las medidas que hayan adoptado para dar efecto a los derechos reconocidos en la Convención y sobre el progreso que hayan realizado en cuanto al goce de esos derechos: En el plazo de dos años a partir de la fecha en la que para cada Estado Parte haya entrado en vigor la presente Convención; En lo sucesivo, cada cinco años.
+100. Los informes preparados en virtud del presente artículo deberán indicar las circunstancias y dificultades, si las hubiere, que afecten al grado de cumplimiento de las obligaciones derivadas de la presente Convención. Deberán asimismo, contener información suficiente para que el Comité tenga cabal comprensión de la aplicación de la Convención en el país de que se trate.
+101. Los Estados Partes que hayan presentado un informe inicial completo al Comité no necesitan repetir, en sucesivos informes presentados de conformidad con lo dispuesto en el inciso b) del párrafo 1 del presente artículo, la información básica presentada anteriormente.
+102. El Comité podrá pedir a los Estados Partes más información relativa a la aplicación de la Convención.
+103. El Comité presentará cada dos años a la Asamblea General de las Naciones Unidas, por conducto del Consejo Económico y Social, informes sobre sus actividades.
+104. Los Estados Partes darán a sus informes una amplia difusión entre el público de sus países respectivos.
+105. Con objeto de fomentar la aplicación efectiva de la Convención y de estimular la cooperación internacional en la esfera regulada por la Convención:  Los organismos especializados, el Fondo de las Naciones Unidas para la Infancia y demás órganos de las Naciones Unidas tendrán derecho a estar representados en el examen de la aplicación de aquellas disposiciones de la presente Convención comprendidas en el ámbito de su mandato. El Comité podrá invitar a los organismos especializados, al Fondo de las Naciones Unidas para la Infancia y a otros órganos competentes que considere apropiados a que proporcionen asesoramiento especializado sobre la aplicación de la Convención en los sectores que son de incumbencia de sus respectivos mandatos. El Comité podrá invitar a los organismos especializados, al fondo de las Naciones Unidas para la Infancia y demás órganos de las Naciones Unidas a que presenten informes sobre la aplicación de aquellas disposiciones de la presente Convención comprendidas en el ámbito de sus actividades; El Comité transmitirá, según estime conveniente, a los organismos especializados, al Fondo de las Naciones Unidas para la Infancia y a otros órganos competentes, los informes de los Estados Partes que contengan una solicitud de asesoramiento o de asistencia técnica, o en los que se indique esa necesidad, junto con las observaciones y sugerencias del Comité, si las hubiere, acerca de esas solicitudes o indicaciones; El Comité podrá recomendar a la Asamblea General que pida al Secretario General que efectúe, en su nombre, estudios sobre cuestiones concretas relativas a los derechos del niño; El Comité podrá formular sugerencias y recomendaciones generales basadas en la información recibida en virtud de los artículos 44 y 45 de la presente Convención. Dichas sugerencias y recomendaciones generales deberán transmitirse a los Estados Partes interesados y notificarse a la Asamblea General, junto con los comentarios, si los hubiere, de los Estados Partes.
+106. La presente Convención estará abierta a la firma de todos los Estados.
+107. La presente Convención está sujeta a ratificación.
+108. Los instrumentos de ratificación se depositarán en poder del Secretario General de las Naciones Unidas. La presente Convención permanecerá abierta a la adhesión de cualquier Estado. Los instrumentos de adhesión se depositarán en poder del Secretario General de las Naciones Unidas.
+109. La presente Convención entrará en vigor el trigésimo día siguiente a la fecha en que haya sido depositado el vigésimo instrumento de ratificación o de adhesión en poder del Secretario General de las Naciones Unidas.
+110. Para cada Estado que ratifique la Convención o se adhiera a ella después de haber sido depositado el vigésimo instrumento de ratificación o de adhesión, la Convención entrará en vigor el trigésimo día después del depósito por tal Estado de su instrumento de ratificación o adhesión.
+111. Todo Estado Parte podrá proponer una enmienda y depositarla en poder del Secretario General de las Naciones Unidas. El Secretario General comunicará la enmienda propuesta a los Estados Partes, pidiéndoles que le notifiquen si desean que se convoque una conferencia de Estados Partes con el fin de examinar la propuesta y someterla a votación. Si dentro de los cuatro meses siguientes a la fecha de esa notificación un tercio, al menos de los Estados Partes se declara en favor de tal conferencia, el Secretario General convocará una conferencia con el auspicio de las Naciones Unidas. Toda enmienda adoptada por la mayoría de Estados Partes, presentes y votantes en la conferencia, será sometida por el Secretario General a la Asamblea General para su aprobación.
+112. Toda enmienda adoptada de conformidad con el párrafo 1 del presente artículo entrará en vigor cuando haya sido aprobada por la Asamblea General de las Naciones Unidas y aceptada por una mayoría de dos tercios de los Estados Partes.
+113. Cuando las enmiendas entren en vigor serán obligatorias para los Estados Partes que las hayan aceptado, en tanto que los demás Estados Partes seguirán obligados por las disposiciones de la presente Convención y por las enmiendas anteriores que hayan aceptado.
+114. El Secretario General de las Naciones Unidas recibirá y comunicará a todos los Estados el texto de las reservas formuladas por los Estados en el momento de la ratificación o de la adhesión.
+115. No se aceptará ninguna reserva incompatible con el objeto y el propósito de la presente Convención.
+116. Toda reserva podrá ser retirada en cualquier momento por medio de una notificación hecha a ese efecto y dirigida al Secretario General de las Naciones Unidas, quien informará a todos los Estados. Esa notificación surtirá efecto en la fecha de su recepción por el Secretario General.
+117.  Todo Estado Parte podrá denunciar la presente Convención mediante notificación hecha por escrito al Secretario General de las Naciones Unidas. La denuncia surtirá efecto un año después de la fecha en que la notificación haya sido recibida por el Secretario General.
+118. Se designa depositario de la presente Convención al Secretario General de las Naciones Unidas.
+119. El original de la presente Convención, cuyos textos en árabe, chino, español, francés, inglés y ruso son igualmente auténticos, se depositará en poder del Secretario General de las Naciones Unidas.
 
-    Artículo 44
-
-    1. Los Estados Partes se comprometen a presentar al Comité, por conducto del Secretario General de las Naciones Unidas, informes sobre las medidas que hayan adoptado para dar efecto a los derechos reconocidos en la Convención y sobre el progreso que hayan realizado en cuanto al goce de esos derechos:
-    a) En el plazo de dos años a partir de la fecha en la que para cada Estado Parte haya entrado en vigor la presente Convención;
-    b) En lo sucesivo, cada cinco años.
-    2. Los informes preparados en virtud del presente artículo deberán indicar las circunstancias y dificultades, si las hubiere, que afecten al grado de cumplimiento de las obligaciones derivadas de la presente Convención. Deberán asimismo, contener información suficiente para que el Comité tenga cabal comprensión de la aplicación de la Convención en el país de que se trate.
-    3. Los Estados Partes que hayan presentado un informe inicial completo al Comité no necesitan repetir, en sucesivos informes presentados de conformidad con lo dispuesto en el inciso b) del párrafo 1 del presente artículo, la información básica presentada anteriormente.
-    4. El Comité podrá pedir a los Estados Partes más información relativa a la aplicación de la Convención.
-    5. El Comité presentará cada dos años a la Asamblea General de las Naciones Unidas, por conducto del Consejo Económico y Social, informes sobre sus actividades.
-    6. Los Estados Partes darán a sus informes una amplia difusión entre el público de sus países respectivos.
-
-    Artículo 45
-
-    Con objeto de fomentar la aplicación efectiva de la Convención y de estimular la cooperación internacional en la esfera regulada por la Convención:
-    a) Los organismos especializados, el Fondo de las Naciones Unidas para la Infancia y demás órganos de las Naciones Unidas tendrán derecho a estar representados en el examen de la aplicación de aquellas disposiciones de la presente Convención comprendidas en el ámbito de su mandato. El Comité podrá invitar a los organismos especializados, al Fondo de las Naciones Unidas para la Infancia y a otros órganos competentes que considere apropiados a que proporcionen asesoramiento especializado sobre la aplicación de la Convención en los sectores que son de incumbencia de sus respectivos mandatos. El Comité podrá invitar a los organismos especializados, al fondo de las Naciones Unidas para la Infancia y demás órganos de las Naciones Unidas a que presenten informes sobre la aplicación de aquellas disposiciones de la presente Convención comprendidas en el ámbito de sus actividades;
-    b) El Comité transmitirá, según estime conveniente, a los organismos especializados, al Fondo de las Naciones Unidas para la Infancia y a otros órganos competentes, los informes de los Estados Partes que contengan una solicitud de asesoramiento o de asistencia técnica, o en los que se indique esa necesidad, junto con las observaciones y sugerencias del Comité, si las hubiere, acerca de esas solicitudes o indicaciones;
-    c) El Comité podrá recomendar a la Asamblea General que pida al Secretario General que efectúe, en su nombre, estudios sobre cuestiones concretas relativas a los derechos del niño;
-    d) El Comité podrá formular sugerencias y recomendaciones generales basadas en la información recibida en virtud de los artículos 44 y 45 de la presente Convención. Dichas sugerencias y recomendaciones generales deberán transmitirse a los Estados Partes interesados y notificarse a la Asamblea General, junto con los comentarios, si los hubiere, de los Estados Partes.
-
-    PARTE III
-
-    Artículo 46
-
-    La presente Convención estará abierta a la firma de todos los Estados.
-
-    Artículo 47
-
-    La presente Convención está sujeta a ratificación.
-    Los instrumentos de ratificación se depositarán en poder del Secretario General de las Naciones Unidas.
-
-    Artículo 48
-
-    La presente Convención permanecerá abierta a la adhesión de cualquier Estado. Los instrumentos de adhesión se depositarán en poder del Secretario General de las Naciones Unidas.
-
-    Artículo 49
-
-    1. La presente Convención entrará en vigor el trigésimo día siguiente a la fecha en que haya sido depositado el vigésimo instrumento de ratificación o de adhesión en poder del Secretario General de las Naciones Unidas.
-    2. Para cada Estado que ratifique la Convención o se adhiera a ella después de haber sido depositado el vigésimo instrumento de ratificación o de adhesión, la Convención entrará en vigor el trigésimo día después del depósito por tal Estado de su instrumento de ratificación o adhesión.
-
-    Artículo 50
-
-    1. Todo Estado Parte podrá proponer una enmienda y depositarla en poder del Secretario General de las Naciones Unidas. El Secretario General comunicará la enmienda propuesta a los Estados Partes, pidiéndoles que le notifiquen si desean que se convoque una conferencia de Estados Partes con el fin de examinar la propuesta y someterla a votación. Si dentro de los cuatro meses siguientes a la fecha de esa notificación un tercio, al menos de los Estados Partes se declara en favor de tal conferencia, el Secretario General convocará una conferencia con el auspicio de las Naciones Unidas. Toda enmienda adoptada por la mayoría de Estados Partes, presentes y votantes en la conferencia, será sometida por el Secretario General a la Asamblea General para su aprobación.
-    2. Toda enmienda adoptada de conformidad con el párrafo 1 del presente artículo entrará en vigor cuando haya sido aprobada por la Asamblea General de las Naciones Unidas y aceptada por una mayoría de dos tercios de los Estados Partes.
-    3. Cuando las enmiendas entren en vigor serán obligatorias para los Estados Partes que las hayan aceptado, en tanto que los demás Estados Partes seguirán obligados por las disposiciones de la presente Convención y por las enmiendas anteriores que hayan aceptado.
-
-    Artículo 51
-
-    1. El Secretario General de las Naciones Unidas recibirá y comunicará a todos los Estados el texto de las reservas formuladas por los Estados en el momento de la ratificación o de la adhesión.
-    2. No se aceptará ninguna reserva incompatible con el objeto y el propósito de la presente Convención.
-    3. Toda reserva podrá ser retirada en cualquier momento por medio de una notificación hecha a ese efecto y dirigida al Secretario General de las Naciones Unidas, quien informará a todos los Estados. Esa notificación surtirá efecto en la fecha de su recepción por el Secretario General.
-
-    Artículo 52
-
-    Todo Estado Parte podrá denunciar la presente Convención mediante notificación hecha por escrito al Secretario General de las Naciones Unidas. La denuncia surtirá efecto un año después de la fecha en que la notificación haya sido recibida por el Secretario General.
-
-    Artículo 53
-
-    Se designa depositario de la presente Convención al Secretario General de las Naciones Unidas.
-
-    Artículo 54
-
-    El original de la presente Convención, cuyos textos en árabe, chino, español, francés, inglés y ruso son igualmente auténticos, se depositará en poder del Secretario General de las Naciones Unidas.
-
-    En testimonio de lo cual, los infrascritos plenipotenciarios, debidamente autorizados para ello por sus respectivos gobiernos, han firmado la presente Convención.
-    Conforme con su original.- Edmundo Vargas Carreño, Subsecretario de Relaciones Exteriores.
