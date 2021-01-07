@@ -100,11 +100,6 @@ prescribed by an international treaty and pursuant to procedure provided by such
 treaty and by law. Extradition shall be decided by the Government of the Republic.
 Everyone who is under an extradition order has the right to contest the extradition
 in an Estonian court.
-• Extradition procedure
-• International law
-Every Estonian has the right to settle in Estonia.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 10
 Article 37
 Right to education. Education is compulsory for school-age children
 to the extent specified by law, and shall be free of charge in state and local
@@ -145,10 +140,6 @@ No one shall bear legal liability because of his or her beliefs.
 Article 42
 State agencies, local governments, and their officials shall not gather or store
 information about the beliefs of an Estonian citizen against the citizen’s free will.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 11
-• Regulation of evidence collection Article 43 • Right to privacy
-• Telecommunications
 Right to confidentiality of messages sent or received by him or her
 by post, telegraph, telephone or other commonly used means. Exceptions may be
 made by court authorization to combat a criminal offence, or to ascertain the truth in
@@ -190,8 +181,6 @@ infectious disease.
 • Freedom of association Article 48 • Right to form political parties
 Right to form non-profit associations. Only Estonian citizens may
 belong to political parties.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 12
 The establishment of organizations and unions which possess weapons, are militarily
 organized or perform military exercises requires prior permission, for which the
 conditions and procedure of issuance shall be provided by law.
@@ -234,9 +223,6 @@ the independence of Estonia.
 • Duty to obey the constitution
 If no other means are available, every Estonian citizen has the right to initiate
 resistance against a forcible change of the constitutional order.
-• Right to overthrow government
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 13
 Article 55
 Citizens of foreign states and stateless persons who are in Estonia have a duty to
 observe the constitutional order of Estonia.
@@ -244,7 +230,7 @@ CHAPTER III: THE PEOPLE
 Article 56
 The supreme power of state shall be exercised by the people through citizens with
 the right to vote:
-1. by electing the Riigikogu;
+1. by electing the Parliament;
 2. through a referendum. • Referenda
 • Restrictions on voting Article 57
 An Estonian citizen who has attained eighteen years of age has the right to vote.
@@ -255,54 +241,54 @@ Participation in voting may be restricted by law for Estonian citizens who have 
 convicted by a court and are serving sentences in penal institutions.
 CHAPTER IV: THE RIIGIKOGU
 • Structure of legislative chamber(s) Article 59
-Legislative power is vested in the Riigikogu.
+Legislative power is vested in the Parliament.
 Article 60
-The Riigikogu shall be comprised of one hundred and one members. Members of the
-Riigikogu shall be elected in free elections on the principle of proportionality.
+The Parliament shall be comprised of one hundred and one members. Members of the
+Parliament shall be elected in free elections on the principle of proportionality.
 Elections shall be general, uniform and direct. Voting shall be secret.
 • Secret ballot
 • Size of first chamber
 • First chamber selection
 Every Estonian citizen who has attained twenty-one years of age and has the right to
-vote may be a candidate for the Riigikogu.
+vote may be a candidate for the Parliament.
 • Minimum age for first chamber
 • Eligibility for first chamber
-Regular elections to the Riigikogu shall be held on the first Sunday in March of the
-fourth year following the preceding Riigikogu election year.
+Regular elections to the Parliament shall be held on the first Sunday in March of the
+fourth year following the preceding Parliament election year.
 • Scheduling of elections
 • Term length for first chamber
-Extraordinary elections to the Riigikogu shall be held, in the cases prescribed in
+Extraordinary elections to the Parliament shall be held, in the cases prescribed in
 Article 89, 97, 105 and 119 of the Constitution, not earlier than twenty and not later
 than forty days after the elections are declared.
 • Scheduling of elections
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 14
-The procedure for the election of the Riigikogu shall be provided by the Riigikogu
+The procedure for the election of the Parliament shall be provided by the Parliament
 Election Act.
 • First chamber selection
 Article 61
-The authority of the members of the Riigikogu shall commence on the day the results
+The authority of the members of the Parliament shall commence on the day the results
 of the elections are announced. The authority of the members of the preceding
-Riigikogu shall terminate on the same day.
-Before assuming his or her duties, a member of the Riigikogu shall take an oath of
+Parliament shall terminate on the same day.
+Before assuming his or her duties, a member of the Parliament shall take an oath of
 office to remain loyal to the Republic of Estonia and to its constitutional order.
 • Oaths to abide by constitution
 • Immunity of legislators Article 62
-A member of the Riigikogu shall not be bound by his or her mandate, or incur legal
-liability for votes cast or political statements made by him or her in the Riigikogu or
+A member of the Parliament shall not be bound by his or her mandate, or incur legal
+liability for votes cast or political statements made by him or her in the Parliament or
 in any of its bodies.
 • Outside professions of legislators Article 63
-A member of the Riigikogu shall not hold any other state office.
-A member of the Riigikogu is exempt from the duty to serve in the Armed Forces
+A member of the Parliament shall not hold any other state office.
+A member of the Parliament is exempt from the duty to serve in the Armed Forces
 during his or her term of office.
 Article 64
-The authority of a member of the Riigikogu shall be suspended upon his or her
+The authority of a member of the Parliament shall be suspended upon his or her
 appointment as a member of the Government of the Republic, and shall be restored
 upon release from his or her duties as a member of the Government.
 • Eligibility for cabinet
 • Head of government's role in the
 legislature
-The authority of a member of the Riigikogu shall terminate prematurely: • Removal of individual legislators
+The authority of a member of the Parliament shall terminate prematurely: • Removal of individual legislators
 1. upon his or her assumption of another state office;
 2. upon the entry into force of a conviction by a court against him or her;
 3. upon his or her resignation, pursuant to procedure provided by law;
@@ -311,16 +297,16 @@ or her duties for an extended period;
 • Supreme court powers
 5. upon his or her death.
 Upon the suspension or premature termination of the authority of a member of the
-Riigikogu, he or she shall be replaced by an alternate member, pursuant to procedure
+Parliament, he or she shall be replaced by an alternate member, pursuant to procedure
 provided by law. An alternate member has all the rights and duties of a member of
-the Riigikogu.
+the Parliament.
 • Replacement of legislators
 The authority of an alternate member shall terminate upon the restoration of the
-authority of the member of the Riigikogu.
+authority of the member of the Parliament.
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 15
 Article 65
-The Riigikogu shall:
+The Parliament shall:
 1. pass laws and resolutions;
 2. decide on the holding of a referendum; • Referenda
 3. elect the President of the Republic, pursuant to Article 79 of the
@@ -365,57 +351,57 @@ bodies or local governments.
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 16
 Article 66
-The first session of the new membership of the Riigikogu shall be held within ten
-days after the announcement of the results of the elections to the Riigikogu. The first
-session of the Riigikogu shall be convened by the President of the Republic.
+The first session of the new membership of the Parliament shall be held within ten
+days after the announcement of the results of the elections to the Parliament. The first
+session of the Parliament shall be convened by the President of the Republic.
 • Length of legislative sessions Article 67
-Regular sessions of the Riigikogu shall take place from the second Monday of
+Regular sessions of the Parliament shall take place from the second Monday of
 January to the third Thursday of June, and from the second Monday of September to
 the third Thursday of December.
 • Extraordinary legislative sessions Article 68
-Extraordinary sessions of the Riigikogu shall be convened by the Chairman of the
-Riigikogu, on the proposal of the President of the Republic, the Government of the
-Republic, or not less than one-fifth of the membership of the Riigikogu.
+Extraordinary sessions of the Parliament shall be convened by the Chairman of the
+Parliament, on the proposal of the President of the Republic, the Government of the
+Republic, or not less than one-fifth of the membership of the Parliament.
 • Leader of first chamber Article 69
-The Riigikogu shall elect from among its members the Chairman of the Riigikogu and
-two Deputy Chairmen who shall manage the work of the Riigikogu pursuant to the
-Riigikogu Procedure Act and the Riigikogu Administration Act.
+The Parliament shall elect from among its members the Chairman of the Parliament and
+two Deputy Chairmen who shall manage the work of the Parliament pursuant to the
+Parliament Procedure Act and the Parliament Administration Act.
 • Quorum for legislative sessions Article 70
-The quorum for the Riigikogu shall be provided by the Riigikogu Procedure Act. In an
-extraordinary session, the Riigikogu shall have a quorum if more than one-half of the
-membership of the Riigikogu is present.
+The quorum for the Parliament shall be provided by the Parliament Procedure Act. In an
+extraordinary session, the Parliament shall have a quorum if more than one-half of the
+membership of the Parliament is present.
 • Legislative committees Article 71
-The Riigikogu shall form committees.
-Members of the Riigikogu have the right to form factions.
+The Parliament shall form committees.
+Members of the Parliament have the right to form factions.
 The procedure for the formation of committees and factions, and their rights, shall
-be provided by the Riigikogu Procedure Act.
+be provided by the Parliament Procedure Act.
 Article 72
-Sessions of the Riigikogu shall be public, unless the Riigikogu by a two-thirds
+Sessions of the Parliament shall be public, unless the Parliament by a two-thirds
 majority decides otherwise.
 • Public or private sessions
-Voting in the Riigikogu shall be open. Voting by secret ballot shall be held in the cases
-prescribed by the Constitution or by the Riigikogu Procedure Act, only in the
+Voting in the Parliament shall be open. Voting by secret ballot shall be held in the cases
+prescribed by the Constitution or by the Parliament Procedure Act, only in the
 election or appointment of officials.
 • Secrecy of legislative votes
 Article 73
-Legislation of the Riigikogu shall be passed by a majority of votes in favor, unless
+Legislation of the Parliament shall be passed by a majority of votes in favor, unless
 otherwise prescribed by the Constitution.
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 17
 • Legislative oversight of the executive Article 74
-A member of the Riigikogu has the right to make inquiries to the Government of the
+A member of the Parliament has the right to make inquiries to the Government of the
 Republic and its members, to the Chairman of the Board of the Bank of Estonia, the
 President of the Bank of Estonia, the Auditor General and the Chancellor of Justice.
-The inquiries shall be answered at a session of the Riigikogu within twenty session
+The inquiries shall be answered at a session of the Parliament within twenty session
 days.
 • Compensation of legislators Article 75
-The remuneration of members of the Riigikogu and restrictions on the receipt of
+The remuneration of members of the Parliament and restrictions on the receipt of
 other employment income shall be provided by law, which may be amended for the
-next membership of the Riigikogu.
+next membership of the Parliament.
 • Immunity of legislators Article 76
-A member of the Riigikogu enjoys immunity. Criminal charges may be brought
+A member of the Parliament enjoys immunity. Criminal charges may be brought
 against him or her only on the proposal of the Chancellor of Justice, and with the
-consent of the majority of the membership of the Riigikogu.
+consent of the majority of the membership of the Parliament.
 CHAPTER V: THE PRESIDENT OF THE
 REPUBLIC
 • Name/structure of executive(s) Article 77
@@ -427,13 +413,13 @@ The President of the Republic shall:
 proposal of the Government of the Republic, and receive the credentials of
 diplomatic agents accredited to Estonia;
 • Foreign affairs representative
-3. declare regular elections to the Riigikogu and, pursuant to Article 89, 97,
-105 and 119 of the Constitution, extraordinary elections to the Riigikogu;
+3. declare regular elections to the Parliament and, pursuant to Article 89, 97,
+105 and 119 of the Constitution, extraordinary elections to the Parliament;
 • Extraordinary legislative sessions
-4. convene the new membership of the Riigikogu, pursuant to Article 66 of the
+4. convene the new membership of the Parliament, pursuant to Article 66 of the
 Constitution, and open its first session;
-5. propose to the Chairman of the Riigikogu to convene an extra-ordinary
-session of the Riigikogu, pursuant to Article 68 of the Constitution;
+5. propose to the Chairman of the Parliament to convene an extra-ordinary
+session of the Parliament, pursuant to Article 68 of the Constitution;
 6. proclaim laws, pursuant to Article 105 and 107 of the Constitution, and sign
 instruments of ratification;
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
@@ -447,7 +433,7 @@ Constitution;
 to Article 89, 90, and 92 of the Constitution;
 • Cabinet removal
 • Cabinet selection
-11. make proposals to the Riigikogu for appointments to the offices of Chief
+11. make proposals to the Parliament for appointments to the offices of Chief
 Justice of the Supreme Court, Chairman of the Board of the Bank of
 Estonia, Auditor General and Chancellor of Justice;
 • Central bank
@@ -460,7 +446,7 @@ President of the Bank of Estonia;
 14. [repealed by RT I, 27.04.2011, 1 - entry into force 22.07.2011];
 15. confer state awards, and military and diplomatic ranks; • Selection of active-duty commanders
 16. be the supreme commander of the national defense of Estonia; • Designation of commander in chief
-17. make proposals to the Riigikogu to declare a state of war, to order
+17. make proposals to the Parliament to declare a state of war, to order
 mobilization and demobilization, and, pursuant to Article 129 of the
 Constitution, to declare a state of emergency;
 • Emergency provisions
@@ -474,33 +460,33 @@ request;
 20. initiate the bringing of criminal charges against the Chancellor of Justice,
 pursuant to Article 145 of the Constitution.
 • Head of state selection Article 79
-The President of the Republic shall be elected by the Riigikogu, or, in the case
+The President of the Republic shall be elected by the Parliament, or, in the case
 provided by paragraph four of this section, by an electoral body.
 The right to nominate a candidate for President of the Republic rests with not less
-than one-fifth of the membership of the Riigikogu.
+than one-fifth of the membership of the Parliament.
 An Estonian citizen by birth who has attained forty years of age may be nominated as
 a candidate for President of the Republic.
 • Minimum age of head of state
 • Eligibility for head of state
 The President of the Republic shall be elected by secret ballot. Each member of the
-Riigikogu shall have one vote. A candidate in favor of whom a two-thirds majority of
+Parliament shall have one vote. A candidate in favor of whom a two-thirds majority of
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 19
-the membership of the Riigikogu votes shall be considered elected. If no candidate
+the membership of the Parliament votes shall be considered elected. If no candidate
 receives the required majority, a new round of voting shall be held on the next day.
 Before the second round of voting, a new nomination of candidates shall be held. If
 no candidate receives the required majority in the second round of voting, a third
 round of voting shall be held on the same day between the two candidates who
 receive the greatest number of votes in the second round. If the President of the
 Republic is still not elected in the third round of voting, the Chairman of the
-Riigikogu shall, within one month, convene an electoral body to elect the President
+Parliament shall, within one month, convene an electoral body to elect the President
 of the Republic.
-The electoral body shall be comprised of members of the Riigikogu and
+The electoral body shall be comprised of members of the Parliament and
 representatives of the local government councils. Each local government council
 shall elect at least one representative to the electoral body, who must be an Estonian
 citizen.
-The Riigikogu shall present the two candidates who receive the greatest number of
-votes in the Riigikogu to the electoral body as candidates for President. The right to
+The Parliament shall present the two candidates who receive the greatest number of
+votes in the Parliament to the electoral body as candidates for President. The right to
 nominate a candidate for President also rests with not less than twenty-one
 members of the electoral body.
 The electoral body shall elect the President of the Republic by a majority of the
@@ -521,7 +507,7 @@ of the Republic.
 • Scheduling of elections
 • Oaths to abide by constitution Article 81
 The President of the Republic shall assume office by swearing the following oath of
-office to the people of Estonia before the Riigikogu:
+office to the people of Estonia before the Parliament:
 "In assuming the office of President of the Republic, I (given name and surname),
 solemnly swear to steadfastly defend the Constitution and the laws of the Republic
 of Estonia, to exercise the power entrusted to me in a just and impartial manner, and
@@ -540,16 +526,16 @@ If the President of the Republic is incapable of performing his or her duties fo
 extended period as decided by the Supreme Court, or if he or she is temporarily
 unable to perform them as in the cases specified by law, or if his or her powers have
 terminated prematurely, then his or her duties shall temporarily transfer to the
-Chairman of the Riigikogu.
-During the time that the Chairman of the Riigikogu is performing the duties of the
-President of the Republic, his or her authority as a member of the Riigikogu shall be
+Chairman of the Parliament.
+During the time that the Chairman of the Parliament is performing the duties of the
+President of the Republic, his or her authority as a member of the Parliament shall be
 suspended.
-The Chairman of the Riigikogu, acting as President of the Republic, does not have the
+The Chairman of the Parliament, acting as President of the Republic, does not have the
 right, without the consent of the Supreme Court, to declare extraordinary elections
-to the Riigikogu or to refuse to proclaim laws.
+to the Parliament or to refuse to proclaim laws.
 If the President of the Republic is unable to perform his or her official duties for
 longer than three consecutive months, or if his or her powers terminate prematurely,
-the Riigikogu shall elect a new President of the Republic within fourteen days,
+the Parliament shall elect a new President of the Republic within fourteen days,
 pursuant to Article 79 of the Constitution.
 • Head of state replacement
 Article 84
@@ -559,7 +545,7 @@ membership in political parties for the duration of his or her term of office.
 • Head of state immunity Article 85
 Criminal charges may be brought against the President of the Republic only on the
 proposal of the Chancellor of Justice, and with the consent of the majority of the
-membership of the Riigikogu.
+membership of the Parliament.
 CHAPTER VI: THE GOVERNMENT OF THE
 REPUBLIC
 • Establishment of cabinet/ministers
@@ -571,16 +557,16 @@ The Government of the Republic shall:
 2. direct and co-ordinate the activities of government agencies;
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 21
-3. administer the implementation of laws, resolutions of the Riigikogu, and
+3. administer the implementation of laws, resolutions of the Parliament, and
 legislation of the President of the Republic;
-4. introduce bills, and submit international treaties to the Riigikogu for
+4. introduce bills, and submit international treaties to the Parliament for
 ratification and denunciation;
 • International law
 • Initiation of general legislation
 • Treaty ratification
-5. prepare the draft of the state budget and submit it to the Riigikogu,
+5. prepare the draft of the state budget and submit it to the Parliament,
 administer the implementation of the state budget and present a report on
-the implementation of the state budget to the Riigikogu;
+the implementation of the state budget to the Parliament;
 • Budget bills
 6. issue regulations and orders on the basis of and for the implementation of
 law;
@@ -601,42 +587,42 @@ Government of the Republic, designate a candidate for Prime Minister to whom the
 President of the Republic shall assign the task of forming a new government.
 The candidate for Prime Minister shall, within fourteen days after receiving the task
 of forming a new government, present the bases for the formation of the
-forthcoming government to the Riigikogu, after which the Riigikogu shall decide,
+forthcoming government to the Parliament, after which the Parliament shall decide,
 without debate and by an open vote, whether to authorize the candidate for Prime
 Minister to form a government.
-The candidate for Prime Minister who is authorized by the Riigikogu to form a
+The candidate for Prime Minister who is authorized by the Parliament to form a
 government shall, within seven days, present the membership of the government to
 the President of the Republic, who shall appoint the government to office within
 three days.
 If the candidate for Prime Minister designated by the President of the Republic does
-not receive a majority of votes in favor from the Riigikogu, or is unable or declines to
+not receive a majority of votes in favor from the Parliament, or is unable or declines to
 form a government, the President of the Republic has the right to present a second
 candidate for Prime Minister within seven days.
 If the President of the Republic does not present a second candidate for Prime
 Minister within seven days or declines to do so, or if the second candidate is unable
-to obtain authority from the Riigikogu under the conditions and time restraints in
+to obtain authority from the Parliament under the conditions and time restraints in
 paragraphs two and three of this section, or is unable or declines to form a
 government, then the right to nominate a candidate for Prime Minister shall transfer
-to the Riigikogu.
+to the Parliament.
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 22
-The Riigikogu shall nominate a candidate for Prime Minister who shall present the
+The Parliament shall nominate a candidate for Prime Minister who shall present the
 membership of a government to the President of the Republic. If the membership of
 a government is not presented to the President of the Republic within fourteen days
-after the transfer to the Riigikogu of the right to nominate a candidate for Prime
+after the transfer to the Parliament of the right to nominate a candidate for Prime
 Minister, the President of the Republic shall declare extraordinary elections to the
-Riigikogu.
+Parliament.
 • Cabinet removal Article 90
 Changes to the appointed membership of the Government of the Republic shall be
 made by the President of the Republic, on the proposal of the Prime Minister.
 Article 91
-The Government shall assume office by taking an oath of office before the Riigikogu.
+The Government shall assume office by taking an oath of office before the Parliament.
 • Cabinet removal Article 92 • Head of government removal
 The Government of the Republic shall resign upon:
-1. the convention of the new membership of the Riigikogu;
+1. the convention of the new membership of the Parliament;
 2. the resignation or death of the Prime Minister;
 3. the expression of no confidence in the Government of the Republic or the
-Prime Minister by the Riigikogu.
+Prime Minister by the Parliament.
 The President of the Republic shall release the Government of the Republic from
 office upon the assumption of office of the new Government.
 Article 93
@@ -678,27 +664,27 @@ Government regulations shall have force if they bear the signatures of the Prime
 Minister, the appropriate minister and the State Secretary.
 • Cabinet removal Article 97 • Head of government removal
 • Limits on removing head of government
-The Riigikogu may express no-confidence in the Government of the Republic, the
+The Parliament may express no-confidence in the Government of the Republic, the
 Prime Minister, or a minister by a resolution in favor of which a majority of the
-membership of the Riigikogu votes.
+membership of the Parliament votes.
 An expression of no-confidence may be initiated by not less than one-fifth of the
-membership of the Riigikogu by the presentation of a written motion at a session of
-the Riigikogu.
+membership of the Parliament by the presentation of a written motion at a session of
+the Parliament.
 An expression of no-confidence may be decided not earlier than on the second day
 after its initiation, unless the Government requires a more expeditious decision.
 If no-confidence is expressed in the Government or the Prime Minister, the
 President of the Republic may, on the proposal of the Government and within three
-days, declare extraordinary elections to the Riigikogu.
+days, declare extraordinary elections to the Parliament.
 • Dismissal of the legislature
-If no-confidence is expressed in a minister, the Chairman of the Riigikogu shall notify
+If no-confidence is expressed in a minister, the Chairman of the Parliament shall notify
 the President of the Republic, who shall release the minister from office.
 An expression of no-confidence on the same ground may be initiated not earlier than
 three months after the previous vote of no-confidence.
 • Cabinet removal Article 98
 The Government of the Republic may bind the passage of a bill it introduces to the
-Riigikogu to the issue of confidence.
+Parliament to the issue of confidence.
 Voting shall not take place earlier than on the second day after the bill is bound to
-the issue of confidence. If the Riigikogu does not pass the bill, the Government shall
+the issue of confidence. If the Parliament does not pass the bill, the Government shall
 resign.
 Article 99
 Members of the Government of the Republic shall not hold any other state office,
@@ -708,12 +694,12 @@ Estonia 1992 (rev. 2015) Page 24
 enterprise.
 • Legislative committees Article 100
 Members of the Government of the Republic may participate in sessions of the
-Riigikogu and of its committees with the right to speak.
+Parliament and of its committees with the right to speak.
 • Cabinet removal Article 101 • Head of government removal
 • Head of government immunity
 Criminal charges may be brought against a member of the Government of the
 Republic only on the proposal of the Chancellor of Justice, and with the consent of
-the majority of the membership of the Riigikogu.
+the majority of the membership of the Parliament.
 The authority of a member of the Government shall terminate upon the entry into
 force of a conviction by a court against him or her.
 CHAPTER VII: LEGISLATION
@@ -721,29 +707,29 @@ Article 102
 Laws shall be passed in accordance with the Constitution.
 • Initiation of general legislation Article 103
 The following have the right to initiate laws:
-1. a member of the Riigikogu;
-2. a faction of the Riigikogu;
-3. a committee of the Riigikogu; • Legislative committees
+1. a member of the Parliament;
+2. a faction of the Parliament;
+3. a committee of the Parliament; • Legislative committees
 4. the Government of the Republic;
 5. the President of the Republic, for amendment of the Constitution. • Constitution amendment procedure
-The Riigikogu has the right, on the basis of a resolution made by a majority of its
+The Parliament has the right, on the basis of a resolution made by a majority of its
 membership, to propose to the Government of the Republic to initiate a bill desired
-by the Riigikogu.
+by the Parliament.
 Article 104
-The procedure for the passage of laws shall be provided by the Riigikogu Procedure
+The procedure for the passage of laws shall be provided by the Parliament Procedure
 Act.
 The following laws may be passed and amended only by a majority of the
-membership of the Riigikogu:
+membership of the Parliament:
 1. Citizenship Act;
-2. Riigikogu Election Act;
+2. Parliament Election Act;
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 25
 3. President of the Republic Election Act;
 4. Local Government Election Act;
 5. Referendum Act;
-6. Riigikogu Procedure Act and Riigikogu Administration Act;
+6. Parliament Procedure Act and Parliament Administration Act;
 7. Remuneration of the President of the Republic and Members of the
-Riigikogu Act;
+Parliament Act;
 8. Government of the Republic Act;
 9. Institution of Court Proceedings against the President of the Republic and
 Members of the Government Act;
@@ -757,7 +743,7 @@ obligations of the state;
 16. State of Emergency Act;
 17. Peace-Time National Defense Act and War-Time National Defense Act.
 • Referenda Article 105
-The Riigikogu has the right to submit a bill or other national issue to a referendum.
+The Parliament has the right to submit a bill or other national issue to a referendum.
 The decision of the people shall be made by a majority of the participants in the
 voting.
 A law which is passed by a referendum shall promptly be proclaimed by the
@@ -765,7 +751,7 @@ President of the Republic. The decision of the referendum shall be binding on al
 state institutions.
 If a bill which is submitted to a referendum does not receive a majority of votes in
 favor, the President of the Republic shall declare extraordinary elections to the
-Riigikogu.
+Parliament.
 • Dismissal of the legislature
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 26
@@ -778,9 +764,9 @@ of emergency, or national defense shall not be submitted to a referendum.
 The procedure for holding a referendum shall be provided by the Referendum Act.
 • Approval of general legislation Article 107
 Laws shall be proclaimed by the President of the Republic.
-The President of the Republic may refuse to proclaim a law passed by the Riigikogu
+The President of the Republic may refuse to proclaim a law passed by the Parliament
 and, within fourteen days after its receipt, return the law, together with his or her
-reasoned resolution, to the Riigikogu for a new debate and decision. If the Riigikogu
+reasoned resolution, to the Parliament for a new debate and decision. If the Parliament
 again passes the law which is returned to it by the President of the Republic,
 unamended, the President of the Republic shall proclaim the law or shall propose to
 the Supreme Court to declare the law unconstitutional. If the Supreme Court
@@ -792,11 +778,11 @@ Article 108
 A law shall enter into force on the tenth day after its publication in the Riigi Teataja
 (the State Gazette), unless the law itself provides otherwise.
 • Head of state decree power Article 109
-If the Riigikogu is unable to convene, the President of the Republic may, in cases of
+If the Parliament is unable to convene, the President of the Republic may, in cases of
 urgent state need, issue decrees which have the force of law, and which shall bear
-the counter-signatures of the Chairman of the Riigikogu and the Prime Minister.
-When the Riigikogu convenes, the President of the Republic shall present the
-decrees to the Riigikogu, which shall promptly pass a law for their confirmation or
+the counter-signatures of the Chairman of the Parliament and the Prime Minister.
+When the Parliament convenes, the President of the Republic shall present the
+decrees to the Parliament, which shall promptly pass a law for their confirmation or
 repeal.
 • Head of state decree power Article 110
 The Constitution, the Acts set out in Article 104 of the Constitution, laws which
@@ -811,7 +797,7 @@ national currency.
 • Central bank Article 112
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 27
-The Bank of Estonia shall act pursuant to law and shall report to the Riigikogu.
+The Bank of Estonia shall act pursuant to law and shall report to the Parliament.
 Article 113
 State taxes, duties, fees, fines and compulsory insurance payments shall be provided
 by law.
@@ -819,11 +805,11 @@ Article 114
 The procedures for the possession, use, and disposal of state assets shall be provided
 by law.
 • Budget bills Article 115
-The Riigikogu shall pass as a law the budget of all state revenue and expenditure for
+The Parliament shall pass as a law the budget of all state revenue and expenditure for
 each year.
-The Government of the Republic shall submit a draft state budget to the Riigikogu
+The Government of the Republic shall submit a draft state budget to the Parliament
 not later than three months before the beginning of the budgetary year.
-On the proposal of the Government, the Riigikogu may pass a supplementary budget
+On the proposal of the Government, the Parliament may pass a supplementary budget
 during the budgetary year.
 • Budget bills Article 116
 If a proposed amendment to the state budget or to its draft has the effect of
@@ -831,20 +817,20 @@ decreasing estimated revenue, or increasing expenditure or reallocating
 expenditure, the proponent of the amendment shall append financial calculations to
 the proposed amendment which demonstrate the sources of revenue necessary to
 cover the expenditure.
-The Riigikogu shall not eliminate or reduce expenditure in the state budget or in its
+The Parliament shall not eliminate or reduce expenditure in the state budget or in its
 draft which is prescribed by other laws.
 • Budget bills Article 117
 The procedures for the drafting and passage of the state budget shall be provided by
 law.
 • Budget bills Article 118
-The state budget passed by the Riigikogu shall enter into force at the beginning of
-the budgetary year. If the Riigikogu does not pass the state budget by the beginning
+The state budget passed by the Parliament shall enter into force at the beginning of
+the budgetary year. If the Parliament does not pass the state budget by the beginning
 of the budgetary year, expenditure of up to one-twelfth of the expenditure of the
 preceding budgetary year may be made each month.
 • Budget bills Article 119 • Dismissal of the legislature
-If the Riigikogu has not passed the state budget within two months after the
+If the Parliament has not passed the state budget within two months after the
 beginning of the budgetary year, the President of the Republic shall declare
-extraordinary elections to the Riigikogu.
+extraordinary elections to the Parliament.
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 28
 CHAPTER IX: FOREIGN RELATIONS AND
@@ -853,7 +839,7 @@ INTERNATIONAL TREATIES
 The procedure for the relations of the Republic of Estonia with other states and with
 international organizations shall be provided by law.
 • International law Article 121 • Treaty ratification
-The Riigikogu shall ratify and denounce treaties of the Republic of Estonia:
+The Parliament shall ratify and denounce treaties of the Republic of Estonia:
 1. which alter state borders; • Accession of territory
 • Secession of territory
 2. the implementation of which requires the passage, amendment or repeal of
@@ -869,14 +855,14 @@ The land boundary of Estonia is determined by the Tartu Peace Treaty of 2 Februa
 1920 and by other international boundary agreements. The sea and air boundaries
 of Estonia shall be determined on the basis of international conventions.
 The ratification of international treaties which alter the state borders of Estonia
-requires a two-thirds majority of the membership of the Riigikogu.
+requires a two-thirds majority of the membership of the Parliament.
 • Accession of territory
 • Secession of territory
 • International law Article 123 • Legal status of treaties
 The Republic of Estonia shall not enter into international treaties which are in
 conflict with the Constitution.
 If laws or other legislation of Estonia are in conflict with international treaties
-ratified by the Riigikogu, the provisions of the international treaty shall apply.
+ratified by the Parliament, the provisions of the international treaty shall apply.
 CHAPTER X: NATIONAL DEFENSE
 • Duty to serve in the military Article 124 • Right to conscientious objection
 Estonian citizens have a duty to participate in national defense on the bases of and
@@ -906,17 +892,17 @@ The National Defense Council is an advisory body to the President of the Republi
 and its membership and tasks shall be provided by law.
 • Advisory bodies to the head of state
 • Designation of commander in chief Article 128 • Power to declare/approve war
-The Riigikogu shall, on the proposal of the President of the Republic, declare a state
+The Parliament shall, on the proposal of the President of the Republic, declare a state
 of war, shall order mobilization and demobilization, and shall decide on the
 utilization of the armed forces in the fulfillment of the international obligations of
 the Estonian state.
 • International law
 In the case of aggression against the Republic of Estonia, the President of the
 Republic shall declare a state of war, shall order mobilization, and shall appoint the
-Commander- in-Chief of the Armed Forces without waiting for a Riigikogu
+Commander- in-Chief of the Armed Forces without waiting for a Parliament
 resolution.
 • Emergency provisions Article 129
-In the case of a threat to the Estonian constitutional order, the Riigikogu may, on the
+In the case of a threat to the Estonian constitutional order, the Parliament may, on the
 proposal of the President of the Republic or the Government of Estonia, by a
 majority of its membership, declare a state of emergency throughout the state, but
 for not longer than three months.
@@ -932,10 +918,10 @@ paragraph 3 of Article 20, Article 22, Article 23, paragraphs 2 and 4 of Article
 Article 25, Article 27, Article 28, paragraph 2 of Article 36, Article 40, Article 41,
 Article 49 and paragraph 1 of Article 51 of the Constitution shall not be restricted.
 • Emergency provisions Article 131
-During a state of emergency or a state of war, the Riigikogu, the President of the
+During a state of emergency or a state of war, the Parliament, the President of the
 Republic, and the representative bodies of local governments shall not be elected,
 nor shall their authority be terminated.
-The authority of the Riigikogu, the President of the Republic and the representative
+The authority of the Parliament, the President of the Republic and the representative
 bodies of local governments shall extend if the authority should terminate during a
 state of emergency or a state of war or within three months after the termination of
 a state of emergency or a state of war. In these cases, new elections shall be declared
@@ -957,15 +943,15 @@ one-half of the votes by way of parts or shares, or whose loans or
 contractual obligations are guaranteed by the state.
 Article 134
 The State Audit Office shall be directed by the Auditor General who shall be
-appointed to and released from office by the Riigikogu, on the proposal of the
+appointed to and released from office by the Parliament, on the proposal of the
 President of the Republic.
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 31
 The term of office of the Auditor-General shall be five years.
 Article 135
-The Auditor-General shall present to the Riigikogu an overview on the use and
+The Auditor-General shall present to the Parliament an overview on the use and
 preservation of state assets during the preceding budgetary year at the same time as
-the report on the implementation of the state budget is debated in the Riigikogu.
+the report on the implementation of the state budget is debated in the Parliament.
 Article 136
 The Auditor-General may participate in sessions of the Government of the Republic
 in which issues related to his or her duties are discussed, with the right to speak.
@@ -976,7 +962,7 @@ The organization of the State Audit Office shall be provided by law.
 Article 138
 Criminal charges may be brought against the Auditor-General only on the proposal
 of the Chancellor of Justice, and with the consent of the majority of the membership
-of the Riigikogu.
+of the Parliament.
 CHAPTER XII: THE CHANCELLOR OF
 JUSTICE
 Article 139
@@ -987,10 +973,10 @@ governments for conformity with the Constitution and the laws.
 • Constitutional interpretation
 The Chancellor of Justice shall analyze proposals made to him or her concerning the
 amendment of laws, the passage of new laws, and the activities of state agencies,
-and, if necessary, shall present a report to the Riigikogu.
+and, if necessary, shall present a report to the Parliament.
 The Chancellor of Justice shall, in the cases prescribed by Article 76, 85, 101, 138,
-153 of the Constitution, make a proposal to the Riigikogu that criminal charges be
-brought against a member of the Riigikogu, the President of the Republic, a member
+153 of the Constitution, make a proposal to the Parliament that criminal charges be
+brought against a member of the Parliament, the President of the Republic, a member
 of the Government of the Republic, the Auditor-General, the Chief Justice of the
 Supreme Court, or a justice of the Supreme Court.
 • Cabinet removal
@@ -999,7 +985,7 @@ Supreme Court, or a justice of the Supreme Court.
 • Head of state immunity
 • Immunity of legislators
 Article 140
-The Chancellor of Justice shall be appointed to office by the Riigikogu, on the
+The Chancellor of Justice shall be appointed to office by the Parliament, on the
 proposal of the President of the Republic, for a term of seven years.
 The Chancellor of Justice may be removed from office only by a court judgment.
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
@@ -1007,7 +993,7 @@ Estonia 1992 (rev. 2015) Page 32
 Article 141
 The Chancellor of Justice, in directing his or her office, has the same rights which are
 granted by law to a minister in directing a ministry.
-The Chancellor of Justice may participate in sessions of the Riigikogu and of the
+The Chancellor of Justice may participate in sessions of the Parliament and of the
 Government of the Republic with the right to speak.
 • Federal review of subnational legislation Article 142 • National vs subnational laws
 • Constitutional interpretation
@@ -1019,7 +1005,7 @@ If the legislation is not brought into conformity with the Constitution or the l
 within twenty days, the Chancellor of Justice shall propose to the Supreme Court to
 declare the legislation invalid.
 Article 143
-The Chancellor of Justice shall present an annual report to the Riigikogu on the
+The Chancellor of Justice shall present an annual report to the Parliament on the
 conformity of the legislation passed by the legislative and executive powers and by
 local governments with the Constitution and the laws.
 Article 144
@@ -1028,7 +1014,7 @@ shall be provided by law.
 Article 145
 Criminal charges may be brought against the Chancellor of Justice only on the
 proposal of the President of the Republic, and with the consent of the majority of the
-membership of the Riigikogu.
+membership of the Parliament.
 CHAPTER XIII: THE COURTS
 • Judicial independence Article 146
 Justice shall be administered solely by the courts. The courts shall be independent in
@@ -1064,9 +1050,9 @@ constitutional review.
 Rules regarding court administration and rules of court procedure shall be
 established by law.
 • Supreme court selection Article 150
-The Chief Justice of the Supreme Court shall be appointed to office by the Riigikogu,
+The Chief Justice of the Supreme Court shall be appointed to office by the Parliament,
 on the proposal of the President of the Republic.
-Justices of the Supreme Court shall be appointed to office by the Riigikogu, on the
+Justices of the Supreme Court shall be appointed to office by the Parliament, on the
 proposal of the Chief Justice of the Supreme Court.
 Other judges shall be appointed to office by the President of the Republic, on the
 proposal of the Supreme Court.
@@ -1089,7 +1075,7 @@ Republic.
 • Supreme court powers
 Criminal charges may be brought against the Chief Justice and justices of the
 Supreme Court only on the proposal of the Chancellor of Justice, and with the
-consent of the majority of the membership of the Riigikogu.
+consent of the majority of the membership of the Parliament.
 CHAPTER XIV: LOCAL GOVERNMENT
 • Municipal government
 Article 154
@@ -1132,7 +1118,7 @@ CONSTITUTION
 • Constitution amendment procedure
 Article 161
 The right to initiate amendment of the Constitution rests with not less than one-fifth
-of the membership of the Riigikogu and with the President of the Republic.
+of the membership of the Parliament and with the President of the Republic.
 Amendment of the Constitution shall not be initiated, nor shall the Constitution be
 amended, during a state of emergency or a state of war.
 • Emergency provisions
@@ -1142,32 +1128,32 @@ the Constitution may be amended only by a referendum.
 Article 163
 The Constitution shall be amended by an Act which has been passed by:
 1. a referendum; • Referenda
-2. two successive memberships of the Riigikogu;
-3. the Riigikogu, as a matter of urgency.
-A bill to amend the Constitution shall be debated for three readings in the Riigikogu,
+2. two successive memberships of the Parliament;
+3. the Parliament, as a matter of urgency.
+A bill to amend the Constitution shall be debated for three readings in the Parliament,
 in which the interval between the first and second readings shall be not less than
 three months, and the interval between the second and third readings shall be not
 less than one month. The manner in which the Constitution is to be amended shall be
 decided at the third reading.
 • Referenda Article 164
-A three-fifths majority of the membership of the Riigikogu is required to submit a bill
+A three-fifths majority of the membership of the Parliament is required to submit a bill
 to amend the Constitution to a referendum. The referendum shall be held not earlier
-than three months after the passage of a resolution to this effect by the Riigikogu.
+than three months after the passage of a resolution to this effect by the Parliament.
 constituteproject.org PDF generated: 20 Jul 2020, 22:02
 Estonia 1992 (rev. 2015) Page 36
 Article 165
-In order to amend the Constitution by two successive memberships of the Riigikogu,
+In order to amend the Constitution by two successive memberships of the Parliament,
 a bill to amend the Constitution must be supported by a majority of the membership
-of the Riigikogu.
+of the Parliament.
 If the bill to amend the Constitution which receives the support of the majority of the
-preceding membership of the Riigikogu is passed by the succeeding Riigikogu,
+preceding membership of the Parliament is passed by the succeeding Parliament,
 unamended, on its first reading and with a three-fifths majority, then the
 Constitution Amendment Act is passed.
 Article 166
 A resolution to consider a bill to amend the Constitution as a matter of urgency shall
-be passed by a four-fifths majority of the Riigikogu. In this case, the Constitution
+be passed by a four-fifths majority of the Parliament. In this case, the Constitution
 Amendment Act shall be passed by a two-thirds majority of the membership of the
-Riigikogu.
+Parliament.
 Article 167
 The Constitution Amendment Act shall be proclaimed by the President of the
 Republic and shall enter into force on the date specified therein, but not earlier than
@@ -1175,4 +1161,4 @@ three months from the date of proclamation.
 • Referenda Article 168
 An amendment to the Constitution regarding the same issue shall not be initiated
 within one year after the rejection of a corresponding bill by a referendum or by the
-Riigikogu.
+Parliament.
