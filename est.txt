@@ -22,38 +22,10 @@
 2.15. Derecho a la inviolabilidad de la vida privada.
 2.16. Derecho a formar familia, igualdad de derechos entre sus miembros. Niños protegidos por ley.
 2.17. Derecho a asistencia por edad o capacidad diferente. Derecho a la salud.
-2.18. 
-Article 29
-An Estonian citizen has the right to freely choose his or her area of activity,
-profession and place of work. Conditions and procedure for the exercise of this right
-may be provided by law. Citizens of foreign states and stateless persons who are in
-Estonia have this right equally with Estonian citizens, unless otherwise provided by
-law.
-No one shall be compelled to perform work or service against his or her free will,
-except service in the armed forces or alternative service, work to prevent the spread
-of an infectious disease, work in the case of a natural disaster or a catastrophe, and
-work which a convict must perform on the basis of and pursuant to procedure
-established by law.
-The state shall organize vocational training and shall assist persons who seek
-employment in finding work.
-Working conditions shall be under state supervision.
-Everyone may freely belong to unions and federations of employees and employers.
-Unions and federations of employees and employers may uphold their rights and
-lawful interests by means which are not prohibited by law. The conditions and
-procedure for the exercise of the right to strike shall be provided by law.
-• Right to join trade unions
-• Right to strike
-The procedure for resolution of labor disputes shall be provided by law.
-Article 30
-Positions in state agencies and local governments shall be filled by Estonian citizens,
-on the basis of and pursuant to procedure established by law. These positions may,
-as an exception, be filled by citizens of foreign states or stateless persons, in
-accordance with law.
-The right of some categories of state public servants to engage in enterprise and to
-form commercial associations (Article 31), as well as the right to belong to political
-parties and some types of non-profit associations (Article 48) may be restricted by
-law.
-• Right to establish a business Article 31
+2.18. Derecho al trabajo y a elegir profesión. Derecho a sindicalización y huelga.
+2.19. Los puestos en instituciones estatales, regionales y locales serán llenados por ciudadanos. 
+2.20. 
+Article 31
 Estonian citizens have the right to engage in enterprise and to form commercial
 undertakings and unions. Conditions and procedure for the exercise of this right may
 be provided by law. Citizens of foreign states and stateless persons who are in
@@ -72,9 +44,7 @@ public interest.
 Classes of property which, in the public interest, may be acquired in Estonia only by
 Estonian citizens, some categories of legal persons, local governments, or the
 Estonian state may be provided by law.
-The right of succession is guaranteed. • Right to transfer property
-• Regulation of evidence collection Article 33 • Inalienable rights
-• Right to privacy
+The right of succession is guaranteed. 
 The home is inviolable. No one’s dwelling, real or personal property under his or her
 control, or place of employment shall be forcibly entered or searched, except in the
 cases and pursuant to procedure provided by law, to protect public order, health or
@@ -88,7 +58,7 @@ of others, in the interests of national defense, in the case of a natural disast
 catastrophe, to prevent the spread of an infectious disease, to protect the natural
 environment, to prevent the leaving of a minor or a person of unsound mind without
 supervision, or to ensure the administration of a criminal procedure.
-• Restrictions on entry or exit Article 35
+Article 35
 Right to leave Estonia. This right may be restricted in the cases and
 pursuant to procedure provided by law to ensure the administration of court or
 pre-trial procedure, or to execute a court judgment.
@@ -104,8 +74,6 @@ Article 37
 Right to education. Education is compulsory for school-age children
 to the extent specified by law, and shall be free of charge in state and local
 government general education schools.
-• Compulsory education
-• Free education
 In order to make education accessible, the state and local governments shall
 maintain the requisite number of educational institutions. Other educational
 institutions, including private schools, may also be established and maintained
@@ -114,11 +82,9 @@ Parents shall have the final decision in the choice of education for their child
 Right to receive instruction in Estonian. The language of instruction
 in national minority educational institutions shall be chosen by the educational
 institution.
-• Protection of language use
 The provision of education shall be supervised by the state.
-• Right to academic freedom Article 38
+Article 38
 Science and art and their instruction are free. • Reference to art
-• Reference to science
 Universities and research institutions are autonomous within the restrictions
 prescribed by law.
 • Provisions for intellectual property Article 39
