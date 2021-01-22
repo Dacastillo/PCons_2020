@@ -1,1130 +1,1168 @@
-1.1. Chile es una república democrática, independiente y soberana cuyo poder reside en el pueblo.
-1.2  El territorio estonio es un todo inseparable. Estonia es un Estado Unitario con división administrativa provista por ley.
-1.3. La autoridad estatal se ejercitará solo conforme a lo que la Constitución, las leyes publicadas y los acuerdos internacionales prescriban.
-1.4. Las actividades del Parlamento, la Presidencia y los Tribunales de Justicia se organizarán en equilibrio y con atribuciones debidamente separadas.
-1.5. Las riquezas y recursos naturales de Chile son recursos nacionales y corresponde al Estado dirigir su explotación y conservación.
-1.6. Las lenguas oficiales son el Castellano, el Aymara, el Rapanui y el Mapuzungun.
-1.7. La bandera, escudo, Himno Nacional y emblemas nacionales serán definidos por ley.
-2.1  Todo hijo de ciudadano chileno tiene derecho a la nacionalidad chilena. 
-2.2. Los derechos y deberes de cada persona serán iguales para ciudadanos y habitantes de Chile, estando de acuerdo con el Derecho Internacional.
-2.3. Los derechos y deberes proclamados surgen del espíritu de la Dignidad Humana, la Justicia Social, la Democracia y el Respeto a la Ley.
-2.4. Los derechos y libertades solo se pueden restringir de acuerdo con la Constitución. Toda discriminación a otra persona será castigada de acuerdo a Ley.
-2.5. El Estado debe proteger a sus ciudadanos dentro y fuera del país. La ley los protegerá a todos del ejercicio arbitrario del poder.
-2.6. La garantía de derechos y libertades es deber de los poderes del Estado y los gobiernos locales.
-2.7. Todos cuyos derechos hayan sido violados tienen derecho de apelar ante los Tribunales de Justicia y recibir un juicio justo y transparente.
-2.8. Derecho a la vida y a la dignidad de esta, que debe ser protegido por ley.
-2.9  Ningún habitante será sujeto a torturas o castigos contra su voluntad.
-2.10. Derecho a constuir identidad y personalidad, considerando derechos y deberes de los demás.
-2.11. Ningún habitante será privado de su libertad excepto en casos estipulados por ley. Y será protegido en caso contrario.
-2.12. Ningún habitante sera acusado de algún delito que no esté estipulado en una ley. Y será protegido en caso contrario.
-2.13  Ningún habitante será juzgado de forma arbirtraria. Los juicios deben ser públicos y auditables.
-2.14. Derecho a ser compensado por daños materiales y morales por la acción ilegal de cualquier otra persona.
-2.15. Derecho a la inviolabilidad de la vida privada.
-2.16. Derecho a formar familia, igualdad de derechos entre sus miembros. Niños protegidos por ley.
-2.17. Derecho a asistencia por edad o capacidad diferente. Derecho a la salud.
-2.18. Derecho al trabajo y a elegir profesión. Derecho a sindicalización y huelga.
-2.19. Los puestos en instituciones estatales, regionales y locales serán llenados por ciudadanos. 
-2.20. 
-Article 31
-Estonian citizens have the right to engage in enterprise and to form commercial
-undertakings and unions. Conditions and procedure for the exercise of this right may
-be provided by law. Citizens of foreign states and stateless persons who are in
-Estonia have this right equally with Estonian citizens, unless otherwise provided by
-law.
-Article 32
-The property of every person is inviolable and equally protected. Property may be
-expropriated without the consent of the owner only in the public interest, in the
-cases and pursuant to procedure provided by law, and for fair and immediate
-compensation. Everyone whose property is expropriated without his or her consent
-has the right of recourse to the courts and to contest the expropriation, the
-compensation, or the amount thereof.
-Right to freely possess, use, and dispose of his or her property.
-Restrictions shall be provided by law. Property shall not be used contrary to the
-public interest.
-Classes of property which, in the public interest, may be acquired in Estonia only by
-Estonian citizens, some categories of legal persons, local governments, or the
-Estonian state may be provided by law.
-The right of succession is guaranteed. 
-The home is inviolable. No one’s dwelling, real or personal property under his or her
-control, or place of employment shall be forcibly entered or searched, except in the
-cases and pursuant to procedure provided by law, to protect public order, health or
-the rights and freedoms of others, to combat a criminal offence, to apprehend a
-criminal offender, or to ascertain the truth in a criminal procedure.
-• Protection of environment Article 34 • Freedom of movement
-Everyone who is legally in Estonia has the right to freedom of movement and to
-choice of residence. The right to freedom of movement may be restricted in the
-cases and pursuant to procedure provided by law to protect the rights and freedoms
-of others, in the interests of national defense, in the case of a natural disaster or a
-catastrophe, to prevent the spread of an infectious disease, to protect the natural
-environment, to prevent the leaving of a minor or a person of unsound mind without
-supervision, or to ensure the administration of a criminal procedure.
-Article 35
-Right to leave Estonia. This right may be restricted in the cases and
-pursuant to procedure provided by law to ensure the administration of court or
-pre-trial procedure, or to execute a court judgment.
-Article 36
-No Estonian citizen shall be expelled from Estonia or prevented from settling in
+CAPÍTULO I
+DISPOSICIONES GENERALES
+Artículo 1
+Estonia es una República democrática independiente y soberana
+donde el poder supremo del Estado reside en el pueblo.
+La independencia y la soberanía de Estonia son intemporales e
+inalienables.
+* Documentación facilitada en inglés por la Dirección de Estudios y Documentación
+del Congreso de los Diputados, Departamento de Documentación, preparada por la documentalista de las Cortes Generales Dña. Rosa María Grau Guadix. Traducción realizada por
+Federico de Montalvo Jääskeläinen de la Facultad de Derecho (ICADE) de la Universidad
+Pontificia Comillas de Madrid.
+CONSTITUCIÓN DE ESTONIA 233
+Artículo 2
+El territorio, las aguas territoriales y el espacio aéreo del Estado
+Estonio son un todo inseparable e indivisible.
+Estonia es políticamente un Estado unitario en donde la división
+administrativa estará establecida por la ley.
+Artículo 3
+La autoridad del Estado será ejercitada solamente conforme a la
+Constitución y a las leyes que estarán de acuerdo a ella. Los principios
+y las reglas generalmente reconocidos del Derecho internacional son
+parte inseparable del sistema legislativo estonio.
+Las leyes se publicarán de la manera prescrita. Solamente las leyes
+publicadas son vinculantes.
+Artículo 4
+Las actividades del Riigikogu *, el Presidente de la República, el
+Gobierno de la República, y los Tribunales se organizarán bajo el principio de la separación y equilibrio de poderes.
+Artículo 5
+La riqueza y los recursos naturales de Estonia son riqueza nacional
+y serán utilizadas económicamente.
+Artículo 6
+La lengua oficial de Estonia es el estonio.
+Artículo 7
+Los colores nacionales de Estonia son azul, negro y blanco. El diseño
+de la bandera nacional y el escudo nacional estarán establecidos por ley.
+234 REVISTA DE LAS CORTES GENERALES
+CAPÍTULO II
+DERECHOS FUNDAMENTALES, LIBERTADES Y DEBERES
+Artículo 8
+Cada niño, cuando al menos uno de sus padres sea ciudadano estonio, tiene el derecho a la ciudadanía por nacimiento.
+Cualquiera que haya perdido su ciudadanía estonia cuando era
+menor de edad tiene el derecho a recuperarla.
+Nadie será privado de la ciudadanía estonia adquirida por nacimiento.
+Nadie será privado de la ciudadanía estonia debido a sus creencias.
+Las condiciones y los procedimientos para la adquisición, la pérdida y la recuperación de la ciudadanía estonia, serán establecidas por la
+Ley de Ciudadanía.
+Artículo 9
+Los derechos, libertades y deberes de cada persona, según lo establecido en la Constitución, serán iguales para los ciudadanos estonios y
+para los ciudadanos de Estados extranjeros y personas apátridas en
 Estonia.
-No Estonian citizen shall be extradited to a foreign state, except under conditions
-prescribed by an international treaty and pursuant to procedure provided by such
-treaty and by law. Extradition shall be decided by the Government of the Republic.
-Everyone who is under an extradition order has the right to contest the extradition
-in an Estonian court.
-Article 37
-Right to education. Education is compulsory for school-age children
-to the extent specified by law, and shall be free of charge in state and local
-government general education schools.
-In order to make education accessible, the state and local governments shall
-maintain the requisite number of educational institutions. Other educational
-institutions, including private schools, may also be established and maintained
-pursuant to law.
-Parents shall have the final decision in the choice of education for their children.
-Right to receive instruction in Estonian. The language of instruction
-in national minority educational institutions shall be chosen by the educational
-institution.
-The provision of education shall be supervised by the state.
-Article 38
-Science and art and their instruction are free. • Reference to art
-Universities and research institutions are autonomous within the restrictions
-prescribed by law.
-• Provisions for intellectual property Article 39
-An author has the inalienable right to his or her work. The state shall protect the
-rights of the author.
-• Freedom of religion Article 40
-Everyone has freedom of conscience, religion and thought. • Freedom of opinion/thought/conscience
-Everyone may freely belong to churches and religious societies. There is no state
-church.
-• Official religion
-Everyone has the freedom to exercise his or her religion, both alone and in
-community with others, in public or in private, unless this is detrimental to public
-order, health or morals.
-• Freedom of opinion/thought/conscience Article 41
-Right to remain faithful to his or her opinions and beliefs. No one
-shall be compelled to change them.
-Beliefs shall not excuse a violation of the law.
-No one shall bear legal liability because of his or her beliefs.
-Article 42
-State agencies, local governments, and their officials shall not gather or store
-information about the beliefs of an Estonian citizen against the citizen’s free will.
-Right to confidentiality of messages sent or received by him or her
-by post, telegraph, telephone or other commonly used means. Exceptions may be
-made by court authorization to combat a criminal offence, or to ascertain the truth in
-a criminal procedure, in the cases and pursuant to procedure provided by law.
-• Right to information Article 44
-Right to freely obtain information disseminated for public use.
-All state agencies, local governments, and their officials have a duty to provide
-information about their activities, pursuant to procedure provided by law, to an
-Estonian citizen at his or her request, except information the disclosure of which is
-prohibited by law, and information intended exclusively for internal use.
-An Estonian citizen has the right to access information about himself or herself held
-in state agencies and local governments and in state and local government archives,
-pursuant to procedure provided by law. This right may be restricted pursuant to law
-to protect the rights and freedoms of others or the confidentiality of a child’s
-filiation, and in the interests of combating a criminal offence, apprehending a
-criminal offender, or ascertaining the truth in a criminal procedure.
-Citizens of foreign states and stateless persons who are in Estonia have the rights
-specified in paragraphs two and three of this section equally with Estonian citizens,
-unless otherwise provided by law.
-• Freedom of expression Article 45 • Freedom of press
-Right to freely disseminate ideas, opinions, beliefs and other
-information by word, print, picture or other means. This right may be restricted by
-law to protect public order, morals, and the rights and freedoms, health, honor and
-good name of others. This right may also be restricted by law for state and local
-government public servants, to protect a state or business secret or information
-received in confidence, which has become known to them by reason of their office,
-and the family and private life of others, as well as in the interests of justice.
-There is no censorship.
-• Right of petition Article 46
-Right to address state agencies, local governments, and their
-officials with memoranda and petitions. The procedure for responding shall be
-provided by law.
-• Freedom of assembly Article 47
-Right, without prior permission, to assemble peacefully and to
-conduct meetings. This right may be restricted in the cases and pursuant to
-procedure provided by law to ensure national security, public order, morals, traffic
-safety, and the safety of participants in a meeting, or to prevent the spread of an
-infectious disease.
-• Freedom of association Article 48 • Right to form political parties
-Right to form non-profit associations. Only Estonian citizens may
-belong to political parties.
-The establishment of organizations and unions which possess weapons, are militarily
-organized or perform military exercises requires prior permission, for which the
-conditions and procedure of issuance shall be provided by law.
-Organizations, unions, and political parties whose aims or activities are directed at
-changing the constitutional order of Estonia by force, or are otherwise in conflict
-with the law providing for criminal liability, are prohibited.
-• Prohibited political parties
-Only a court may terminate or suspend the activities of, or fine, an organization,
-union or political party, for a violation of the law.
-• Regulation of political parties
-Article 49
-Right to preserve his or her national identity.
-• Right to culture Article 50 • Integration of ethnic communities
-• Right to self determination
-National minorities have the right, in the interests of national culture, to establish
-self-governing agencies under conditions and pursuant to procedure provided by the
-National Minorities Cultural Autonomy Act.
-• Official or national languages Article 51 • Protection of language use
-Right to address state agencies, local governments, and their
-officials in Estonian and to receive responses in Estonian.
-In localities where at least one-half of the permanent residents belong to a national
-minority, everyone has the right to also receive responses from state agencies, local
-governments, and their officials in the language of the national minority.
-• Official or national languages Article 52
-The official language of state agencies and local governments shall be Estonian.
-In localities where the language of the majority of the residents is not Estonian, local
-governments may, to the extent and pursuant to procedure provided by law, use the
-language of the majority of the permanent residents of the locality as an internal
-working language.
-• Protection of language use
-The use of foreign languages, including the languages of national minorities, in state
-agencies and in court and pre-trial procedure shall be provided by law.
-• Protection of environment Article 53
-Everyone has a duty to preserve the human and natural environment and to
-compensate for damage caused to the environment by him or her. The procedure for
-compensation shall be provided by law.
-Article 54
-An Estonian citizen has a duty to be loyal to the constitutional order and to defend
-the independence of Estonia.
-• Duty to obey the constitution
-If no other means are available, every Estonian citizen has the right to initiate
-resistance against a forcible change of the constitutional order.
-Article 55
-Citizens of foreign states and stateless persons who are in Estonia have a duty to
-observe the constitutional order of Estonia.
-CHAPTER III: THE PEOPLE
-Article 56
-The supreme power of state shall be exercised by the people through citizens with
-the right to vote:
-1. by electing the Parliament;
-2. through a referendum. • Referenda
-• Restrictions on voting Article 57
-An Estonian citizen who has attained eighteen years of age has the right to vote.
-An Estonian citizen who has been divested of his or her legal capacity by a court does
-not have the right to vote.
-• Restrictions on voting Article 58
-Participation in voting may be restricted by law for Estonian citizens who have been
-convicted by a court and are serving sentences in penal institutions.
-CHAPTER IV: THE RIIGIKOGU
-• Structure of legislative chamber(s) Article 59
-Legislative power is vested in the Parliament.
-Article 60
-The Parliament shall be comprised of one hundred and one members. Members of the
-Parliament shall be elected in free elections on the principle of proportionality.
-Elections shall be general, uniform and direct. Voting shall be secret.
-• Secret ballot
-• Size of first chamber
-• First chamber selection
-Every Estonian citizen who has attained twenty-one years of age and has the right to
-vote may be a candidate for the Parliament.
-• Minimum age for first chamber
-• Eligibility for first chamber
-Regular elections to the Parliament shall be held on the first Sunday in March of the
-fourth year following the preceding Parliament election year.
-• Scheduling of elections
-• Term length for first chamber
-Extraordinary elections to the Parliament shall be held, in the cases prescribed in
-Article 89, 97, 105 and 119 of the Constitution, not earlier than twenty and not later
-than forty days after the elections are declared.
-• Scheduling of elections
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 14
-The procedure for the election of the Parliament shall be provided by the Parliament
-Election Act.
-• First chamber selection
-Article 61
-The authority of the members of the Parliament shall commence on the day the results
-of the elections are announced. The authority of the members of the preceding
-Parliament shall terminate on the same day.
-Before assuming his or her duties, a member of the Parliament shall take an oath of
-office to remain loyal to the Republic of Estonia and to its constitutional order.
-• Oaths to abide by constitution
-• Immunity of legislators Article 62
-A member of the Parliament shall not be bound by his or her mandate, or incur legal
-liability for votes cast or political statements made by him or her in the Parliament or
-in any of its bodies.
-• Outside professions of legislators Article 63
-A member of the Parliament shall not hold any other state office.
-A member of the Parliament is exempt from the duty to serve in the Armed Forces
-during his or her term of office.
-Article 64
-The authority of a member of the Parliament shall be suspended upon his or her
-appointment as a member of the Government of the Republic, and shall be restored
-upon release from his or her duties as a member of the Government.
-• Eligibility for cabinet
-• Head of government's role in the
-legislature
-The authority of a member of the Parliament shall terminate prematurely: • Removal of individual legislators
-1. upon his or her assumption of another state office;
-2. upon the entry into force of a conviction by a court against him or her;
-3. upon his or her resignation, pursuant to procedure provided by law;
-4. if the Supreme Court decides that he or she is incapable of performing his
-or her duties for an extended period;
-• Supreme court powers
-5. upon his or her death.
-Upon the suspension or premature termination of the authority of a member of the
-Parliament, he or she shall be replaced by an alternate member, pursuant to procedure
-provided by law. An alternate member has all the rights and duties of a member of
-the Parliament.
-• Replacement of legislators
-The authority of an alternate member shall terminate upon the restoration of the
-authority of the member of the Parliament.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 15
-Article 65
-The Parliament shall:
-1. pass laws and resolutions;
-2. decide on the holding of a referendum; • Referenda
-3. elect the President of the Republic, pursuant to Article 79 of the
-Constitution;
-• Head of state selection
-4. ratify and denounce international treaties, in accordance with Article 121
-of the Constitution;
-• International law
-• Treaty ratification
-5. authorize the candidate for Prime Minister to form the Government of the
-Republic;
-• Cabinet selection
-6. pass the state budget and approve the report on its implementation; • Budget bills
-7. on the proposal of the President of the Republic, appoint to office the Chief
-Justice of the Supreme Court, the Chairman of the Board of the Bank of
-Estonia, the Auditor General and the Chancellor of Justice;
-• Central bank
-• Supreme court selection
-8. on the proposal of the Chief Justice of the Supreme Court, appoint to office
-justices of the Supreme Court;
-• Supreme court selection
-9. appoint members of the Board of the Bank of Estonia; • Central bank
-10. on the proposal of the Government, decide on borrowing by the state and
-on the assumption of other proprietary obligations by the state;
-11. present statements, declarations and appeals to the people of Estonia,
-other states, and international organizations;
-• International organizations
-12. establish state awards, and military and diplomatic ranks;
-13. decide on the expression of no confidence in the Government of the
-Republic, the Prime Minister or individual ministers;
-• Cabinet removal
-• Head of government removal
-14. declare a state of emergency in the state, pursuant to Article 129 of the
-Constitution;
-• Emergency provisions
-15. on the proposal of the President of the Republic, declare a state of war, and
-order mobilization and demobilization;
-• Power to declare/approve war
-16. resolve other national issues which the Constitution does not vest in the
-President of the Republic, the Government of the Republic, other state
-bodies or local governments.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 16
-Article 66
-The first session of the new membership of the Parliament shall be held within ten
-days after the announcement of the results of the elections to the Parliament. The first
-session of the Parliament shall be convened by the President of the Republic.
-• Length of legislative sessions Article 67
-Regular sessions of the Parliament shall take place from the second Monday of
-January to the third Thursday of June, and from the second Monday of September to
-the third Thursday of December.
-• Extraordinary legislative sessions Article 68
-Extraordinary sessions of the Parliament shall be convened by the Chairman of the
-Parliament, on the proposal of the President of the Republic, the Government of the
-Republic, or not less than one-fifth of the membership of the Parliament.
-• Leader of first chamber Article 69
-The Parliament shall elect from among its members the Chairman of the Parliament and
-two Deputy Chairmen who shall manage the work of the Parliament pursuant to the
-Parliament Procedure Act and the Parliament Administration Act.
-• Quorum for legislative sessions Article 70
-The quorum for the Parliament shall be provided by the Parliament Procedure Act. In an
-extraordinary session, the Parliament shall have a quorum if more than one-half of the
-membership of the Parliament is present.
-• Legislative committees Article 71
-The Parliament shall form committees.
-Members of the Parliament have the right to form factions.
-The procedure for the formation of committees and factions, and their rights, shall
-be provided by the Parliament Procedure Act.
-Article 72
-Sessions of the Parliament shall be public, unless the Parliament by a two-thirds
-majority decides otherwise.
-• Public or private sessions
-Voting in the Parliament shall be open. Voting by secret ballot shall be held in the cases
-prescribed by the Constitution or by the Parliament Procedure Act, only in the
-election or appointment of officials.
-• Secrecy of legislative votes
-Article 73
-Legislation of the Parliament shall be passed by a majority of votes in favor, unless
-otherwise prescribed by the Constitution.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 17
-• Legislative oversight of the executive Article 74
-A member of the Parliament has the right to make inquiries to the Government of the
-Republic and its members, to the Chairman of the Board of the Bank of Estonia, the
-President of the Bank of Estonia, the Auditor General and the Chancellor of Justice.
-The inquiries shall be answered at a session of the Parliament within twenty session
-days.
-• Compensation of legislators Article 75
-The remuneration of members of the Parliament and restrictions on the receipt of
-other employment income shall be provided by law, which may be amended for the
-next membership of the Parliament.
-• Immunity of legislators Article 76
-A member of the Parliament enjoys immunity. Criminal charges may be brought
-against him or her only on the proposal of the Chancellor of Justice, and with the
-consent of the majority of the membership of the Parliament.
-CHAPTER V: THE PRESIDENT OF THE
-REPUBLIC
-• Name/structure of executive(s) Article 77
-The President of the Republic is the head of state of Estonia.
-• Head of state powers Article 78
-The President of the Republic shall:
-1. represent the Republic of Estonia in international relations; • Foreign affairs representative
-2. appoint and recall diplomatic agents of the Republic of Estonia, on the
-proposal of the Government of the Republic, and receive the credentials of
-diplomatic agents accredited to Estonia;
-• Foreign affairs representative
-3. declare regular elections to the Parliament and, pursuant to Article 89, 97,
-105 and 119 of the Constitution, extraordinary elections to the Parliament;
-• Extraordinary legislative sessions
-4. convene the new membership of the Parliament, pursuant to Article 66 of the
-Constitution, and open its first session;
-5. propose to the Chairman of the Parliament to convene an extra-ordinary
-session of the Parliament, pursuant to Article 68 of the Constitution;
-6. proclaim laws, pursuant to Article 105 and 107 of the Constitution, and sign
-instruments of ratification;
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 18
-7. issue decrees, pursuant to Article 109 and 110 of the Constitution; • Head of state decree power
-8. initiate amendment of the Constitution; • Constitution amendment procedure
-9. designate the candidate for Prime Minister, pursuant to Article 89 of the
-Constitution;
-• Head of government selection
-10. appoint to and release from office members of the Government, pursuant
-to Article 89, 90, and 92 of the Constitution;
-• Cabinet removal
-• Cabinet selection
-11. make proposals to the Parliament for appointments to the offices of Chief
-Justice of the Supreme Court, Chairman of the Board of the Bank of
-Estonia, Auditor General and Chancellor of Justice;
-• Central bank
-• Supreme court selection
-12. on the proposal of the Board of the Bank of Estonia, appoint to office the
-President of the Bank of Estonia;
-• Central bank
-13. on the proposal of the Supreme Court, appoint judges; • Supreme court selection
-• Ordinary court selection
-14. [repealed by RT I, 27.04.2011, 1 - entry into force 22.07.2011];
-15. confer state awards, and military and diplomatic ranks; • Selection of active-duty commanders
-16. be the supreme commander of the national defense of Estonia; • Designation of commander in chief
-17. make proposals to the Parliament to declare a state of war, to order
-mobilization and demobilization, and, pursuant to Article 129 of the
-Constitution, to declare a state of emergency;
-• Emergency provisions
-• Power to declare/approve war
-18. declare, in the case of aggression against Estonia, a state of war and order
-mobilization pursuant to Article 128 of the Constitution;
-• Power to declare/approve war
-19. by way of clemency release or grant commutation to convicts at their
-request;
-• Power to pardon
-20. initiate the bringing of criminal charges against the Chancellor of Justice,
-pursuant to Article 145 of the Constitution.
-• Head of state selection Article 79
-The President of the Republic shall be elected by the Parliament, or, in the case
-provided by paragraph four of this section, by an electoral body.
-The right to nominate a candidate for President of the Republic rests with not less
-than one-fifth of the membership of the Parliament.
-An Estonian citizen by birth who has attained forty years of age may be nominated as
-a candidate for President of the Republic.
-• Minimum age of head of state
-• Eligibility for head of state
-The President of the Republic shall be elected by secret ballot. Each member of the
-Parliament shall have one vote. A candidate in favor of whom a two-thirds majority of
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 19
-the membership of the Parliament votes shall be considered elected. If no candidate
-receives the required majority, a new round of voting shall be held on the next day.
-Before the second round of voting, a new nomination of candidates shall be held. If
-no candidate receives the required majority in the second round of voting, a third
-round of voting shall be held on the same day between the two candidates who
-receive the greatest number of votes in the second round. If the President of the
-Republic is still not elected in the third round of voting, the Chairman of the
-Parliament shall, within one month, convene an electoral body to elect the President
-of the Republic.
-The electoral body shall be comprised of members of the Parliament and
-representatives of the local government councils. Each local government council
-shall elect at least one representative to the electoral body, who must be an Estonian
-citizen.
-The Parliament shall present the two candidates who receive the greatest number of
-votes in the Parliament to the electoral body as candidates for President. The right to
-nominate a candidate for President also rests with not less than twenty-one
-members of the electoral body.
-The electoral body shall elect the President of the Republic by a majority of the
-voting electoral body members. If no candidate is elected in the first round, a second
-round of voting shall be held on the same day between the two candidates who
-receive the greatest number of votes.
-The specific procedure for the election of the President of the Republic shall be
-provided by the President of the Republic Election Act.
-Article 80
-The President of the Republic shall be elected for a term of five years. No one shall
-be elected to the office of President of the Republic for more than two consecutive
-terms.
-• Head of state term length
-• Head of state term limits
-The regular election of the President of the Republic shall be held not earlier than
-sixty and not later than ten days before the end of the term of office of the President
-of the Republic.
-• Scheduling of elections
-• Oaths to abide by constitution Article 81
-The President of the Republic shall assume office by swearing the following oath of
-office to the people of Estonia before the Parliament:
-"In assuming the office of President of the Republic, I (given name and surname),
-solemnly swear to steadfastly defend the Constitution and the laws of the Republic
-of Estonia, to exercise the power entrusted to me in a just and impartial manner, and
-to faithfully perform my duties with all of my abilities and to the best of my
-under-standing, for the benefit of the people of Estonia and the Republic of Estonia.”
-• Head of state removal Article 82
-The powers of the President of the Republic shall terminate upon:
-1. his or her resignation from office;
-2. the entry into force of a conviction by a court against him or her;
-3. his or her death;
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 20
-4. the assumption of office of the new President of the Republic.
-• Supreme court powers Article 83
-If the President of the Republic is incapable of performing his or her duties for an
-extended period as decided by the Supreme Court, or if he or she is temporarily
-unable to perform them as in the cases specified by law, or if his or her powers have
-terminated prematurely, then his or her duties shall temporarily transfer to the
-Chairman of the Parliament.
-During the time that the Chairman of the Parliament is performing the duties of the
-President of the Republic, his or her authority as a member of the Parliament shall be
-suspended.
-The Chairman of the Parliament, acting as President of the Republic, does not have the
-right, without the consent of the Supreme Court, to declare extraordinary elections
-to the Parliament or to refuse to proclaim laws.
-If the President of the Republic is unable to perform his or her official duties for
-longer than three consecutive months, or if his or her powers terminate prematurely,
-the Parliament shall elect a new President of the Republic within fourteen days,
-pursuant to Article 79 of the Constitution.
-• Head of state replacement
-Article 84
-Upon assuming office, the authority and duties of the President of the Republic in all
-elected and appointed offices shall terminate, and he or she shall suspend his or her
-membership in political parties for the duration of his or her term of office.
-• Head of state immunity Article 85
-Criminal charges may be brought against the President of the Republic only on the
-proposal of the Chancellor of Justice, and with the consent of the majority of the
-membership of the Parliament.
-CHAPTER VI: THE GOVERNMENT OF THE
-REPUBLIC
-• Establishment of cabinet/ministers
-Article 86
-Executive power is vested in the Government of the Republic.
-• Powers of cabinet Article 87
-The Government of the Republic shall:
-1. execute the domestic and foreign policies of the state;
-2. direct and co-ordinate the activities of government agencies;
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 21
-3. administer the implementation of laws, resolutions of the Parliament, and
-legislation of the President of the Republic;
-4. introduce bills, and submit international treaties to the Parliament for
-ratification and denunciation;
-• International law
-• Initiation of general legislation
-• Treaty ratification
-5. prepare the draft of the state budget and submit it to the Parliament,
-administer the implementation of the state budget and present a report on
-the implementation of the state budget to the Parliament;
-• Budget bills
-6. issue regulations and orders on the basis of and for the implementation of
-law;
-7. manage relations with other states;
-8. declare an emergency situation throughout the state or in a part thereof, in
-the case of a natural disaster or a catastrophe, or to prevent the spread of
-an infectious disease;
-• Emergency provisions
-9. perform other duties which the Constitution and the laws vest in the
-Government of the Republic.
-• Name/structure of executive(s) Article 88
-The Government of the Republic shall be comprised of the Prime Minister and
-ministers.
-• Cabinet selection Article 89 • Head of government selection
-• Dismissal of the legislature
-The President of the Republic shall, within fourteen days after the resignation of the
-Government of the Republic, designate a candidate for Prime Minister to whom the
-President of the Republic shall assign the task of forming a new government.
-The candidate for Prime Minister shall, within fourteen days after receiving the task
-of forming a new government, present the bases for the formation of the
-forthcoming government to the Parliament, after which the Parliament shall decide,
-without debate and by an open vote, whether to authorize the candidate for Prime
-Minister to form a government.
-The candidate for Prime Minister who is authorized by the Parliament to form a
-government shall, within seven days, present the membership of the government to
-the President of the Republic, who shall appoint the government to office within
-three days.
-If the candidate for Prime Minister designated by the President of the Republic does
-not receive a majority of votes in favor from the Parliament, or is unable or declines to
-form a government, the President of the Republic has the right to present a second
-candidate for Prime Minister within seven days.
-If the President of the Republic does not present a second candidate for Prime
-Minister within seven days or declines to do so, or if the second candidate is unable
-to obtain authority from the Parliament under the conditions and time restraints in
-paragraphs two and three of this section, or is unable or declines to form a
-government, then the right to nominate a candidate for Prime Minister shall transfer
-to the Parliament.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 22
-The Parliament shall nominate a candidate for Prime Minister who shall present the
-membership of a government to the President of the Republic. If the membership of
-a government is not presented to the President of the Republic within fourteen days
-after the transfer to the Parliament of the right to nominate a candidate for Prime
-Minister, the President of the Republic shall declare extraordinary elections to the
-Parliament.
-• Cabinet removal Article 90
-Changes to the appointed membership of the Government of the Republic shall be
-made by the President of the Republic, on the proposal of the Prime Minister.
-Article 91
-The Government shall assume office by taking an oath of office before the Parliament.
-• Cabinet removal Article 92 • Head of government removal
-The Government of the Republic shall resign upon:
-1. the convention of the new membership of the Parliament;
-2. the resignation or death of the Prime Minister;
-3. the expression of no confidence in the Government of the Republic or the
-Prime Minister by the Parliament.
-The President of the Republic shall release the Government of the Republic from
-office upon the assumption of office of the new Government.
-Article 93
-The Prime Minister shall represent the Government of the Republic and shall direct
-its activities.
-The Prime Minister shall appoint two ministers who have the right to substitute for
-the Prime Minister during his or her absence. The procedure for substitution shall be
-specified by the Prime Minister.
-Article 94
-Corresponding ministries shall be established, pursuant to law, for the
-administration of the areas of government.
-A minister shall direct a ministry, shall manage issues within its area of government,
-shall issue regulations and directives on the basis and for the implementation of law,
-and shall perform other duties assigned to him or her on the bases of and pursuant to
-procedure provided by law.
-• Powers of cabinet
-If a minister is temporarily unable to perform the duties of his or her office due to
-illness or other hindrances, the Prime Minister shall transfer the duties of the
-minister to another minister for this time.
-The President of the Republic may, on the proposal of the Prime Minister, appoint
-ministers to office who do not direct ministries.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 23
-Article 95
-The State Chancellery, directed by the State Secretary, is within the Government of
-the Republic.
-The State Secretary shall be appointed to and released from office by the Prime
-Minister.
-The State Secretary shall participate in sessions of the Government with the right to
-speak.
-The State Secretary, as the director of the State Chancellery, has the same rights
-which are granted by law to a minister in directing a ministry.
-Article 96
-Sessions of the Government of the Republic shall be closed, unless the Government
-decides otherwise.
-The Government shall make its decisions on the proposal of the Prime Minister or
-the appropriate minister.
-Government regulations shall have force if they bear the signatures of the Prime
-Minister, the appropriate minister and the State Secretary.
-• Cabinet removal Article 97 • Head of government removal
-• Limits on removing head of government
-The Parliament may express no-confidence in the Government of the Republic, the
-Prime Minister, or a minister by a resolution in favor of which a majority of the
-membership of the Parliament votes.
-An expression of no-confidence may be initiated by not less than one-fifth of the
-membership of the Parliament by the presentation of a written motion at a session of
-the Parliament.
-An expression of no-confidence may be decided not earlier than on the second day
-after its initiation, unless the Government requires a more expeditious decision.
-If no-confidence is expressed in the Government or the Prime Minister, the
-President of the Republic may, on the proposal of the Government and within three
-days, declare extraordinary elections to the Parliament.
-• Dismissal of the legislature
-If no-confidence is expressed in a minister, the Chairman of the Parliament shall notify
-the President of the Republic, who shall release the minister from office.
-An expression of no-confidence on the same ground may be initiated not earlier than
-three months after the previous vote of no-confidence.
-• Cabinet removal Article 98
-The Government of the Republic may bind the passage of a bill it introduces to the
-Parliament to the issue of confidence.
-Voting shall not take place earlier than on the second day after the bill is bound to
-the issue of confidence. If the Parliament does not pass the bill, the Government shall
-resign.
-Article 99
-Members of the Government of the Republic shall not hold any other state office,
-nor belong to the management board or supervisory board of a commercial
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 24
-enterprise.
-• Legislative committees Article 100
-Members of the Government of the Republic may participate in sessions of the
-Parliament and of its committees with the right to speak.
-• Cabinet removal Article 101 • Head of government removal
-• Head of government immunity
-Criminal charges may be brought against a member of the Government of the
-Republic only on the proposal of the Chancellor of Justice, and with the consent of
-the majority of the membership of the Parliament.
-The authority of a member of the Government shall terminate upon the entry into
-force of a conviction by a court against him or her.
-CHAPTER VII: LEGISLATION
-Article 102
-Laws shall be passed in accordance with the Constitution.
-• Initiation of general legislation Article 103
-The following have the right to initiate laws:
-1. a member of the Parliament;
-2. a faction of the Parliament;
-3. a committee of the Parliament; • Legislative committees
-4. the Government of the Republic;
-5. the President of the Republic, for amendment of the Constitution. • Constitution amendment procedure
-The Parliament has the right, on the basis of a resolution made by a majority of its
-membership, to propose to the Government of the Republic to initiate a bill desired
-by the Parliament.
-Article 104
-The procedure for the passage of laws shall be provided by the Parliament Procedure
-Act.
-The following laws may be passed and amended only by a majority of the
-membership of the Parliament:
-1. Citizenship Act;
-2. Parliament Election Act;
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 25
-3. President of the Republic Election Act;
-4. Local Government Election Act;
-5. Referendum Act;
-6. Parliament Procedure Act and Parliament Administration Act;
-7. Remuneration of the President of the Republic and Members of the
-Parliament Act;
-8. Government of the Republic Act;
-9. Institution of Court Proceedings against the President of the Republic and
-Members of the Government Act;
-10. National Minorities Cultural Autonomy Act;
-11. State Budget Act;
-12. Bank of Estonia Act;
-13. State Audit Office Act;
-14. Courts Administration Act and court procedure Acts;
-15. Acts pertaining to foreign and domestic borrowing, and to proprietary
-obligations of the state;
-16. State of Emergency Act;
-17. Peace-Time National Defense Act and War-Time National Defense Act.
-• Referenda Article 105
-The Parliament has the right to submit a bill or other national issue to a referendum.
-The decision of the people shall be made by a majority of the participants in the
-voting.
-A law which is passed by a referendum shall promptly be proclaimed by the
-President of the Republic. The decision of the referendum shall be binding on all
-state institutions.
-If a bill which is submitted to a referendum does not receive a majority of votes in
-favor, the President of the Republic shall declare extraordinary elections to the
-Parliament.
-• Dismissal of the legislature
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 26
-• Referenda Article 106
-Issues regarding the budget, taxation, financial obligations of the state, ratification
-and denunciation of international treaties, the declaration or termination of a state
-of emergency, or national defense shall not be submitted to a referendum.
-• Emergency provisions
-• International law
-The procedure for holding a referendum shall be provided by the Referendum Act.
-• Approval of general legislation Article 107
-Laws shall be proclaimed by the President of the Republic.
-The President of the Republic may refuse to proclaim a law passed by the Parliament
-and, within fourteen days after its receipt, return the law, together with his or her
-reasoned resolution, to the Parliament for a new debate and decision. If the Parliament
-again passes the law which is returned to it by the President of the Republic,
-unamended, the President of the Republic shall proclaim the law or shall propose to
-the Supreme Court to declare the law unconstitutional. If the Supreme Court
-declares the law constitutional, the President of the Republic shall proclaim the law.
-• Constitutional interpretation
-• Veto override procedure
-• Constitutionality of legislation
-Article 108
-A law shall enter into force on the tenth day after its publication in the Riigi Teataja
-(the State Gazette), unless the law itself provides otherwise.
-• Head of state decree power Article 109
-If the Parliament is unable to convene, the President of the Republic may, in cases of
-urgent state need, issue decrees which have the force of law, and which shall bear
-the counter-signatures of the Chairman of the Parliament and the Prime Minister.
-When the Parliament convenes, the President of the Republic shall present the
-decrees to the Parliament, which shall promptly pass a law for their confirmation or
-repeal.
-• Head of state decree power Article 110
-The Constitution, the Acts set out in Article 104 of the Constitution, laws which
-establish state taxes, and the state budget shall not be enacted, amended or repealed
-by a decree of the President of the Republic.
-CHAPTER VIII: FINANCE AND THE STATE
-BUDGET
-• Central bank Article 111
-The Bank of Estonia has the sole right to issue Estonian currency. The Bank of
-Estonia shall regulate currency circulation and shall uphold the stability of the
-national currency.
-• Central bank Article 112
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 27
-The Bank of Estonia shall act pursuant to law and shall report to the Parliament.
-Article 113
-State taxes, duties, fees, fines and compulsory insurance payments shall be provided
-by law.
-Article 114
-The procedures for the possession, use, and disposal of state assets shall be provided
-by law.
-• Budget bills Article 115
-The Parliament shall pass as a law the budget of all state revenue and expenditure for
-each year.
-The Government of the Republic shall submit a draft state budget to the Parliament
-not later than three months before the beginning of the budgetary year.
-On the proposal of the Government, the Parliament may pass a supplementary budget
-during the budgetary year.
-• Budget bills Article 116
-If a proposed amendment to the state budget or to its draft has the effect of
-decreasing estimated revenue, or increasing expenditure or reallocating
-expenditure, the proponent of the amendment shall append financial calculations to
-the proposed amendment which demonstrate the sources of revenue necessary to
-cover the expenditure.
-The Parliament shall not eliminate or reduce expenditure in the state budget or in its
-draft which is prescribed by other laws.
-• Budget bills Article 117
-The procedures for the drafting and passage of the state budget shall be provided by
-law.
-• Budget bills Article 118
-The state budget passed by the Parliament shall enter into force at the beginning of
-the budgetary year. If the Parliament does not pass the state budget by the beginning
-of the budgetary year, expenditure of up to one-twelfth of the expenditure of the
-preceding budgetary year may be made each month.
-• Budget bills Article 119 • Dismissal of the legislature
-If the Parliament has not passed the state budget within two months after the
-beginning of the budgetary year, the President of the Republic shall declare
-extraordinary elections to the Parliament.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 28
-CHAPTER IX: FOREIGN RELATIONS AND
-INTERNATIONAL TREATIES
-• International organizations Article 120
-The procedure for the relations of the Republic of Estonia with other states and with
-international organizations shall be provided by law.
-• International law Article 121 • Treaty ratification
-The Parliament shall ratify and denounce treaties of the Republic of Estonia:
-1. which alter state borders; • Accession of territory
-• Secession of territory
-2. the implementation of which requires the passage, amendment or repeal of
-Estonian laws;
-3. by which the Republic of Estonia joins international organizations or
-unions;
-• International organizations
-4. by which the Republic of Estonia assumes military or proprietary
-obligations;
-5. in which ratification is prescribed.
-• International law Article 122 • Treaty ratification
-The land boundary of Estonia is determined by the Tartu Peace Treaty of 2 February
-1920 and by other international boundary agreements. The sea and air boundaries
-of Estonia shall be determined on the basis of international conventions.
-The ratification of international treaties which alter the state borders of Estonia
-requires a two-thirds majority of the membership of the Parliament.
-• Accession of territory
-• Secession of territory
-• International law Article 123 • Legal status of treaties
-The Republic of Estonia shall not enter into international treaties which are in
-conflict with the Constitution.
-If laws or other legislation of Estonia are in conflict with international treaties
-ratified by the Parliament, the provisions of the international treaty shall apply.
-CHAPTER X: NATIONAL DEFENSE
-• Duty to serve in the military Article 124 • Right to conscientious objection
-Estonian citizens have a duty to participate in national defense on the bases of and
-pursuant to procedure provided by law.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 29
-A person who refuses to serve in the Armed Forces for religious or moral reasons has
-a duty to perform alternative service pursuant to procedure prescribed by law.
-Persons in the armed forces and alternative service have all constitutional rights,
-freedoms and duties, unless otherwise prescribed by law due to the special interests
-of the service. The rights and freedoms prescribed in paragraphs 3 and 4 of Article 8,
-Article 11–18, paragraph 3 of Article 20, Article 21–28, Article 32, Article 33, Article
-36–43, paragraphs 1 and 2 of Article 44, Article 49–51 of the Constitution shall not
-be restricted. The legal status of persons in the armed forces and alternative service
-shall be provided by law.
-• Restrictions on the armed forces Article 125
-A person in active service shall not hold other elected or appointed office, or
-participate in the activities of any political party.
-Article 126
-The organization of national defense shall be provided by the Peace-Time National
-Defense Act and the War-Time National Defense Act.
-The organization of the Estonian armed forces and national defense organizations
-shall be provided by law.
-• Designation of commander in chief Article 127
-The supreme commander of national defense is the President of the Republic.
-The National Defense Council is an advisory body to the President of the Republic,
-and its membership and tasks shall be provided by law.
-• Advisory bodies to the head of state
-• Designation of commander in chief Article 128 • Power to declare/approve war
-The Parliament shall, on the proposal of the President of the Republic, declare a state
-of war, shall order mobilization and demobilization, and shall decide on the
-utilization of the armed forces in the fulfillment of the international obligations of
-the Estonian state.
-• International law
-In the case of aggression against the Republic of Estonia, the President of the
-Republic shall declare a state of war, shall order mobilization, and shall appoint the
-Commander- in-Chief of the Armed Forces without waiting for a Parliament
-resolution.
-• Emergency provisions Article 129
-In the case of a threat to the Estonian constitutional order, the Parliament may, on the
-proposal of the President of the Republic or the Government of Estonia, by a
-majority of its membership, declare a state of emergency throughout the state, but
-for not longer than three months.
-The organization of a state of emergency shall be provided by law.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 30
-• Emergency provisions Article 130
-During a state of emergency or a state of war, the rights and freedoms of a person
-may be restricted, and duties may be placed upon him or her in the interests of
-national security and public order, under conditions and pursuant to procedure
-prescribed by law. The rights and freedoms provided by Article 8, Article 11–18,
-paragraph 3 of Article 20, Article 22, Article 23, paragraphs 2 and 4 of Article 24,
-Article 25, Article 27, Article 28, paragraph 2 of Article 36, Article 40, Article 41,
-Article 49 and paragraph 1 of Article 51 of the Constitution shall not be restricted.
-• Emergency provisions Article 131
-During a state of emergency or a state of war, the Parliament, the President of the
-Republic, and the representative bodies of local governments shall not be elected,
-nor shall their authority be terminated.
-The authority of the Parliament, the President of the Republic and the representative
-bodies of local governments shall extend if the authority should terminate during a
-state of emergency or a state of war or within three months after the termination of
-a state of emergency or a state of war. In these cases, new elections shall be declared
-within three months after the termination of the state of emergency or the state of
-war.
-CHAPTER XI: THE STATE AUDIT OFFICE
-Article 132
-The State Audit Office shall be, in its activities, an independent state body
-responsible for economic control.
-Article 133
-The State Audit Office shall audit:
-1. the economic activities of state agencies, state enterprises and other state
-organizations;
-2. the use and preservation of state assets;
-3. the use and disposal of state assets which have been transferred into the
-control of local governments;
-4. the economic activities of enterprises in which the state holds more than
-one-half of the votes by way of parts or shares, or whose loans or
-contractual obligations are guaranteed by the state.
-Article 134
-The State Audit Office shall be directed by the Auditor General who shall be
-appointed to and released from office by the Parliament, on the proposal of the
-President of the Republic.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 31
-The term of office of the Auditor-General shall be five years.
-Article 135
-The Auditor-General shall present to the Parliament an overview on the use and
-preservation of state assets during the preceding budgetary year at the same time as
-the report on the implementation of the state budget is debated in the Parliament.
-Article 136
-The Auditor-General may participate in sessions of the Government of the Republic
-in which issues related to his or her duties are discussed, with the right to speak.
-The Auditor-General, as the director of his or her office, has the same rights which
-are granted by law to a minister in directing a ministry.
-Article 137
-The organization of the State Audit Office shall be provided by law.
-Article 138
-Criminal charges may be brought against the Auditor-General only on the proposal
-of the Chancellor of Justice, and with the consent of the majority of the membership
-of the Parliament.
-CHAPTER XII: THE CHANCELLOR OF
-JUSTICE
-Article 139
-The Chancellor of Justice shall be, in his or her activities, an independent official who
-shall review the legislation of the legislative and executive powers and of local
-governments for conformity with the Constitution and the laws.
-• Federal review of subnational legislation
-• Constitutional interpretation
-The Chancellor of Justice shall analyze proposals made to him or her concerning the
-amendment of laws, the passage of new laws, and the activities of state agencies,
-and, if necessary, shall present a report to the Parliament.
-The Chancellor of Justice shall, in the cases prescribed by Article 76, 85, 101, 138,
-153 of the Constitution, make a proposal to the Parliament that criminal charges be
-brought against a member of the Parliament, the President of the Republic, a member
-of the Government of the Republic, the Auditor-General, the Chief Justice of the
-Supreme Court, or a justice of the Supreme Court.
-• Cabinet removal
-• Head of government removal
-• Head of government immunity
-• Head of state immunity
-• Immunity of legislators
-Article 140
-The Chancellor of Justice shall be appointed to office by the Parliament, on the
-proposal of the President of the Republic, for a term of seven years.
-The Chancellor of Justice may be removed from office only by a court judgment.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 32
-Article 141
-The Chancellor of Justice, in directing his or her office, has the same rights which are
-granted by law to a minister in directing a ministry.
-The Chancellor of Justice may participate in sessions of the Parliament and of the
-Government of the Republic with the right to speak.
-• Federal review of subnational legislation Article 142 • National vs subnational laws
-• Constitutional interpretation
-• Constitutionality of legislation If the Chancellor of Justice finds that legislation passed by the legislative or
-executive powers or by a local government is in conflict with the Constitution or a
-law, he or she shall propose to the body which passed the legislation to bring the
-legislation into conformity with the Constitution or the law within twenty days.
-If the legislation is not brought into conformity with the Constitution or the law
-within twenty days, the Chancellor of Justice shall propose to the Supreme Court to
-declare the legislation invalid.
-Article 143
-The Chancellor of Justice shall present an annual report to the Parliament on the
-conformity of the legislation passed by the legislative and executive powers and by
-local governments with the Constitution and the laws.
-Article 144
-The legal status of the Chancellor of Justice and the organization of his or her office
-shall be provided by law.
-Article 145
-Criminal charges may be brought against the Chancellor of Justice only on the
-proposal of the President of the Republic, and with the consent of the majority of the
-membership of the Parliament.
-CHAPTER XIII: THE COURTS
-• Judicial independence Article 146
-Justice shall be administered solely by the courts. The courts shall be independent in
-their activities and shall administer justice in accordance with the Constitution and
-the laws.
-• Administrative court term length Article 147 • Supreme court term length
-• Supreme/ordinary court judge removal
-• Ordinary court term length Judges shall be appointed for life. The grounds and procedure for the release of
-judges from office shall be provided by law.
-Judges may be removed from office only by a court judgment.
-Judges shall not hold any other elected or appointed office, except in the cases
-prescribed by law.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 33
-The legal status of judges and guarantees for their independence shall be provided
-by law.
-• Structure of the courts Article 148
-The court system shall consist of:
-1. county and city courts, and administrative courts; • Establishment of administrative courts
-• Municipal government
-2. circuit courts;
-3. the Supreme Court.
-The creation of specialized courts with specific jurisdiction shall be provided by law.
-The formation of emergency courts is prohibited.
-• Right to appeal judicial decisions Article 149
-County and city courts, and administrative courts are courts of first instance. • Establishment of administrative courts
-Circuit courts are courts of appeal and shall review judgments of the courts of first
-instance by way of appeal proceedings.
-The Supreme Court is the highest court in the state and shall review court judgments
-by way of cassation proceedings. The Supreme Court is also the court of
-constitutional review.
-• Constitutional interpretation
-Rules regarding court administration and rules of court procedure shall be
-established by law.
-• Supreme court selection Article 150
-The Chief Justice of the Supreme Court shall be appointed to office by the Parliament,
-on the proposal of the President of the Republic.
-Justices of the Supreme Court shall be appointed to office by the Parliament, on the
-proposal of the Chief Justice of the Supreme Court.
-Other judges shall be appointed to office by the President of the Republic, on the
-proposal of the Supreme Court.
-• Administrative court selection
-• Ordinary court selection
-Article 151
-The rules of court procedure regarding representation, defense, state prosecution,
-and supervision of legality shall be provided by law.
-• Constitutional interpretation Article 152 • Constitutionality of legislation
-In a court proceeding, the court shall not apply any law or other legislation that is in
-conflict with the Constitution.
-The Supreme Court shall declare invalid any law or other legislation that is in conflict
-with the provisions and spirit of the Constitution.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 34
-Article 153
-Criminal charges may be brought against a judge during his or her term of office only
-on the proposal of the Supreme Court, and with the consent of the President of the
-Republic.
-• Supreme court powers
-Criminal charges may be brought against the Chief Justice and justices of the
-Supreme Court only on the proposal of the Chancellor of Justice, and with the
-consent of the majority of the membership of the Parliament.
-CHAPTER XIV: LOCAL GOVERNMENT
-• Municipal government
-Article 154
-All local issues shall be resolved and managed by local governments, which shall
-operate independently pursuant to law.
-Duties may be imposed on a local government only pursuant to law or by agreement
-with the local government. Expenditure related to duties of the state imposed by law
-on a local government shall be funded from the state budget.
-Article 155
-Local governments are rural municipalities and cities.
-Other local governments may be formed on the bases of and pursuant to procedure
-provided by law.
-Article 156
-The representative body of a local government is the council which shall be elected
-in free elections for a term of four years. The period of authority of a council may be
-shortened by an Act due to a merger or division of local governments or the inability
-of the council to act. The elections shall be general, uniform and direct. Voting shall
-be secret.
-In elections to local authority councils, the right to vote is held, under conditions
-established by law, by persons who reside permanently in the territory of the local
-authority and have attained at least sixteen years of age.
-Article 157
-A local government shall have an independent budget for which the bases and
-procedure for drafting shall be provided by law.
-A local government has the right, on the basis of law, to levy and collect taxes, and to
-impose duties.
-Article 158
-The boundaries of local governments shall not be altered without considering the
-opinion of the local governments concerned.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 35
-Article 159
-A local government has the right to form unions and joint agencies with other local
-governments.
-Article 160
-The administration of local governments and the supervision of their activities shall
-be provided by law.
-CHAPTER XV: AMENDMENT OF THE
-CONSTITUTION
-• Constitution amendment procedure
-Article 161
-The right to initiate amendment of the Constitution rests with not less than one-fifth
-of the membership of the Parliament and with the President of the Republic.
-Amendment of the Constitution shall not be initiated, nor shall the Constitution be
-amended, during a state of emergency or a state of war.
-• Emergency provisions
-• Referenda Article 162
-Chapter I “General Provisions” and Chapter XV “Amendment of the Constitution” of
-the Constitution may be amended only by a referendum.
-Article 163
-The Constitution shall be amended by an Act which has been passed by:
-1. a referendum; • Referenda
-2. two successive memberships of the Parliament;
-3. the Parliament, as a matter of urgency.
-A bill to amend the Constitution shall be debated for three readings in the Parliament,
-in which the interval between the first and second readings shall be not less than
-three months, and the interval between the second and third readings shall be not
-less than one month. The manner in which the Constitution is to be amended shall be
-decided at the third reading.
-• Referenda Article 164
-A three-fifths majority of the membership of the Parliament is required to submit a bill
-to amend the Constitution to a referendum. The referendum shall be held not earlier
-than three months after the passage of a resolution to this effect by the Parliament.
-constituteproject.org PDF generated: 20 Jul 2020, 22:02
-Estonia 1992 (rev. 2015) Page 36
-Article 165
-In order to amend the Constitution by two successive memberships of the Parliament,
-a bill to amend the Constitution must be supported by a majority of the membership
-of the Parliament.
-If the bill to amend the Constitution which receives the support of the majority of the
-preceding membership of the Parliament is passed by the succeeding Parliament,
-unamended, on its first reading and with a three-fifths majority, then the
-Constitution Amendment Act is passed.
-Article 166
-A resolution to consider a bill to amend the Constitution as a matter of urgency shall
-be passed by a four-fifths majority of the Parliament. In this case, the Constitution
-Amendment Act shall be passed by a two-thirds majority of the membership of the
-Parliament.
-Article 167
-The Constitution Amendment Act shall be proclaimed by the President of the
-Republic and shall enter into force on the date specified therein, but not earlier than
-three months from the date of proclamation.
-• Referenda Article 168
-An amendment to the Constitution regarding the same issue shall not be initiated
-within one year after the rejection of a corresponding bill by a referendum or by the
-Parliament.
+Los derechos, libertades y deberes establecidos en la Constitución serán extensibles a las personas jurídicas siempre que ello esté
+de acuerdo con los objetivos generales de las personas jurídicas y
+con la naturaleza de tales derechos, libertades y deberes.
+Artículo 10
+Los derechos, libertades y deberes establecidos en este capítulo
+no imposibilitarán otros derechos, libertades y deberes que surjan
+del espíritu de la Constitución o estén en conformidad con ella, y
+que sean acordes con los principios de la dignidad humana y de un
+Estado basado en la justicia social, la democracia, y el imperio de la
+ley.
+CONSTITUCIÓN DE ESTONIA 235
+Artículo 11
+Los derechos y las libertades sólo pueden ser limitados de acuerdo
+con la Constitución. Tales límites deben ser necesarios en una sociedad
+democrática y no distorsionarán la naturaleza de los derechos y de las
+libertades que son objeto de limitación.
+Artículo 12
+Todos son iguales ante la ley. Nadie será discriminado por su nacionalidad, raza, color, sexo, lengua, origen, religión, política u otra opinión, propiedad o nivel social, o por cualquier otro motivo.
+La incitación al odio nacional, racial, religioso o político, la violencia o la discriminación, estarán prohibidas y serán castigadas por ley.
+La incitación al odio, la violencia o la discriminación entre los estratos
+sociales, también estarán prohibidos y serán castigados por ley.
+Artículo 13
+Todos tienen derecho a la protección del Estado y de la ley. El Estado estonio también protegerá a sus ciudadanos en el exterior.
+La ley protegerá a todas las personas del ejercicio arbitrario de la
+autoridad por el Estado.
+Artículo 14
+La garantía de los derechos y de las libertadas es deber del poder
+legislativo, ejecutivo y judicial, y de los órganos de gobierno locales.
+Artículo 15
+Cualquiera cuyos derechos y libertades hayan sido violados tiene
+derecho a acudir ante los Tribunales. Todos tienen derecho, mientras su
+caso esté en los Tribunales, de solicitar que cualquier ley relevante, otra
+legislación o el procedimiento sea declarado inconstitucional.
+236 REVISTA DE LAS CORTES GENERALES
+Los Tribunales respetarán la Constitución y declararán inconstitucional cualquier ley, legislación o procedimiento que viole los derechos
+y las libertades establecidas en la Constitución o que, de cualquier otra
+manera, entre en conflicto con la Constitución.
+Artículo 16
+Todos tienen derecho a la vida. Este derecho estará protegido por la
+ley. Nadie será privado arbitrariamente de su vida.
+Artículo 17
+El honor o el buen nombre de una persona no puede ser difamado.
+Artículo 18
+Nadie será sometido a tortura o a pena o trato inhumano o degradante.
+Nadie será sometido a experimentos médicos o científicos contra su
+libre voluntad.
+Artículo 19
+Todos tienen derecho al libre desarrollo de su personalidad.
+Todos respetarán los derechos y las libertades de los demás, y la ley,
+en el ejercicio de sus derechos y libertades y en la satisfacción de sus
+deberes.
+Artículo 20
+Todos tienen derecho a la libertad y a la seguridad personal.
+Nadie será privado de su libertad excepto en los casos y conforme
+al procedimiento establecido por la ley:
+1) para ejecutar una condena o una detención acordada por los Tribunales;
+CONSTITUCIÓN DE ESTONIA 237
+2) en el caso de incumplimiento de una sentencia de los Tribunales o para asegurar el cumplimiento de un deber establecido en
+la ley;
+3) para luchar contra un delito criminal o administrativo, aprehender a una persona que razonablemente sea sospecha de tal
+ofensa ante la autoridad competente del Estado, o prevenir su
+huida;
+4) para colocar a un menor de edad bajo supervisión disciplinaria
+o llevarlo ante una autoridad competente del Estado para determinar si se impone tal supervisión;
+5) para detener a una persona que sufre de una enfermedad infecciosa, una persona mentalmente incapacitada, un alcohólico o un
+drogadicto, si tal persona es peligrosa para sí misma o para otros;
+6) para prevenir establecimientos ilegales en Estonia y expulsar a
+una persona de Estonia o extraditar a una persona a un Estado
+extranjero.
+Nadie será privado de su libertad por el hecho de haber incumplido
+una obligación contractual.
+Artículo 21
+Cualquiera que sea privado de su libertad será informado a la
+mayor brevedad, en una lengua y manera que lo entienda, de la razón
+de la privación de la libertad y de sus derechos, y se le dará la oportunidad de comunicarlo a las personas más cercanas. A una persona
+sospechosa de un delito se le dará, inmediatamente, la oportunidad de
+elegir y consultar con un abogado. El derecho de una persona sospechosa de un delito de notificar la privación de libertad a las personas
+más cercanas puede ser restringido solamente en los casos y conforme al procedimiento establecido por la ley con la finalidad de combatir un delito o en interés de comprobar la verdad en un procedimiento criminal.
+Nadie estará detenido más de cuarenta y ocho horas sin la específica autorización de un Tribunal. La decisión de un Tribunal será inmediatamente comunicada a la persona detenida en una lengua y manera
+que lo entienda.
+238 REVISTA DE LAS CORTES GENERALES
+Artículo 22
+Nadie será considerado culpable de un delito hasta que la condena
+por un Tribunal contra él sea efectiva.
+Nadie tiene el deber de probar su inocencia en un procedimiento
+criminal.
+Nadie será obligado a declarar contra sí mismo, o testificar contra
+aquellas personas cercanas a él.
+Artículo 23
+Nadie será condenado por un acto que no constituya delito bajo la
+ley en vigor en el momento en que el acto fue cometido.
+Nadie recibirá una sanción más severa que la que era aplicable
+cuando el delito fue cometido. Si, con posterioridad a la comisión de un
+delito, la ley prevé un castigo menor, se aplicará el castigo menor.
+Nadie será procesado o castigado nuevamente por un acto del que
+ya haya estado condenado o absuelto conforme a la ley.
+Artículo 24
+Nadie será trasladado, contra su voluntad, de la jurisdicción del Tribunal predeterminado por la ley, a la jurisdicción de otro Tribunal.
+Todos tienen derecho a ser juzgados en su presencia.
+Las sesiones de los Tribunales serán públicas. Un Tribunal puede,
+en los casos y conforme al procedimiento establecido en la ley, declarar que una sesión o parte de ella sea llevada a cabo a puerta cerrada
+para proteger un secreto de Estado o de un negocio, o la moral o la vida
+privada y familiar de una persona, o donde los intereses de un menor de
+edad, de una víctima, o de la justicia así lo requieran.
+Las sentencias serán pronunciadas en público, excepto en los casos
+donde los intereses de un menor de edad, un cónyuge, o una víctima lo
+requieran de otra manera.
+CONSTITUCIÓN DE ESTONIA 239
+Todos tienen derecho de apelar la sentencia a un Tribunal superior
+conforme al procedimiento establecido por la ley.
+Artículo 25
+Todos tienen derecho a una compensación por los daños morales y
+materiales causados por una actuación ilegal de otra persona.
+Artículo 26
+Todos tienen derecho a la inviolabilidad de su vida privada y familiar. Los órganos estatales, los Gobiernos locales, y sus funcionarios no
+interferirán en la vida privada o familiar de ninguna persona, excepto
+en los casos y conforme al procedimiento establecido por la ley para
+proteger la salud, la moral, el orden público, o los derechos y las libertades de los demás, luchar contra la comisión de un delito, o detener a
+un delincuente.
+Artículo 27
+La familia, siendo fundamental para la preservación y el crecimiento
+de la Nación y como base de la sociedad, estará protegida por el Estado.
+Los esposos son iguales en derechos.
+Los padres tienen el derecho y el deber de criar y de cuidar a sus niños.
+La protección de los padres y de los niños estará establecida en la ley.
+La familia tiene el deber de cuidar a sus miembros más necesitados.
+Artículo 28
+Todos tienen derecho a la protección de la salud.
+Todo ciudadano estonio tiene el derecho de pedir ayuda en el caso
+de tercera edad, incapacidad para el trabajo, pérdida del cabeza de
+familia, o en caso de necesidad. Las categorías y el grado de la ayuda,
+y las condiciones y el procedimiento para su recepción, estarán esta240 REVISTA DE LAS CORTES GENERALES
+blecidos por la ley. Los ciudadanos de Estados extranjeros y personas
+apátridas que estén en Estonia tienen este derecho en igualdad con los
+ciudadanos estonios, a menos que se disponga de otra manera por la
+ley.
+El Estado promoverá servicios de asistencia social voluntaria y de
+los Gobiernos locales.
+Las familias con varios hijos y las personas discapacitadas, estarán
+bajo especial cuidado del Estado y de los Gobiernos locales.
+Artículo 29
+El ciudadano estonio tiene el derecho a elegir libremente su sector
+de actividad, profesión y lugar del trabajo. Las condiciones y el procedimiento para el ejercicio de este derecho serán establecidos por ley.
+Los ciudadanos de Estados extranjeros y personas apátridas que están
+en Estonia tendrán este derecho en igualdad con los ciudadanos estonios, a menos que se disponga de otra manera por la ley.
+Nadie será obligado a realizar trabajos o servicios contra su libre
+voluntad, excepto los servicios en las fuerzas armadas o servicio alternativo, los trabajos para prevenir la propagación de una enfermedad
+infecciosa, trabajos en caso de un desastre natural o una catástrofe, y
+trabajos que haya de realizar un condenado en base y de conformidad
+al procedimiento establecido por la ley.
+El Estado organizará la formación profesional y asistirá a las personas que buscan empleo para encontrar el trabajo.
+Las condiciones laborales estarán bajo supervisión del Estado.
+Cualquier persona puede pertenecer libremente a las uniones y a las
+asociaciones de empleados y de patrones. Las uniones y las asociaciones de empleados y de patrones pueden mantener sus derechos e intereses legítimos por cualquier medio que no esté prohibido por la ley.
+Las condiciones y el procedimiento para el ejercicio del derecho a la
+huelga estarán establecidas en la ley.
+El procedimiento para la resolución de conflictos laborales estará
+establecido en la ley.
+CONSTITUCIÓN DE ESTONIA 241
+Artículo 30
+Los puestos en los órganos del Estado y los Gobiernos locales estarán ocupados por ciudadanos estonios, en base y conforme al procedimiento establecido por la ley. Estos puestos pueden, excepcionalmente,
+ser ocupados por los ciudadanos de Estados extranjeros o personas apátridas, de acuerdo con ley.
+El derecho de algunas categorías de funcionarios públicos del Estado a ser contratados en empresas y para formar sociedades mercantiles,
+así como el derecho de pertenecer a los partidos políticos y algunos
+tipos de asociaciones no lucrativas pueden ser restringidos por la ley.
+Artículo 31
+Los ciudadanos estonios tienen derecho a participar en empresas y
+a formar uniones y sociedades mercantiles. Las condiciones y el procedimiento para el ejercicio de estos derechos estarán establecidos por la
+ley. Los ciudadanos de Estados extranjeros y personas apátridas que
+estén en Estonia ostentan este derecho en igualdad con los ciudadanos
+estonios, salvo que la ley disponga otra cosa.
+Artículo 32
+La propiedad es inviolable y está protegida. Sólo es admisible la
+expropiación de la propiedad sin el consentimiento de su titular por
+motivo de interés público, y en los casos y conforme al procedimiento
+establecido por ley, con una compensación justa e inmediata. Cualquiera cuya propiedad haya sido expropiada sin su consentimiento tiene
+el derecho de recurrir a los Tribunales e impugnar la expropiación, la
+compensación o la indemnización correspondiente.
+Todos tienen el derecho de poseer, utilizar, y disponer libremente de
+su propiedad. Las restricciones estarán establecidas por la ley. La propiedad no será utilizada de forma contraria al interés público.
+Serán establecidas por ley los tipos de propiedad que, por interés
+público, sólo pueden ser adquiridas en Estonia por ciudadanos estonios,
+242 REVISTA DE LAS CORTES GENERALES
+algunas categorías de personas jurídicas, Gobiernos locales, o el Estado estonio.
+El derecho de sucesión está garantizado.
+Artículo 33
+El domicilio es inviolable. Ninguna vivienda bajo el control de una
+persona, o lugar de trabajo, será registrado o será ocupado por la fuerza,
+excepto en los casos y conforme al procedimiento establecido en la ley,
+para proteger el orden público, la salud o los derechos y las libertades de
+otros, luchar contra la comisión de un delito, detener a un delincuente,
+o comprobar la verdad en un procedimiento criminal.
+Artículo 34
+Cualquiera que esté legalmente en Estonia tiene el derecho a la libertad de circulación y a la elección de residencia. El derecho a la libertad
+de circulación se puede restringir en los casos y conforme al procedimiento establecido en la ley para proteger los derechos y los libertadas de
+los demás, en interés de la defensa nacional, en el caso de un desastre
+natural o una catástrofe, prevenir la propagación de una enfermedad
+infecciosa, para proteger el medioambiente natural, prevenir la salida de
+un menor de edad o de una persona mentalmente incapaz sin supervisión,
+o asegurar el buen fin de un procedimiento criminal.
+Artículo 35
+Todas las personas tienen el derecho a salir de Estonia. Este derecho se puede restringir en los casos y conforme al procedimiento establecidos en la ley para asegurar la administración de justicia o procedimientos prejudiciales, o ejecutar una sentencia judicial.
+Artículo 36
+Ningún ciudadano estonio será expulsado de Estonia ni se le impedirá establecerse en Estonia.
+CONSTITUCIÓN DE ESTONIA 243
+Ningún ciudadano estonio será extraditado a un Estado extranjero,
+excepto bajo las condiciones prescritas por un tratado internacional y
+conforme al procedimiento establecido en tal tratado y en la ley. La
+extradición será decidida por el Gobierno de la República. Cualquiera
+que esté bajo orden de extradición tiene el derecho a impugnar la extradición ante un Tribunal estonio.
+Todo estonio tiene el derecho de establecerse en Estonia.
+Artículo 37
+Todos tienen derecho a la educación. La educación es obligatoria
+para los niños en edad escolar hasta el grado especificado por la ley, y
+será gratuita en las escuelas de educación general del Estado y de los
+Gobiernos locales.
+Para que la educación sea accesible, el Estado y los Gobiernos locales mantendrán el número indispensable de instituciones educativas.
+Otras instituciones educativas, incluyendo escuelas privadas, pueden
+también ser establecidas y mantenidas conforme a la ley.
+Los padres tendrán la decisión final en la opción de la educación
+para sus hijos.
+Todos tienen derecho a recibir la educación en estonio. La lengua
+de la educación en las instituciones educativas de minorías nacionales
+será elegida por la institución educativa.
+La actividad educativa estará supervisada por el Estado.
+Artículo 38
+La ciencia y arte y su enseñanza son libres.
+Las universidades y las instituciones de investigación son autónomas dentro de las restricciones prescritas en la ley.
+Artículo 39
+El autor tiene el derecho inalienable a su creación. El Estado protegerá los derechos de autor.
+244 REVISTA DE LAS CORTES GENERALES
+Artículo 40
+Todos tienen libertad de conciencia, de religión y de pensamiento.
+Todas las personas pueden pertenecer libremente a las iglesias y a
+las sociedades religiosas. No hay iglesia del Estado.
+Todos tienen libertad para ejercer su religión, individualmente y en
+comunidad con otros, en público o en privado, salvo que afecte al orden
+público, la salud o la moral.
+Artículo 41
+Todos tienen derecho a ser fieles a sus opiniones y creencias. Nadie
+será obligado a cambiarlas.
+Las creencias no excusarán la violación de una ley.
+Nadie responderá legalmente por sus creencias.
+Artículo 42
+Las agencias estatales, los Gobiernos locales, y sus funcionarios no
+recopilarán ni almacenarán información sobre las creencias de un ciudadano estonio contra la libre voluntad del mismo.
+Artículo 43
+Todos tienen derecho a la confidencialidad de los mensajes enviados o recibidos por correo, telégrafo, teléfono u otros medios comúnmente usados. Las limitaciones a este derecho exigen autorización judicial con el fin de combatir un delito, o comprobar la verdad en un
+procedimiento criminal, en los casos y conforme al procedimiento establecidos en ley.
+Artículo 44
+Todos tienen derecho a recibir libremente la información divulgada
+para uso público.
+CONSTITUCIÓN DE ESTONIA 245
+Todos los órganos estatales, los Gobiernos locales, y sus funcionarios tienen el deber de proporcionar información sobre sus actividades,
+de conformidad con el procedimiento establecido en la ley, a un ciudadano estonio conforme a su petición, excepto la información cuyo acceso esté prohibido por la ley, y la información prevista exclusivamente
+para uso interno.
+El ciudadano estonio tiene derecho a acceder a la información sobre
+sí mismo contenida en los órganos del Estado y Gobiernos locales y en
+los archivos estatales y del Gobierno local, conforme al procedimiento
+establecido en la ley. Este derecho puede ser restringido conforme a la
+ley para proteger los derechos y los libertadas de otros o el secreto de
+la filiación de un niño, y en interés de luchar contra un delito, detener
+a un delincuente, o verificar la verdad en un procedimiento criminal.
+Los ciudadanos de los Estados extranjeros y las personas apátridas
+que están en Estonia tienen los derechos especificados en los párrafos
+dos y tres de esta sección igualmente que los ciudadanos estonios, salvo
+que la ley disponga otra cosa.
+Artículo 45
+Todos tienen derecho a difundir libremente ideas, opiniones, creencias y otra información por medio de la palabra, la impresión, la pintura u otros medios. Este derecho puede ser restringido por la ley para
+proteger el orden público, la moral, y los derechos y las libertades, la
+salud, el honor y buen nombre de los demás. Este derecho también se
+puede restringir por ley para los funcionarios públicos del Estado y del
+Gobierno local, para proteger un secreto estatal o empresarial o información confidencial, conocida en virtud del cargo, y la vida privada y
+familiar de los demás, así como en interés de la justicia.
+No se admite la censura.
+Artículo 46
+Todos tienen derecho a dirigirse a los órganos del Estado, a los
+Gobiernos locales, y a sus funcionarios con memorias y peticiones. El
+procedimiento para responder estará establecido en la ley.
+246 REVISTA DE LAS CORTES GENERALES
+Artículo 47
+Todos tienen derecho, sin permiso previo, a reunirse pacíficamente
+y a convocar reuniones. Este derecho puede ser restringido en los casos
+y conforme al procedimiento establecidos en la ley para asegurar la
+seguridad nacional, el orden público, la moral, la seguridad del tráfico,
+y la seguridad de los participantes en una reunión, o prevenir la propagación de una enfermedad infecciosa.
+Artículo 48
+Todos tienen derecho a formar asociaciones no lucrativas. Solamente los ciudadanos estonios pueden pertenecer a los partidos políticos.
+El establecimiento de las organizaciones y de las uniones que posean armas, estén organizados militarmente o realice ejercicios militares
+requiere permiso previo, para el cual las condiciones y el procedimiento de autorización estarán establecidos en la ley.
+Las organizaciones, uniones, y partidos políticos cuyos objetivos o
+actividades estén orientadas a cambiar el orden constitucional de Estonia por la fuerza, o estén de otra forma en conflicto con la ley que regule la responsabilidad criminal, están prohibidas.
+Solamente un Tribunal puede cancelar o suspender las actividades, o
+multar a una organización, unión o partido político, por violación de la ley.
+Artículo 49
+Todos tienen derecho a preservar su identidad nacional.
+Artículo 50
+Todas las minorías nacionales tienen el derecho, en interés de su
+cultura nacional, a establecer los órganos de autogobierno bajo las condiciones y conforme al procedimiento establecido por la Ley de Autonomía Cultural de las Minorías Nacionales.
+CONSTITUCIÓN DE ESTONIA 247
+Artículo 51
+Todos tienen derecho a dirigirse a los órganos del Estado, a los
+Gobiernos locales, y a sus funcionarios en estonio y recibir respuestas
+en estonio.
+En lugares en donde al menos la mitad de los residentes permanentes pertenecen a una minoría nacional, se tiene también derecho a recibir respuestas de los órganos estatales, Gobiernos locales, y sus funcionarios en la lengua de la minoría nacional.
+Artículo 52
+La lengua oficial de los órganos del Estado y de los Gobiernos locales será el estonio.
+En lugares donde la lengua de la mayoría de los residentes no es
+el estonio, los Gobiernos locales pueden, en el grado y conforme al
+procedimiento establecido en la ley, usar la lengua de la mayoría de
+los residentes permanentes del lugar como lengua de funcionamiento
+interna.
+El uso de idiomas extranjeros, incluyendo los idiomas de minorías
+nacionales, en los órganos estatales y en los Tribunales y procedimientos prejudiciales estará establecido en la ley.
+Artículo 53
+Todos tienen el deber de preservar el medio ambiente y compensar
+por los daños causados al mismo. El procedimiento para la compensación estará establecido en la ley.
+Artículo 54
+El ciudadano estonio tiene el deber de ser leal al orden constitucional y de defender la independencia de Estonia.
+248 REVISTA DE LAS CORTES GENERALES
+Si no hay otros medios disponibles, los ciudadanos estonios tienen
+el derecho a la contra un cambio por la fuerza del orden constitucional.
+Artículo 55
+Los ciudadanos de los Estados extranjeros y de las personas apátridas que estén en Estonia tienen un deber de observancia del orden constitucional de Estonia.
+CAPÍTULO III
+EL PUEBLO
+Artículo 56
+El poder supremo del Estado será ejercitado por el pueblo a través
+de ciudadanos con derecho a votar:
+1) eligiendo el Parlamento (1);
+2) a través de un referéndum.
+Artículo 57
+Tienen derecho a votar los ciudadanos estonios que han alcanzado
+la edad de dieciocho años
+No tiene derecho a voto un ciudadano estonio que haya sido privado de su capacidad legal para ello por un Tribunal.
+Artículo 58
+La participación en las elecciones puede ser restringido por la ley
+para los ciudadanos estonios que han sido condenados por un Tribunal
+y están cumpliendo sentencia en instituciones penales.
+(1) Se denomina Riigikogu
+CONSTITUCIÓN DE ESTONIA 249
+CAPÍTULO IV
+EL PARLAMENTO
+Artículo 59
+El poder legislativo reside en el Parlamento.
+Artículo 60
+El Parlamento está compuesto de ciento un miembros. Los miembros del Parlamento serán elegidos en elecciones libres basadas en el
+principio de proporcionalidad. Las elecciones serán universales, uniformes y directas. La votación será secreta.
+Puede ser candidato al Parlamento cualquier ciudadano estonio que
+haya alcanzado la edad de veintiún años y tenga derecho al voto.
+Las elecciones ordinarias al Parlamento se celebrarán el primer
+domingo de marzo del cuarto año después de las anteriores elecciones
+al Parlamento.
+Las elecciones extraordinarias al Parlamento se celebrarán, en los
+casos previstos en los artículos 89, 97, 105 y 119 de la Constitución, no
+antes de veinte y no después de cuarenta días después que hayan sido
+convocadas las elecciones.
+El procedimiento para la elección del Parlamento estará establecido en la Ley de la Elección del Parlamento.
+Artículo 61
+El mandato de los miembros del Parlamento comenzará el día que
+se anuncien los resultados de las elecciones. La autoridad de los miembros del Parlamento precedente terminará el mismo día.
+Antes de asumir sus deberes, el miembro del Parlamento prestará
+juramento al cargo y lealtad a la República de Estonia y a su orden
+constitucional.
+250 REVISTA DE LAS CORTES GENERALES
+Artículo 62
+Los miembros del Parlamento no tendrán limitado su mandato, ni
+serán legalmente responsables por los votos emitidos o las declaraciones políticas realizadas en el Parlamento o en cualquiera de sus
+órganos.
+Artículo 63
+Los miembros del Parlamento no tendrán ningún otro cargo estatal.
+Los miembros del Parlamento estarán exentos del deber desempeñar servicios en las fuerzas armadas durante el tiempo que dure su
+cargo.
+Artículo 64
+El cargo de un miembro del Parlamento será suspendido tras su
+nombramiento como miembro del Gobierno de la República, y será restaurado tras el cese de sus deberes como miembro del Gobierno.
+El cargo de un miembro del Parlamento terminará prematuramente:
+1) si asume otro cargo estatal;
+2) si deviene efectiva una sentencia judicial en su contra;
+3) si dimite, conforme al procedimiento establecido en la ley;
+4) si el Tribunal Supremo decide que es incapaz de realizar sus
+deberes por un período prolongado de tiempo;
+5) si muere.
+Tras la suspensión o cese anticipado del cargo de un miembro del
+Parlamento, le sustituirá un miembro suplente, conforme al procedimiento establecido en la ley. El miembro suplente tiene todos los derechos y deberes del miembro sustituido del Parlamento.
+La autoridad de un miembro suplente terminará si se restaura la
+autoridad del miembro del Parlamento sustituido.
+CONSTITUCIÓN DE ESTONIA 251
+Artículo 65
+El Parlamento:
+1) aprueba leyes y resoluciones;
+2) decide sobre la convocatoria de un referéndum;
+3) elige al Presidente de la República, conforme al artículo 79 de
+la Constitución;
+4) ratifica y denuncia los tratados internacionales, de acuerdo con
+el artículo 121 de la Constitución;
+5) autoriza al candidato a Primer Ministro a formar el Gobierno de
+la República;
+6) aprueba el presupuesto del Estado y aprueba el informe de su
+puesta en práctica;
+7) bajo propuesta del Presidente de la República, designa al Juez
+Principal del Tribunal Supremo, al Presidente del Consejo del
+Banco de Estonia, al Interventor General, al Canciller de Justicia,
+y al Comandante o Comandante en Jefe de las Fuerzas Armadas;
+8) a propuesta del Juez Principal del Tribunal Supremo, designa a
+los Jueces del Tribunal Supremo;
+9) designa los miembros del Consejo del Banco de Estonia;
+10) a propuesta del Gobierno, decide los préstamos del Estado y la
+asunción de otras obligaciones por el Estado;
+11) presenta manifestaciones, declaraciones y súplicas al pueblo de
+Estonia, otros Estados, y organizaciones internacionales;
+12) establece las condecoraciones del Estado, y los rangos militares y diplomáticos;
+13) decide sobre la moción de censura al Gobierno de la República, al Primer Ministro o a ministros individuales;
+14) declara el estado de la emergencia en el Estado, conforme al
+artículo 129 de la Constitución;
+15) a propuesta del Presidente de la República, declara el estado de
+guerra, y pide la movilización y la desmovilización;
+16) resuelve otros asuntos nacionales que la Constitución no otorga al Presidente de la República, al Gobierno de la República,
+otros cuerpos del Estado o Gobiernos locales.
+252 REVISTA DE LAS CORTES GENERALES
+Artículo 66
+La primera sesión del nuevo Parlamento se realizará en los diez
+días siguientes al anuncio de los resultados de las elecciones al Parlamento. La primera sesión del Parlamento será convocada por el Presidente del República.
+Artículo 67
+Las sesiones ordinarias del Parlamento tendrán lugar entre el
+segundo lunes de enero y el tercer jueves de junio, y entre el segundo
+lunes de septiembre y el tercer jueves de diciembre.
+Artículo 68
+Las sesiones extraordinarias del Parlamento serán convocadas por
+el Presidente del Parlamento, a propuesta del Presidente de la República, el Gobierno de la República, o al menos un quinto de los miembros
+del Parlamento.
+Artículo 69
+El Parlamento elegirá de entre sus miembros al Presidente del Parlamento y dos vicepresidentes que llevarán a cabo el trabajo del Parlamento conforme a la Ley del procedimiento del Parlamento y a la Ley
+de la administración del Parlamento.
+Artículo 70
+El quórum parlamentario estará establecido en la Ley del procedimiento del Parlamento. En sesión extraordinaria, el Parlamento tendrá
+quórum si más de la mitad de sus miembros están presentes.
+Artículo 71
+El Parlamento puede formar comités.
+CONSTITUCIÓN DE ESTONIA 253
+Los miembros del Parlamento tienen derecho a formar grupos.
+El procedimiento para la formación de comités y grupos, y sus derechos, será el establecido en la Ley del procedimiento del Parlamento.
+Artículo 72
+Las sesiones del Parlamento serán públicas, a menos que el Parlamento, por mayoría de dos tercios, lo decida de otra manera.
+La votación en el Parlamento será pública. La votación secreta se
+celebrará en los casos previstos por la Constitución o por la Ley del
+procedimiento del Parlamento, y solamente en la elección o nombramiento de funcionarios.
+Artículo 73
+Las leyes del Parlamento serán aprobadas por mayoría de votos a
+favor, a menos que la Constitución establezca otra cosa.
+Artículo 74
+Un miembro del Parlamento tiene derecho a realizar preguntas al
+Gobierno de la República y a sus miembros, al Presidente del Consejo
+del Banco de Estonia, al Presidente del Banco de Estonia, al Interventor General, al Canciller de Justicia, y al Comandante o Comandante en
+Jefe de las Fuerzas Armadas.
+Las preguntas serán contestadas en sesión del Parlamento en el
+plazo de veinte días siguientes.
+Artículo 75
+La remuneración de los miembros del Parlamento y las restricciones para la recepción de otra renta por otro empleo estarán establecidas
+en la ley, que puede ser modificada por los posteriores miembros del
+Parlamento.
+254 REVISTA DE LAS CORTES GENERALES
+Artículo 76
+Los miembros del Parlamento gozan de inmunidad. Solamente pueden ser acusados por cargos criminales por el Canciller de Justicia, y con
+el consentimiento de la mayoría de los miembros del Parlamento.
+CAPÍTULO V
+PRESIDENTE DE LA REPÚBLICA
+Artículo 77
+El Presidente de la República es el jefe del Estado de Estonia.
+Artículo 78
+El Presidente de la República:
+1) representa a la República de Estonia en las relaciones internacionales;
+2) designa y destituye a los representantes diplomáticos de la
+República de Estonia, a propuesta del Gobierno de la República, y recibe los credenciales de los representantes diplomáticos
+acreditados en Estonia;
+3) declara las elecciones ordinarias al Parlamento y, conforme a
+los artículos 89, 97, 105 y 119 de la Constitución, elecciones
+extraordinarias al Parlamento;
+4) convoca a los nuevos miembros del Parlamento, conforme al
+artículo 66 de la Constitución, y abre su primera sesión;
+5) propone al Presidente del Parlamento que convoque sesión
+extraordinaria del Parlamento, conforme al artículo 68 de la
+Constitución;
+6) promulga las leyes, conforme a los artículos 105 y 107 de la
+Constitución, y firma los instrumentos de ratificación;
+7) publica los decretos, conforme a los artículos 109 y 110 de la
+Constitución;
+CONSTITUCIÓN DE ESTONIA 255
+8) inicia la reforma de la Constitución;
+9) designa el candidato a Primer Ministro, conforme al ARTÍCULO 89 de la Constitución;
+10) designa y cesa de su cargo a los miembros del Gobierno, conforme a los artículos 89, 90, y 92 de la Constitución;
+11) hace propuestas al Parlamento para el nombramiento de los
+cargos de Juez Supremo del Tribunal Supremo, Presidente del
+Consejo del Banco de Estonia, Interventor General, Canciller
+de Justicia, y Comandante o Comandante en Jefe de las Fuerzas Armadas;
+12) a propuesta del Consejo del Banco de Estonia, designa al Presidente del Banco de Estonia;
+13) a propuesta del Tribunal Supremo, designa a los jueces;
+14) a propuesta del Gobierno de la República y del Comandante de
+las Fuerzas Armadas, designa y cesa de su cargo a la dirección
+de las Fuerzas Armadas;
+15) confiere las condecoraciones del Estado, y los rangos militares
+y diplomáticos;
+16) es el comandante supremo de la defensa nacional de Estonia;
+17) propone al Parlamento la declaración de estado de guerra, solicita la movilización y la desmovilización, y, conforme al artículo 129 de la Constitución, declara el estado de emergencia;
+18) declara, en caso de agresión contra Estonia, el estado de guerra,
+ordena la movilización, y designa al Comandante en Jefe de las
+Fuerzas Armadas, conforme al artículo 128 de la Constitución;
+19) por medio del derecho de gracia, libera y condona la pena al
+convicto que lo solicite;
+20) inicia los cargos criminales contra el Canciller de Justicia, conforme al artículo 145 de la Constitución.
+Artículo 79
+El Presidente de la República será elegido por el Parlamento, o, en
+el caso establecido en el párrafo cuatro de esta sección, por un cuerpo
+electoral.
+256 REVISTA DE LAS CORTES GENERALES
+El derecho a designar candidato a Presidente de la República
+corresponde al menos a una quinta parte de los miembros del Parlamento.
+El ciudadano estonio de nacimiento que ha alcanzado la edad de
+cuarenta años puede ser designado candidato a Presidente de la República.
+El Presidente de la República es elegido en votación secreta. Cada
+miembro del Parlamento tiene un voto. El candidato en favor del cual
+se haya pronunciado una mayoría de dos tercios del Parlamento será
+elegido. Si ningún candidato obtiene la mayoría requerida, al día
+siguiente se celebrará una nueva ronda de votaciones. Antes de la
+segunda ronda de votaciones, se llevará a cabo una nueva designación
+de candidatos. Si ningún candidato obtiene la mayoría requerida en una
+segunda ronda de votaciones, se procederá, el mismo día, a una tercera
+ronda de votaciones entre los dos candidatos que hayan obtenido el
+mayor número de votos en la segunda ronda. Si todavía no resulta elegido el Presidente de la República en la tercera ronda de votaciones, el
+Presidente del Parlamento, en el plazo de un mes, convocará un cuerpo electoral para elegir al Presidente de la República.
+El cuerpo electoral estará formado por los miembros del Parlamento y representantes de los Consejos de Gobierno local. Cada Consejo de
+Gobierno local elegirá al menos a un representante al cuerpo electoral,
+que debe ser ciudadano estonio.
+El Parlamento presentará al cuerpo electoral a los dos candidatos
+que han recibido el mayor número de votos en el Parlamento. El derecho a designar a un candidato a Presidente también corresponderá a
+veintiún miembros, al menos, del cuerpo electoral.
+El cuerpo electoral elegirá al Presidente de la República por mayoría de los miembros del cuerpo electoral. Si no se elige a ningún candidato en una primera ronda, se celebrará una segunda ronda de votaciones en el mismo día entre los dos candidatos que hayan recibido el
+mayor número de votos.
+El procedimiento específico para la elección del Presidente de la
+República estará establecido en la Ley de elección del Presidente de
+la República.
+CONSTITUCIÓN DE ESTONIA 257
+Artículo 80
+El Presidente de la República será elegido por un período de cinco
+años. Nadie será elegido para el cargo de Presidente de la República por
+más de dos períodos consecutivos.
+La elección ordinaria del Presidente de la República será celebrada
+entre sesenta y diez días antes del fin del período de mandato del Presidente de la República.
+Artículo 81
+El Presidente de la República asumirá su cargo pronunciando el
+siguiente juramento por el pueblo de Estonia ante el Parlamento: «Asumiendo el cargo de Presidente de la República, yo (nombre y apellidos), juro solemnemente defender firmemente la Constitución y las
+leyes de la República de Estonia, ejercer el poder que me ha sido confiado de forma justa e imparcial, y realizar fielmente mis deberes con
+toda mi capacidad y mi mejor entender, para el bien del pueblo de Estonia y de la República de Estonia».
+Artículo 82
+Las facultades del Presidente de la República terminan:
+1) si dimite de su cargo;
+2) si deviene efectiva una condena judicial contra él;
+3) si fallece;
+4) cuando asuma el cargo el nuevo Presidente de la República.
+Artículo 83
+Si el Presidente de la República está incapacitado para realizar sus
+deberes por un amplio período de tiempo según decisión del Tribunal
+Supremo, o si está temporalmente incapacitado para realizarlos en los
+casos especificados en la ley, o si sus poderes han terminado anticipadamente, sus deberes se transferirán temporalmente al Presidente del
+Parlamento.
+258 REVISTA DE LAS CORTES GENERALES
+Durante el tiempo que el Presidente del Parlamento está realizando
+las funciones del Presidente de la República, sus facultades como
+miembro del Parlamento estarán suspendidas.
+El Presidente del Parlamento, actuando como Presidente de la
+República, no tiene el derecho, sin el consentimiento del Tribunal
+Supremo, de convocar elecciones extraordinarias al Parlamento o
+rechazar la promulgación de las leyes.
+Si el Presidente de la República no puede realizar sus deberes oficiales por un período mayor de tres meses consecutivos, o si sus facultades
+cesan anticipadamente, el Parlamento elegirá al nuevo Presidente de la
+República en catorce días, conforme al artículo 79 de la Constitución.
+Artículo 84
+Una vez asumido su cargo, la autoridad y los deberes del Presidente de la República en todos los cargos que haya sido elegido o designado terminarán, y se suspenderá su pertenencia a partidos políticos
+durante la duración de su cargo.
+Artículo 85
+Los cargos criminales contra el Presidente de la República solamente pueden ser presentados a propuesta del Canciller de Justicia, y
+con el consentimiento de la mayoría de los miembros del Parlamento.
+CAPÍTULO VI
+GOBIERNO DE LA REPÚBLICA
+Artículo 86
+El poder ejecutivo reside en el Gobierno de la República.
+Artículo 87
+El Gobierno de la República:
+CONSTITUCIÓN DE ESTONIA 259
+1) ejecuta la política interior y exterior del Estado;
+2) dirige y coordina las actividades de los órganos del gobierno;
+3) ejecuta y desarrolla las leyes, las resoluciones del Parlamento,
+y la legislación del Presidente de la República;
+4) presenta proyectos de ley, y somete los tratados internacionales
+al Parlamento para su ratificación y denuncia;
+5) prepara el proyecto de presupuesto de Estado y lo somete al
+Parlamento, administra la puesta en práctica del presupuesto
+del Estado y presenta un informe sobre la puesta en práctica del
+presupuesto de Estado al Parlamento;
+6) aprueba reglamentos y órdenes en ejecución y desarrollo de la ley;
+7) lleva a cabo las relaciones con otros Estados;
+8) declara las situaciones de emergencia en el Estado o en parte de
+él, en el caso de un desastre natural o de una catástrofe, o para
+prevenir la propagación de una enfermedad infecciosa;
+9) realiza otros deberes que la Constitución y las leyes reconocen
+al Gobierno de la República.
+Artículo 88
+El Gobierno de la República está compuesto del Primer Ministro y
+los ministros.
+Artículo 89
+El Presidente de la República, en el plazo de catorce días después
+de la dimisión del Gobierno de la República, designará a un candidato
+a Primer Ministro a quién el Presidente de la República asignará la
+tarea de formar un nuevo Gobierno.
+El candidato a Primer Ministro, en el plazo de catorce días después
+de recibir la tarea de formar un nuevo Gobierno, presentará la formación del Gobierno próximo al Parlamento, después de lo cual el Parlamento decidirá, sin discusión y en votación pública, autorizar al candidato a Primer Ministro a formar Gobierno.
+260 REVISTA DE LAS CORTES GENERALES
+El candidato a Primer Ministro que es autorizado por el Parlamento
+a formar Gobierno presentará, en el plazo de siete días, a los miembros
+del Gobierno al Presidente de la República, que designará al Gobierno
+en el plazo de tres días.
+Si el candidato a Primer Ministro designado por el Presidente de la
+República no recibe una mayoría de votos a favor del Parlamento, o
+es incapaz o rechaza formar Gobierno, el Presidente de la República
+podrá presentar un segundo candidato a Primer Ministro en el plazo de
+siete días.
+Si el Presidente de la República no presenta un segundo candidato
+dentro de los siete días o declina hacerlo, o si el segundo candidato no
+es capaz de obtener la aprobación del Parlamento bajo las condiciones
+y en el tiempo establecidos en los párrafos dos y tres de esta sección, o
+es incapaz o declina formar un Gobierno, entonces el derecho de nominar a un candidato a Primer Ministro pasará al Parlamento.
+El Parlamento nombrará al candidato a Primer Ministro, quien presentará los miembros del Gobierno al Presidente de la República. Si los
+miembros del Gobierno no son presentados al Presidente de la República en el plazo de catorce días después de la transferencia al Parlamento
+del derecho a nominar al candidato a Primer Ministro, el Presidente de la
+República convocará elecciones extraordinarias al Parlamento.
+Artículo 90
+Las modificaciones en las mencionadas candidaturas a miembros
+del Gobierno de la República serán hechas por el Presidente de la
+República, a propuesta del Primer Ministro.
+Artículo 91
+El Gobierno asumirá su cargo prestando juramento ante el Parlamento.
+Artículo 92
+El Gobierno de la República cesará por:
+CONSTITUCIÓN DE ESTONIA 261
+1) por acuerdo de los nuevos miembros del Parlamento;
+2) la dimisión o muerte del Primer Ministro;
+3) la moción de censura al Gobierno de la República o al Primer
+Ministro por el Parlamento.
+El Presidente de la República cesará al Gobierno de la República de
+su cargo tras las asunción del cargo por el nuevo Gobierno.
+Artículo 93
+El Primer Ministro representará al Gobierno de la República y dirigirá sus actividades.
+El Primer Ministro designará a dos ministros que le sustituirán
+durante su ausencia. El procedimiento para la substitución será establecido por el Primer Ministro.
+Artículo 94
+Los Ministerios correspondientes estarán establecidos, conforme a
+ley, para la administración de las áreas del Gobierno.
+El ministro dirigirá el Ministerio, llevará a cabo los asuntos que
+afecten a su área de Gobierno, aprobará las regulaciones y las ordenanzas para la ejecución de la ley, y realizará otros deberes a él asignados
+conforme al procedimiento previsto en la ley.
+Si un ministro es temporalmente incapaz de llevar a cabo las funciones de su cargo a causa de enfermedad u otros obstáculos, el Primer
+Ministro transferirá los deberes del ministro a otro ministro durante este
+tiempo.
+El Presidente de la República puede, a propuesta del Primer Ministro, designar ministros sin cartera.
+Artículo 95
+La Cancillería estatal, dirigida por la Secretaría de Estado, está dentro del Gobierno de la República.
+262 REVISTA DE LAS CORTES GENERALES
+La Secretaría de Estado será designada y cesará en su cargo por el
+Primer Ministro.
+La Secretaría de Estado participará en las sesiones del Gobierno
+con derecho a voz.
+La Secretaría de Estado, como director de la Cancillería del Estado,
+tiene los mismos derechos que son concedidos por la ley a un Ministro
+para dirigir su ministerio.
+Artículo 96
+Las sesiones del Gobierno de la República serán a puerta cerrada, a
+menos que el Gobierno lo decida de otra manera.
+El Gobierno tomará sus decisiones a propuesta del Primer Ministro
+o el ministro apropiado.
+Las regulaciones del Gobierno gozarán de eficacia si llevan las firmas del Primer Ministro, el ministro correspondiente y la Secretaría de
+Estado.
+Artículo 97
+El Parlamento puede expresar su falta de confianza en el Gobierno de
+la República, Primer Ministro, o un ministro por una resolución a favor de
+la cual haya votado la mayoría de los miembros del Parlamento.
+La moción de censura se puede iniciar por al menos un quinto de
+los miembros del Parlamento mediante la presentación de una moción
+escrita en sesión del Parlamento.
+La moción de censura se decidirá después del segundo día desde
+su presentación, salvo que el Gobierno requiera una decisión más
+rápida.
+Si se expresa la falta de confianza en el Gobierno o en el Primer
+Ministro, el Presidente de la República puede, a propuesta del Gobierno y en el plazo de tres días, declarar elecciones extraordinarias al Parlamento.
+CONSTITUCIÓN DE ESTONIA 263
+Si se expresa la falta de confianza en un ministro, el Presidente del
+Parlamento lo notificará al Presidente de la República, que cesará al
+ministro de su cargo.
+Puede iniciarse una moción de censura por los mismos motivos en
+el plazo de tres meses.
+Artículo 98
+El Gobierno de la República puede vincular la aprobación de
+un proyecto de ley que presente al Parlamento a la obtención de su
+confianza.
+La votación no tendrá lugar con anterioridad al segundo día después
+de que la proposición de ley se vincule a la obtención de la confianza.
+Si el Parlamento no aprueba el proyecto, el Gobierno dimitirá.
+Artículo 99
+Los miembros del Gobierno de la República no ostentarán ningún
+otro cargo de Estado, ni pertenecerán al consejo de administración o al
+consejo de supervisión de una sociedad mercantil.
+Artículo 100
+Los miembros del Gobierno de la República pueden participar en
+las sesiones del Parlamento y de sus comités con voz.
+Artículo 101
+Los cargos criminales contra un miembro del Gobierno de la
+República sólo pueden ser presentados a propuesta del Canciller de
+Justicia, y con el consentimiento de la mayoría de los miembros del
+Parlamento.
+Las potestades de un miembro del Gobierno finalizarán si deviene
+efectiva una sentencia de un tribunal contra él.
+264 REVISTA DE LAS CORTES GENERALES
+CAPÍTULO VII
+LEGISLACIÓN
+Artículo 102
+Las Leyes serán aprobadas de conformidad con la Constitución.
+Artículo 103
+Tienen derecho a iniciar el procedimiento legislativo:
+1) un miembro del Parlamento;
+2) un grupo del Parlamento;
+3) un comité del Parlamento;
+4) el Gobierno de la República;
+5) el Presidente de la República, para la reforma de la Constitución.
+El Parlamento tiene derecho, en base a una resolución hecha por la
+mayoría de sus miembros, a proponer al Gobierno de la República iniciar un proyecto de ley.
+Artículo 104
+El procedimiento para la aprobación de proyectos de ley será establecido en la Ley de Procedimiento del Parlamento.
+Las leyes siguientes se pueden aprobar y enmendar solamente por
+mayoría de los miembros del Parlamento:
+1) Ley de la ciudadanía;
+2) Ley de elección del Parlamento;
+3) Ley de elección del Presidente de la República;
+4) Ley de elección del Gobierno local;
+5) Ley de referéndum;
+6) Ley del procedimiento del Parlamento y Ley de administración
+del Parlamento;
+7) Ley de remuneración del Presidente de la República y miembros del Parlamento;
+CONSTITUCIÓN DE ESTONIA 265
+8) Ley del Gobierno de la República;
+9) Ley de institución de procedimientos jurisdiccionales contra el
+Presidente de la República y los miembros del Gobierno;
+10) Ley de la autonomía cultural de las minorías nacionales;
+11) Ley del Presupuesto del Estado;
+12) Ley del Banco de Estonia;
+13) Ley de la Oficina de la Intervención del Estado;
+14) Ley de la administración de los Tribunales y actos del procedimiento jurisdiccional;
+15) Leyes sobre préstamos nacionales y extranjeros del Estado, y
+de las obligaciones del Estado;
+16) Ley del estado de emergencia;
+17) Ley de defensa nacional en tiempo de paz y Ley de defensa
+nacional en tiempo de guerra.
+Artículo 105
+El Parlamento tiene derecho de someter un proyecto de ley u otro
+asunto nacional a referéndum.
+La decisión del pueblo será adoptada por mayoría de los participantes en la votación.
+Una ley aprobada por un referéndum será promulgada inmediatamente por el Presidente de la República. La decisión del referéndum
+será obligatoria para todas las instituciones del Estado.
+Cuando un proyecto de ley que se somete a un referéndum no recibe mayoría de votos a favor, el Presidente de la República convocará
+elecciones extraordinarias al Parlamento.
+Artículo 106
+Los asuntos referidos al presupuesto, impuestos, obligaciones financieras del Estado, ratificación y denuncia de tratados internacionales,
+declaración o finalización de un Estado de emergencia, o la defensa
+nacional no pueden ser sometidos a referéndum.
+266 REVISTA DE LAS CORTES GENERALES
+El procedimiento para celebrar un referéndum será el establecido en
+la Ley de referéndum.
+Artículo 107
+Las leyes serán promulgadas por el Presidente de la República.
+El Presidente de la República puede rechazar promulgar una ley
+aprobada por el Parlamento y, en el plazo de catorce días tras su recepción, devolverla junto con su resolución razonada, al Parlamento para
+un nuevo debate y decisión. Si el Parlamento aprueba otra vez la ley
+que fue devuelta por el Presidente de la República, sin modificaciones
+o enmiendas, el Presidente de la República deberá promulgar la ley o
+proponer al Tribunal Supremo que declare su inconstitucionalidad. Si el
+Tribunal Supremo declara que la ley es constitucional, el Presidente de
+la República deberá promulgar la ley.
+Artículo 108
+Una ley entrará en vigor al décimo día de su publicación en la
+Gaceta del Estado (2), salvo que la ley establezca otro plazo.
+Artículo 109
+Si el Parlamento no puede reunirse, el Presidente de la República
+puede, en materias de necesidad urgente del Estado, aprobar decretos
+con fuerza de ley, que llevarán el refrendo del Presidente del Parlamento y del Primer Ministro.
+Cuando el Parlamento se reúna, el Presidente de la República presentará los decretos al Parlamento, que aprobará inmediatamente una
+ley para su confirmación o derogación.
+Artículo 110
+La Constitución, las leyes previstas en el artículo 104 de la Constitución, las leyes que establezcan los impuestos de Estado, y el presu-
+(2) Se denomina Riigi Teataja
+CONSTITUCIÓN DE ESTONIA 267
+puesto del Estado no podrán ser aprobadas modificadas o derogadas
+por decreto del Presidente de la República.
+CAPÍTULO VIII
+FINANZAS Y PRESUPUESTO ESTATAL
+Artículo 111
+El Banco de Estonia tiene el derecho exclusivo de emitir moneda
+estonia. El Banco de Estonia regulará la circulación de la moneda y
+mantendrá la estabilidad de la divisa nacional.
+Artículo 112
+El Banco de Estonia actuará conforme a la ley e informará al
+Parlamento.
+Artículo 113
+Los impuestos, derechos, honorarios, multas y pagos del seguro
+obligatorio estatales estarán establecidos por ley.
+Artículo 114
+Los procedimientos para la posesión, uso y disposición de los activos del Estado estarán previstos en la ley.
+Artículo 115
+El Parlamento aprobará como ley el presupuesto de todos los ingresos y gastos del Estado para cada año.
+El Gobierno de la República someterá un borrador del presupuesto
+del Estado al Parlamento antes de tres meses del comienzo del año presupuestario.
+A propuesta del Gobierno, el Parlamento puede aprobar un presupuesto suplementario durante el año presupuestario.
+268 REVISTA DE LAS CORTES GENERALES
+Artículo 116
+Si una propuesta de reforma al presupuesto estatal o su borrador
+supone la disminución de los ingresos estimados, o el aumento de los
+gastos, o su reasignación, el proponente de la reforma ha de incorporar
+a la reforma propuesta los cálculos financieros que demuestren las
+fuentes de ingresos necesarios para cubrir los gastos.
+El Parlamento no eliminará ni reducirá los gastos establecidos en el
+presupuesto estatal o en su borrador por otras leyes.
+Artículo 117
+Los procedimientos para la elaboración del borrador y la aprobación del presupuesto del Estado estarán establecidos en la ley.
+Artículo 118
+El presupuesto estatal aprobado por el Parlamento entrará en vigor
+al principio del año presupuestario. Si el Parlamento no aprueba el presupuesto estatal al principio del año presupuestario, cada mes se podrá
+gastar hasta una doceava parte del gasto del año presupuestario anterior.
+Artículo 119
+Si el Parlamento no ha aprobado el presupuesto estatal en el plazo
+de dos meses desde el inicio del año presupuestario, el Presidente de la
+República convocará elecciones extraordinarias al Parlamento.
+CAPÍTULO IX
+RELACIONES EXTERIORES Y TRATADOS INTERNACIONALES
+Artículo 120
+El procedimiento relativo a las relaciones de la República de Estonia con otros Estados y las organizaciones internacionales estará previsto en la ley.
+CONSTITUCIÓN DE ESTONIA 269
+Artículo 121
+El Parlamento ratificará y denunciará los tratados de la República
+de Estonia:
+1) que alteren las fronteras del Estado;
+2) cuya puesta en práctica requiera la aprobación, reforma o derogación de leyes estonias;
+3) por los cuales la República de Estonia se incorpore a organizaciones o instituciones internacionales;
+4) por los cuales la República de Estonia asuma obligaciones militares o de propiedad;
+5) en los que se prescriba la ratificación.
+Artículo 122
+Las fronteras terrestres de Estonia están determinado por el Tratado
+de Paz de Tartu de 2 de febrero de 1920 y por otros acuerdos de fronteras internacionales. Las fronteras marítimas y aéreas de Estonia estarán determinadas por los convenios internacionales.
+La ratificación de los tratados internacionales que alteran las fronteras del Estado de Estonia requiere una mayoría de dos tercios de los
+miembros del Parlamento.
+Artículo 123
+La República de Estonia no suscribirá Tratados Internacionales que
+estén en contradicción con la Constitución.
+Si las leyes u otra legislación de Estonia están en conflicto con Tratados Internacionales ratificados por el Parlamento, se aplicarán las
+previsiones del Tratado Internacional.
+270 REVISTA DE LAS CORTES GENERALES
+CAPÍTULO X
+DEFENSA NACIONAL
+Artículo 124
+Los ciudadanos estonios tienen el deber de participar en la defensa
+nacional conforme al procedimiento establecido en la ley.
+La persona que rechace desempeñar servicios en las Fuerzas
+Armadas por razones religiosas o morales tiene el deber de realizar un
+servicio sustitutorio conforme al procedimiento establecido en la ley.
+Las personas que presten sus servicios tanto en las Fuerzas Armadas como en el servicio sustitutorio tienen todos los derechos constitucionales, las libertades y los deberes, salvo que la ley disponga otra
+cosa por el interés especial del servicio. Los derechos y las libertadas
+previstos en los párrafos 3 y 4 del artículo 8, artículos 11 a 18, párrafo
+3 del artículo 20, artículos 21 a 28, artículo 32, artículo 33, artículos 36
+a 43, párrafos 1 y 2 del artículo 44 y artículos 49 a 51 de la Constitución no podrán ser limitados. El estatuto y régimen de las personas en
+las Fuerzas Armadas y en el servicio sustitutorio estará establecido
+en la ley.
+Artículo 125
+Una persona en el servicio activo no ostentará otro cargo electo o
+designado, ni participará en las actividades de cualquier partido político.
+Artículo 126
+La organización de la defensa nacional estará establecida en la Ley
+de Defensa Nacional en tiempo de paz y en la Ley de Defensa Nacional en tiempo de guerra.
+La organización de las Fuerzas Armadas estonias y de las organizaciones de defensa nacional estará establecida en la ley.
+CONSTITUCIÓN DE ESTONIA 271
+Artículo 127
+El Comandante Supremo de la defensa nacional es el Presidente de
+la República.
+El Consejo de defensa nacional es un organismo consultivo del Presidente de la República, y sus miembros y tareas estarán previstos por
+la ley.
+Las Fuerzas Armadas estonias y las organizaciones de defensa
+nacional estarán dirigidas por el Comandante de las Fuerzas Armadas
+en tiempo de paz, y por el Comandante en Jefe de las Fuerzas Armadas
+en tiempo de guerra. El Comandante y el Comandante en Jefe de las
+Fuerzas Armadas estarán designados y serán cesados de su cargo por el
+Parlamento, a propuesta del Presidente de la República.
+Artículo 128
+El Parlamento, a propuesta del Presidente de la República, declarará el estado de guerra, pedirá la movilización y la desmovilización, y
+decidirá sobre la participación de las Fuerzas Armadas en el cumplimiento de las obligaciones internacionales del Estado estonio.
+En caso de agresión contra la República de Estonia, el Presidente de
+la República declarará el estado de guerra, pedirá la movilización, y
+designará al Comandante en Jefe de las Fuerzas Armadas sin esperar la
+resolución del Parlamento.
+Artículo 129
+En el caso de amenaza al orden constitucional estonio, el Parlamento puede, a propuesta del Presidente de la República o del Gobierno de Estonia, por mayoría de sus miembros, declarar el estado de
+emergencia para todo el Estado, pero por un tiempo inferior a tres
+meses.
+La organización del estado de emergencia estará establecida en la ley.
+272 REVISTA DE LAS CORTES GENERALES
+Artículo 130
+Durante un estado de emergencia o un estado de guerra, los derechos y las libertades de una persona pueden ser restringidos, y los deberes sustituidos en interés de la seguridad nacional y el orden público,
+bajo las condiciones y conforme al procedimiento establecido en la ley.
+Los derechos y las libertades establecidos en el artículo 8, artículos 11
+a 18, párrafo 3 del artículo 20, artículo 22, artículo 23, párrafos 2 y 4
+del artículo 24, artículo 25, artículo 27, artículo 28, párrafo 2 del artículo 36, artículo 40, artículo 41, artículo 49 y el párrafo 1 del artículo
+51 de la Constitución no pueden ser limitados.
+Artículo 131
+Durante un estado de emergencia o un estado de guerra, el Parlamento, el Presidente de la República, y los órganos representativos de
+los Gobiernos locales no podrán ser elegidos, ni cesar en su mandato.
+La autoridad del Parlamento, el Presidente de la República y los
+órganos representativos de los Gobiernos locales continuarán en su
+cargo si éste termina durante un estado de emergencia o un estado de
+guerra o en el plazo de tres meses tras la terminación del estado de
+emergencia o del estado de guerra. En estos casos, las nuevas elecciones se convocarán en el plazo de tres meses tras la finalización del estado de emergencia o del estado de guerra.
+CAPÍTULO XI
+LA OFICINA DE LA INTERVENCIÓN DEL ESTADO
+Artículo 132
+La Oficina de la Intervención del Estado será, en sus actividades, un
+órgano independiente del Estado y responsable del control económico.
+Artículo 133
+La Oficina de la Intervención del Estado revisará:
+CONSTITUCIÓN DE ESTONIA 273
+1) las actividades económicas de los órganos estatales, empresas
+estatales y otras organizaciones estatales;
+2) el uso y la preservación de los activos del Estado;
+3) el uso y la disposición de los activos del Estado cuyo control ha
+sido transferido a los Gobiernos locales;
+4) las actividades económicas de las empresas en las cuales el
+Estado posea más de la mitad de los votos por medio de participaciones o acciones o aquellos préstamos u obligaciones contractuales que estén garantizadas por el Estado.
+Artículo 134
+La Oficina de la Intervención del Estado será dirigida por el Interventor General que será designado y separado de su cargo por el Parlamento, a propuesta del Presidente de la República.
+La duración del cargo de Interventor General será de cinco años.
+Artículo 135
+El Interventor General presentará al Parlamento una memoria
+sobre el uso y mantenimiento de los activos de Estado durante el año
+presupuestario precedente al mismo tiempo que el informe sobre la
+puesta en práctica del presupuesto estatal es debatido en el Parlamento.
+Artículo 136
+El Interventor General puede participar en las sesiones del Gobierno de la República en las cuales se debatan asuntos relativos a su competencia, con voz.
+El Interventor General, como director de su oficina, tiene los mismos derechos que la ley garantiza a los ministros en la dirección de su
+Ministerio.
+274 REVISTA DE LAS CORTES GENERALES
+Artículo 137
+La organización de la Oficina de la Intervención del Estado estará
+regulada por ley.
+Artículo 138
+Contra el Interventor General se podrán elevar acusaciones criminales sólo a propuesta del Canciller de la justicia, y con el consentimiento de la mayoría de los miembros del Parlamento.
+CAPÍTULO XII
+CANCILLER DE JUSTICIA
+Artículo 139
+El Canciller de Justicia será, en sus actividades, un funcionario
+independiente que revisará las normas aprobadas por los poderes ejecutivo y legislativo y los Gobiernos locales, de acuerdo con la Constitución y leyes.
+El Canciller de Justicia revisará, en las materias de su competencia,
+las propuestas de reforma de leyes, aprobación de nuevas leyes, y las
+actividades de los órganos estatales, y, si fuera necesario, presentará un
+informe al Parlamento.
+El Canciller de Justicia, en los casos establecidos por los artículos
+76, 85, 101, 138 y 153 de la Constitución, podrá hacer una proposición
+al Parlamento de cargos criminales contra los miembros del Parlamento, el Presidente de la República, un miembro del Gobierno de la
+República, el Interventor General, el Juez Principal del Tribunal Supremo, o un juez del Tribunal Supremo.
+Artículo 140
+El Canciller de Justicia será designado por el Parlamento, a propuesta del Presidente de la República, por un período de siete años.
+CONSTITUCIÓN DE ESTONIA 275
+El Canciller de Justicia únicamente puede ser separado de su cargo
+por resolución judicial.
+Artículo 141
+El Canciller de Justicia, en la dirección de su oficina, tiene los mismos derechos garantizados por la ley a un ministro en la dirección de
+su Ministerio.
+El Canciller de Justicia puede participar en las sesiones del Parlamento y del Gobierno de la República, con voz.
+Artículo 142
+Si el Canciller de Justicia considera que una norma aprobada por
+el poder legislativo o ejecutivo o por un Gobierno local contradice la
+Constitución o la ley, instará al órgano que aprobó la norma para que
+la adecue al contenido de la Constitución o la ley en el plazo de veinte días.
+Si la norma no se adecua a la Constitución o a la ley en el plazo de
+veinte días, el Canciller de Justicia propondrá al Tribunal Supremo que
+la declare inválida.
+Artículo 143
+El Canciller de Justicia presentará un informe anual al Parlamento sobre la conformidad de las normas aprobadas por el poder legislativo y el ejecutivo y por los Gobiernos locales con la Constitución
+y las leyes.
+Artículo 144
+El estatuto jurídico del Canciller de Justicia y la organización de su
+oficina estarán regulados por ley.
+276 REVISTA DE LAS CORTES GENERALES
+Artículo 145
+Contra el Canciller de Justicia sólo se podrán elevar acusaciones
+criminales a propuesta del Presidente de la República, y con el consentimiento de la mayoría de los miembros del Parlamento.
+CAPÍTULO XIII
+LOS TRIBUNALES
+Artículo 146
+La justicia será administrada solamente por los Tribunales. Los Tribunales son independientes en sus actividades y administrarán justicia
+de acuerdo con la Constitución y las leyes.
+Artículo 147
+Los jueces serán nombrados con carácter vitalicio. Las causas y el
+procedimiento para la remoción de los jueces de su cargo estarán establecidos en la ley.
+Los jueces únicamente podrán ser separados de su cargo por resolución judicial.
+Los jueces no pueden tener ningún otro cargo electivo o nombramiento, excepto en los casos previstos en la ley.
+El estatuto jurídico de los jueces y las garantías de su independencia estarán establecidas en la ley.
+Artículo 148
+El sistema judicial consiste en:
+1) Juzgados provinciales y municipales, y juzgados administrativos;
+2) Juzgados de apelación;
+3) Tribunal Supremo.
+CONSTITUCIÓN DE ESTONIA 277
+La creación de Tribunales especializados con jurisdicción específica se regulará por ley.
+Se prohíben los Tribunales de excepción.
+Artículo 149
+Los Juzgados provinciales y municipales, y los Juzgados administrativos son juzgados de primera instancia.
+Los Juzgados de apelación son tribunales de apelación y revisarán
+las sentencias de los juzgados de primera instancia a través de los procedimientos de apelación.
+El Tribunal Supremo es la instancia suprema del Estado y revisará las
+sentencias de los juzgados y tribunales por el procedimiento de casación.
+El Tribunal Supremo es también el tribunal de revisión constitucional.
+Las normas relativas a la administración de los juzgados y las normas
+de los procedimientos de los juzgados estarán establecidos en la ley.
+Artículo 150
+El Juez Principal del Tribunal Supremo será nombrado por el Parlamento, a propuesta del Presidente de la República.
+Los jueces del Tribunal Supremo serán nombrados por el Parlamento, a propuesta del Juez Principal del Tribunal Supremo.
+Los otros jueces serán nombrados por el Presidente de la República, a propuesta del Tribunal Supremo.
+Artículo 151
+Las normas de los procedimientos de los tribunales sobre la representación, defensa, acusación estatal y supervisión de la legalidad estarán establecidas en la ley.
+278 REVISTA DE LAS CORTES GENERALES
+Artículo 152
+En los procedimientos jurisdiccionales, el Tribunal puede no aplicar
+cualquier ley u otra norma que esté en contradicción con la Constitución.
+El Tribunal Supremo declarará la invalidez de cualquier ley u otra
+norma que esté en contradicción con las disposiciones y el espíritu de
+la Constitución.
+Artículo 153
+Un Juez sólo puede ser acusado criminalmente durante el ejercicio
+de su cargo a propuesta del Tribunal Supremo, y con el consentimiento
+del Presidente de la República.
+El Juez principal y los Jueces del Tribunal sólo pueden ser acusados
+criminalmente durante el ejercicio de su cargo a propuesta del Canciller de Justicia, y con el consentimiento de la mayoría de los miembros
+del Parlamento.
+CAPÍTULO XIV
+EL GOBIERNO LOCAL
+Artículo 154
+Todos los asuntos locales serán resueltos y gestionados por los Gobiernos locales, que actuarán con autonomía y de conformidad con la ley.
+Sólo pueden ser impuestos deberes a un Gobierno local conforme a
+la ley o mediante acuerdo con el Gobierno local. El gasto relativo a los
+deberes impuestos por el Estado a un Gobierno local por ley será financiado con el presupuesto estatal.
+Artículo 155
+Los Gobiernos locales son los municipios rurales y las ciudades.
+CONSTITUCIÓN DE ESTONIA 279
+Se pueden formar otros Gobiernos locales conforme al procedimiento previsto en la ley.
+Artículo 156
+El órgano de representación de un Gobierno local es el Consejo que
+será elegido en elecciones libres por un período de tres años. Las elecciones serán generales, uniformes y directas. El voto es secreto.
+En las elecciones a los Consejos del Gobierno local, tienen derecho
+de voto, bajo las condiciones establecidas en la ley, las personas que
+hayan residido permanentemente en el territorio del Gobierno local y
+hayan alcanzado la edad de dieciocho años.
+Artículo 157
+Cada Gobierno local tendrá un presupuesto independiente cuyas
+bases y el procedimiento para su borrador estará establecido en la ley.
+Cada Gobierno local tiene el derecho, en virtud de la ley, de establecer y de recaudar impuestos, y de imponer obligaciones.
+Artículo 158
+Los límites de los Gobiernos locales no serán alterados sin considerar la opinión de los Gobiernos locales afectados.
+Artículo 159
+Cada Gobierno local tiene el derecho a crear consorcios y a constituir órganos con otros Gobiernos locales.
+Artículo 160
+La administración de los Gobiernos locales y la supervisión de sus
+actividades estarán establecidas en la ley.
+280 REVISTA DE LAS CORTES GENERALES
+CAPÍTULO XV
+REFORMA DE LA CONSTITUCIÓN
+Artículo 161
+El derecho a iniciar una reforma constitucional reside en al menos
+un quinto de los miembros del Parlamento y en el Presidente de la
+República.
+El procedimiento de reforma de la Constitución no se podrá iniciar,
+ni la Constitución podrá ser modificada, durante un estado de emergencia o un estado de guerra.
+Artículo 162
+Los Capítulos I «Disposiciones generales» y XV «Reforma de la
+Constitución» de la Constitución sólo pueden ser modificados por
+referéndum.
+Artículo 163
+La Constitución se modificará por una Ley que se haya aprobado:
+1) por referéndum;
+2) por dos sucesivas legislaturas del Parlamento;
+3) por el Parlamento, con carácter de urgente.
+Un proyecto de reforma de la Constitución será discutido en tres
+lecturas en el Parlamento, siendo el intervalo de tiempo entre la primera y la segunda lectura de al menos tres meses, y el intervalo entre
+la segunda y la tercera lectura de al menos un mes. La forma en la que
+la Constitución vaya a ser modificada, se decidirá en la tercera lectura.
+Artículo 164
+Es necesaria una mayoría de tres quintos de los miembros del Parlamento para someter un proyecto de reforma de la Constitución a refeCONSTITUCIÓN DE ESTONIA 281
+réndum. El referéndum se celebrara transcurridos tres meses desde la
+aprobación del proyecto de reforma por el Parlamento.
+Artículo 165
+Para modificar la Constitución en dos mandatos sucesivos del Parlamento, el proyecto de reforma de la Constitución debe ser apoyado
+por la mayoría de los miembros del Parlamento.
+Si el proyecto de reforma de la Constitución que ha recibido el
+apoyo de la mayoría de los miembros precedentes del Parlamento es
+aprobado sin modificaciones en su primera lectura y con una mayoría
+de tres quintos por el siguiente Parlamento, la Ley de Reforma de la
+Constitución quedará aprobada.
+Artículo 166
+La resolución para considerar un proyecto de reforma de la Constitución como urgente, ha de ser aprobada por una mayoría de cuatro quintos
+del Parlamento. En este caso, la Ley de Reforma de la Constitución se
+aprobará con una mayoría de dos tercios de los miembros del Parlamento.
+Artículo 167
+La Ley de Reforma de la Constitución será promulgada por el Presidente de la República y entrará en vigor en la fecha especificada en aquélla, que no será inferior a tres meses desde la fecha de su promulgación.
+Artículo 168
+Hasta un año después del rechazo de un proyecto de reforma por
+referéndum o por el Parlamento, no se podrá plantear una reforma
+constitucional sobre el mismo asunto.
