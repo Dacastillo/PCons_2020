@@ -1,43 +1,9 @@
-Principios Fundamentales
-• Dignidad humana Artículo 1: De la República Portuguesa
-• Tipo de gobierno concebido
-Portugal es una República soberana, basada en la dignidad de la persona y en la
-voluntad popular y empeñada en construir una sociedad libre, justa y solidaria.
-Artículo 2: Estado Democrático de Derecho
-La República portuguesa es un Estado Democrático basado en el Derecho, la
-soberanía del pueblo, la expresión y organización democrática plural, el respeto y la
-garantía de la implementación efectiva de los derechos y libertades fundamentales, y
-la separación e interdependencia de poderes, todo ello con la perspectiva de
-alcanzar la democracia económica social y cultural y profundamente participativa.
-Artículo 3: Soberanía y legalidad
-1. La soberanía, una e indivisible, reside en el pueblo, que la ejerce con arreglo a las
-modalidades previstas en la Constitución.
-2. El Estado está sometido a la Constitución y es un Estado Democrático de
-Derecho.
-3. La validez de las leyes y otras normas del Estado, las Regiones Autónomas, los
-gobiernos locales y cualquier otro órgano público depende de su conformidad
-con esta Constitución.
-• Requisitos para obtener nacionalidad por Artículo 4: De la ciudadanía portuguesa
-nacimiento
-Son ciudadanos portugueses todos aquellos que sean considerados como tales por la
-ley o por una convención internacional.
-constituteproject.org PDF generado 04 feb 2020, 23:43
-Portugal 1976 (rev. 2005) Pagina 12
-Artículo 5: Del territorio
-1. Portugal abarca el territorio históricamente delimitado en el continente
-europeo y los archipiélagos de las Azores y Madeira.
-• Grupo(s) regionales
-2. La ley definirá la extensión y el límite de las aguas territoriales, su zona
-económica exclusiva y sus derechos sobre el fondo marino.
-3. Sin perjuicio de las rectificaciones de fronteras, el Estado no podrá enajenar
-parte alguna del territorio portugués o de los derechos de soberanía que ejerza
-sobre aquél.
-Artículo 6: Estado Unitario
-1. El Estado es Unitario, y respetará en su organización el principio de autonomía
-de las islas y el principio de subsidiariedad, la autonomía de las entidades locales
-y la descentralización democrática de la Administración Pública.
-2. Los archipiélagos de las Azores y de Madeira serán Regiones autónomas con su
-propio estatuto político-administrativo e instituciones de autogobierno.
+1.1. Portugal es una República soberana, basada en la dignidad de la persona y en la voluntad popular que busca construir una sociedad libre, justa y solidaria.
+1.2. La República es un Estado Democrático basado en el Derecho, la soberanía del pueblo, la expresión y organización democrática plural, el respeto y la garantía de la implementación efectiva de los derechos y libertades fundamentales, y la separación e interdependencia de poderes, todo ello con la perspectiva de alcanzar la democracia económica social y cultural y profundamente participativa.
+1.3. La soberanía, una e indivisible, reside en el pueblo, que la ejerce con arreglo a las modalidades previstas en la Constitución. El Estado está sometido a la Constitución y es un Estado Democrático de Derecho. La validez de las leyes y otras normas del Estado, las Regiones Autónomas, los gobiernos locales y cualquier otro órgano público depende de su conformidad
+1.4. De la ciudadanía portuguesa. Son ciudadanos portugueses todos aquellos que sean considerados como tales por la ley o por una convención internacional.
+1.5. Portugal abarca el territorio históricamente delimitado en el continente europeo y los archipiélagos de las Azores y Madeira. La ley definirá la extensión y el límite de las aguas territoriales, su zona económica exclusiva y sus derechos sobre el fondo marino. Sin perjuicio de las rectificaciones de fronteras, el Estado no podrá enajenar parte alguna del territorio portugués o de los derechos de soberanía que ejerza sobre aquél.
+1.6. El Estado es Unitario, y respetará en su organización el principio de autonomía de las islas y el principio de subsidiariedad, la autonomía de las entidades locales y la descentralización democrática de la Administración Pública. Los archipiélagos de las Azores y de Madeira serán Regiones autónomas con su propio estatuto político-administrativo e instituciones de autogobierno.
 Artículo 7: De las relaciones internacionales
 1. Portugal se regirá en las relaciones internacionales por los principios de
 independencia nacional, respeto a los derechos humanos, a los derechos de los
